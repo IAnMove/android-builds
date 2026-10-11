@@ -18,7 +18,7 @@ Estado: **publicable** · Paquete `com.ina.ciudadmuerta` · Versión 0.1 (versio
 | Público objetivo | 13+ (no dirigido a niños; si se declara para familias aplica la política de Familias) |
 | Clasificación (IARC), pistas | Violencia contra zombis con armas, botín y muerte del personaje; arte generado con IA. Probable PEGI 12/16 según el cuestionario IARC (sangre: comprobar). Evitar nombrar «Diablo II» en la ficha (marca registrada); en la web se ha dejado la frase, revisar. |
 | Código fuente | — |
-| APK | [`ciudadmuerta.apk`](https://github.com/IAnMove/android-builds/releases/download/ciudadmuerta-v0.1/ciudadmuerta.apk) · 69.5 MB · SHA-256 `6cfc8ef14174acbe6c03e3d43773994498a06efdb3fa35371577bc770ca15667` (APK de depuración, firmado con la clave debug: sirve para pruebas internas e *internal app sharing*; para producción Play exige un AAB firmado con clave de subida) |
+| APK | [`ciudadmuerta.apk`](https://github.com/IAnMove/android-builds/releases/download/ciudadmuerta-v0.1/ciudadmuerta.apk) · 69.5 MB · SHA-256 `6cfc8ef14174acbe6c03e3d43773994498a06efdb3fa35371577bc770ca15667` (APK de depuración, firmado con la clave debug: sirve para *internal app sharing* (Play lo admite en APK); para los tracks de prueba y producción de una app nueva Play exige un AAB firmado con clave de subida) |
 
 ## Descripción breve (ES, ≤80)
 

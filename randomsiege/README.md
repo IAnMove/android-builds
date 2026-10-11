@@ -18,7 +18,7 @@ Estado: **prototipo** · Paquete `com.ina.randomsiege` · Versión 0.1.0 (versio
 | Público objetivo | 13+ (no dirigido a niños; si se declara para familias aplica la política de Familias) |
 | Clasificación (IARC), pistas | Violencia fantástica de píxeles (espada y flechas contra monstruos). Probable PEGI 7. |
 | Código fuente | — |
-| APK | [`randomsiege.apk`](https://github.com/IAnMove/android-builds/releases/download/randomsiege-v0.1.0/randomsiege.apk) · 42.2 MB · SHA-256 `2fbcd0aea46d5788c751b0d75172714016a78acce2dcecfc3405b32bcb357887` (APK de depuración, firmado con la clave debug: sirve para pruebas internas e *internal app sharing*; para producción Play exige un AAB firmado con clave de subida) |
+| APK | [`randomsiege.apk`](https://github.com/IAnMove/android-builds/releases/download/randomsiege-v0.1.0/randomsiege.apk) · 42.2 MB · SHA-256 `2fbcd0aea46d5788c751b0d75172714016a78acce2dcecfc3405b32bcb357887` (APK de depuración, firmado con la clave debug: sirve para *internal app sharing* (Play lo admite en APK); para los tracks de prueba y producción de una app nueva Play exige un AAB firmado con clave de subida) |
 
 ## Descripción breve (ES, ≤80)
 

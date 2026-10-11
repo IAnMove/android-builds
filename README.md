@@ -32,7 +32,7 @@ Estados: **publicable** (listo salvo lo pendiente abajo), **prototipo** (funcion
 ## Antes de publicar cualquiera
 
 - Play Console exige un **Android App Bundle (.aab)** firmado con una clave de subida para producción; los APK de
-  aquí son de depuración y sirven para pruebas internas e *internal app sharing*.
+  aquí son de depuración y sirven para *internal app sharing*; para los tracks de prueba de una app nueva hace falta el AAB.
 - Correo de contacto público: PENDIENTE: correo público de contacto obligatorio en Play Console.
 - Con una cuenta personal nueva hace falta una prueba cerrada con 12 probadores durante 14 días por cada app.
 - Los juegos con **nombre provisional** (Isaac Clone, Mini Sims, Factorio Clone) deben cambiar de nombre: la

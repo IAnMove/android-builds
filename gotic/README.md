@@ -18,7 +18,7 @@ Estado: **publicable** · Paquete `com.ina.gotic` · Versión 0.1 (versionCode 1
 | Público objetivo | 13+ (no dirigido a niños; si se declara para familias aplica la política de Familias) |
 | Clasificación (IARC), pistas | Violencia fantástica muy leve (lobos que dispersan ovejas, sombras que embisten). Sin sangre. |
 | Código fuente | — |
-| APK | [`gotic.apk`](https://github.com/IAnMove/android-builds/releases/download/gotic-v0.1/gotic.apk) · 57.0 MB · SHA-256 `8cc76311dd2a5ed440fc808aaf3c252f36b57a7f92aafff098c664ce644ddb67` (APK de depuración, firmado con la clave debug: sirve para pruebas internas e *internal app sharing*; para producción Play exige un AAB firmado con clave de subida) |
+| APK | [`gotic.apk`](https://github.com/IAnMove/android-builds/releases/download/gotic-v0.1/gotic.apk) · 57.0 MB · SHA-256 `8cc76311dd2a5ed440fc808aaf3c252f36b57a7f92aafff098c664ce644ddb67` (APK de depuración, firmado con la clave debug: sirve para *internal app sharing* (Play lo admite en APK); para los tracks de prueba y producción de una app nueva Play exige un AAB firmado con clave de subida) |
 
 ## Descripción breve (ES, ≤80)
 

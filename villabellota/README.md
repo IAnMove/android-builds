@@ -18,7 +18,7 @@ Estado: **publicable** · Paquete `com.ina.villabellota` · Versión 1.0 (versio
 | Público objetivo | 13+ (no dirigido a niños; si se declara para familias aplica la política de Familias) |
 | Clasificación (IARC), pistas | Sin violencia. Apto para todos los públicos. No nombrar «Animal Crossing» en la ficha de Play (marca registrada). |
 | Código fuente | — |
-| APK | [`villabellota.apk`](https://github.com/IAnMove/android-builds/releases/download/villabellota-v1.0/villabellota.apk) · 56.1 MB · SHA-256 `8544748e7ca46fe8e0b5507ceb8bd737c37038b9aabb8c1bf227844126b481c4` (APK de depuración, firmado con la clave debug: sirve para pruebas internas e *internal app sharing*; para producción Play exige un AAB firmado con clave de subida) |
+| APK | [`villabellota.apk`](https://github.com/IAnMove/android-builds/releases/download/villabellota-v1.0/villabellota.apk) · 56.1 MB · SHA-256 `8544748e7ca46fe8e0b5507ceb8bd737c37038b9aabb8c1bf227844126b481c4` (APK de depuración, firmado con la clave debug: sirve para *internal app sharing* (Play lo admite en APK); para los tracks de prueba y producción de una app nueva Play exige un AAB firmado con clave de subida) |
 
 ## Descripción breve (ES, ≤80)
 

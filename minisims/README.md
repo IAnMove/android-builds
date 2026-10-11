@@ -20,7 +20,7 @@ Estado: **prototipo** · Paquete `com.ina.minisims` · Versión 0.1 (versionCode
 | Público objetivo | 13+ (no dirigido a niños; si se declara para familias aplica la política de Familias) |
 | Clasificación (IARC), pistas | Sin violencia (un ladrón puede visitar la casa). Apto para todos los públicos. Cambiar el nombre antes de publicar. |
 | Código fuente | — |
-| APK | [`minisims.apk`](https://github.com/IAnMove/android-builds/releases/download/minisims-v0.1/minisims.apk) · 40.8 MB · SHA-256 `717378941a295ffaa91d1b0aed0bc2dcb08f5c5cc83ff4d44106670f381be023` (APK de depuración, firmado con la clave debug: sirve para pruebas internas e *internal app sharing*; para producción Play exige un AAB firmado con clave de subida) |
+| APK | [`minisims.apk`](https://github.com/IAnMove/android-builds/releases/download/minisims-v0.1/minisims.apk) · 40.8 MB · SHA-256 `717378941a295ffaa91d1b0aed0bc2dcb08f5c5cc83ff4d44106670f381be023` (APK de depuración, firmado con la clave debug: sirve para *internal app sharing* (Play lo admite en APK); para los tracks de prueba y producción de una app nueva Play exige un AAB firmado con clave de subida) |
 
 ## Descripción breve (ES, ≤80)
 

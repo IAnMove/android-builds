@@ -18,7 +18,7 @@ Estado: **publicable** · Paquete `com.ina.huerto` · Versión 1.0 (versionCode 
 | Público objetivo | 13+ (no dirigido a niños; si se declara para familias aplica la política de Familias) |
 | Clasificación (IARC), pistas | Sin violencia. Apto para todos los públicos; si se declara para familias, aplica la política de Familias de Play. |
 | Código fuente | — |
-| APK | [`huerto.apk`](https://github.com/IAnMove/android-builds/releases/download/huerto-v1.0/huerto.apk) · 57.8 MB · SHA-256 `3e729c0a1618c1b8ec9f9c10930d0c8117003ad9055a686c586af38b2b405b34` (APK de depuración, firmado con la clave debug: sirve para pruebas internas e *internal app sharing*; para producción Play exige un AAB firmado con clave de subida) |
+| APK | [`huerto.apk`](https://github.com/IAnMove/android-builds/releases/download/huerto-v1.0/huerto.apk) · 57.8 MB · SHA-256 `3e729c0a1618c1b8ec9f9c10930d0c8117003ad9055a686c586af38b2b405b34` (APK de depuración, firmado con la clave debug: sirve para *internal app sharing* (Play lo admite en APK); para los tracks de prueba y producción de una app nueva Play exige un AAB firmado con clave de subida) |
 
 ## Descripción breve (ES, ≤80)
 

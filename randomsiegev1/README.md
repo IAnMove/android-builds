@@ -18,7 +18,7 @@ Estado: **duplicado** · Paquete `com.ina.randomsiegev1` · Versión 0.1.0 (vers
 | Público objetivo | 13+ (no dirigido a niños; si se declara para familias aplica la política de Familias) |
 | Clasificación (IARC), pistas | Como Random Siege. No publicar: es una copia anterior. |
 | Código fuente | — |
-| APK | [`randomsiegev1.apk`](https://github.com/IAnMove/android-builds/releases/download/randomsiegev1-v0.1.0/randomsiegev1.apk) · 42.0 MB · SHA-256 `56f99d56ea18a3331e53a8a2d347ffee3391a5d79792341aa444fa808d2e4dac` (APK de depuración, firmado con la clave debug: sirve para pruebas internas e *internal app sharing*; para producción Play exige un AAB firmado con clave de subida) |
+| APK | [`randomsiegev1.apk`](https://github.com/IAnMove/android-builds/releases/download/randomsiegev1-v0.1.0/randomsiegev1.apk) · 42.0 MB · SHA-256 `56f99d56ea18a3331e53a8a2d347ffee3391a5d79792341aa444fa808d2e4dac` (APK de depuración, firmado con la clave debug: sirve para *internal app sharing* (Play lo admite en APK); para los tracks de prueba y producción de una app nueva Play exige un AAB firmado con clave de subida) |
 
 ## Descripción breve (ES, ≤80)
 

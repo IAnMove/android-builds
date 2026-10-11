@@ -20,7 +20,7 @@ Estado: **prototipo** · Paquete `com.ina.isaac` · Versión 0.1.0 (versionCode 
 | Público objetivo | 13+ (no dirigido a niños; si se declara para familias aplica la política de Familias) |
 | Clasificación (IARC), pistas | Violencia fantástica contra monstruos con disparos, objetos como «sacrificio» (vida a cambio de objeto). Probable PEGI 12. Cambiar el nombre antes de publicar. |
 | Código fuente | — |
-| APK | [`isaac.apk`](https://github.com/IAnMove/android-builds/releases/download/isaac-v0.1.0/isaac.apk) · 58.3 MB · SHA-256 `bc6c4b6435c8eae71a9d7781a7f6ccdafb2ce93a9d746ce03bddd3d0d5212208` (APK de depuración, firmado con la clave debug: sirve para pruebas internas e *internal app sharing*; para producción Play exige un AAB firmado con clave de subida) |
+| APK | [`isaac.apk`](https://github.com/IAnMove/android-builds/releases/download/isaac-v0.1.0/isaac.apk) · 58.3 MB · SHA-256 `bc6c4b6435c8eae71a9d7781a7f6ccdafb2ce93a9d746ce03bddd3d0d5212208` (APK de depuración, firmado con la clave debug: sirve para *internal app sharing* (Play lo admite en APK); para los tracks de prueba y producción de una app nueva Play exige un AAB firmado con clave de subida) |
 
 ## Descripción breve (ES, ≤80)
 

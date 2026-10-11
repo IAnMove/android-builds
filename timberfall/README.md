@@ -18,7 +18,7 @@ Estado: **publicable** · Paquete `com.ianmove.timberfall` · Versión 0.1.0 (ve
 | Público objetivo | 13+ (no dirigido a niños; si se declara para familias aplica la política de Familias) |
 | Clasificación (IARC), pistas | Sin violencia contra personas (se talan árboles, se apagan incendios). Apto para todos los públicos. |
 | Código fuente | https://github.com/IAnMove/Timberfall |
-| APK | [`timberfall.apk`](https://github.com/IAnMove/android-builds/releases/download/timberfall-v0.1.0/timberfall.apk) · 39.6 MB · SHA-256 `568c6cc80034887561ad7791fd4624981459d9f49c1573b08188020d10ac6723` (APK de depuración, firmado con la clave debug: sirve para pruebas internas e *internal app sharing*; para producción Play exige un AAB firmado con clave de subida) |
+| APK | [`timberfall.apk`](https://github.com/IAnMove/android-builds/releases/download/timberfall-v0.1.0/timberfall.apk) · 39.6 MB · SHA-256 `568c6cc80034887561ad7791fd4624981459d9f49c1573b08188020d10ac6723` (APK de depuración, firmado con la clave debug: sirve para *internal app sharing* (Play lo admite en APK); para los tracks de prueba y producción de una app nueva Play exige un AAB firmado con clave de subida) |
 
 ## Descripción breve (ES, ≤80)
 

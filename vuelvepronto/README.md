@@ -18,7 +18,7 @@ Estado: **prototipo** · Paquete `com.ina.vuelvepronto` · Versión 0.1 (version
 | Público objetivo | 13+ (no dirigido a niños; si se declara para familias aplica la política de Familias) |
 | Clasificación (IARC), pistas | Temas de muerte (atropello, limbo, demonios) tratados de forma estilizada; violencia fantástica leve. Probable PEGI 12 por el tema. |
 | Código fuente | — |
-| APK | [`vuelvepronto.apk`](https://github.com/IAnMove/android-builds/releases/download/vuelvepronto-v0.1/vuelvepronto.apk) · 39.1 MB · SHA-256 `1941cae1015665a7bd961e4cf09d521f8eef525710a86fa00987f428cd931845` (APK de depuración, firmado con la clave debug: sirve para pruebas internas e *internal app sharing*; para producción Play exige un AAB firmado con clave de subida) |
+| APK | [`vuelvepronto.apk`](https://github.com/IAnMove/android-builds/releases/download/vuelvepronto-v0.1/vuelvepronto.apk) · 39.1 MB · SHA-256 `1941cae1015665a7bd961e4cf09d521f8eef525710a86fa00987f428cd931845` (APK de depuración, firmado con la clave debug: sirve para *internal app sharing* (Play lo admite en APK); para los tracks de prueba y producción de una app nueva Play exige un AAB firmado con clave de subida) |
 
 ## Descripción breve (ES, ≤80)
 

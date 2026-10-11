@@ -20,7 +20,7 @@ Estado: **prototipo** · Paquete `com.ina.factorio` · Versión 0.1 (versionCode
 | Público objetivo | 13+ (no dirigido a niños; si se declara para familias aplica la política de Familias) |
 | Clasificación (IARC), pistas | Violencia leve contra bichos (torretas). Probable PEGI 7. Cambiar el nombre antes de publicar. |
 | Código fuente | — |
-| APK | [`factorio.apk`](https://github.com/IAnMove/android-builds/releases/download/factorio-v0.1/factorio.apk) · 48.2 MB · SHA-256 `8ddec29acbbdf6c405e917c49cd0090f2f95dee039808f736ce99c43986d8956` (APK de depuración, firmado con la clave debug: sirve para pruebas internas e *internal app sharing*; para producción Play exige un AAB firmado con clave de subida) |
+| APK | [`factorio.apk`](https://github.com/IAnMove/android-builds/releases/download/factorio-v0.1/factorio.apk) · 48.2 MB · SHA-256 `8ddec29acbbdf6c405e917c49cd0090f2f95dee039808f736ce99c43986d8956` (APK de depuración, firmado con la clave debug: sirve para *internal app sharing* (Play lo admite en APK); para los tracks de prueba y producción de una app nueva Play exige un AAB firmado con clave de subida) |
 
 ## Descripción breve (ES, ≤80)
 

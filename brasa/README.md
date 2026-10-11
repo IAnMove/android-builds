@@ -18,7 +18,7 @@ Estado: **publicable** · Paquete `com.ina.brasa` · Versión 1.0 (versionCode 1
 | Público objetivo | 13+ (no dirigido a niños; si se declara para familias aplica la política de Familias) |
 | Clasificación (IARC), pistas | Violencia fantástica leve (sombras abstractas, sin sangre). Hay botones «REVIVIR (ver anuncio)» y «DUPLICAR BRASAS (ver anuncio)» que hoy conceden la recompensa sin mostrar ningún anuncio (no hay SDK). Revisar antes de declarar «sin anuncios». |
 | Código fuente | — |
-| APK | [`brasa.apk`](https://github.com/IAnMove/android-builds/releases/download/brasa-v1.0/brasa.apk) · 56.7 MB · SHA-256 `53ddabf91fc78d67a18c6e6167aae57794488c66ab350d2d96d4bb54a16258aa` (APK de depuración, firmado con la clave debug: sirve para pruebas internas e *internal app sharing*; para producción Play exige un AAB firmado con clave de subida) |
+| APK | [`brasa.apk`](https://github.com/IAnMove/android-builds/releases/download/brasa-v1.0/brasa.apk) · 56.7 MB · SHA-256 `53ddabf91fc78d67a18c6e6167aae57794488c66ab350d2d96d4bb54a16258aa` (APK de depuración, firmado con la clave debug: sirve para *internal app sharing* (Play lo admite en APK); para los tracks de prueba y producción de una app nueva Play exige un AAB firmado con clave de subida) |
 
 ## Descripción breve (ES, ≤80)
 
