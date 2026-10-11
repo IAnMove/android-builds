@@ -33,7 +33,7 @@ Estados: **publicable** (listo salvo lo pendiente abajo), **prototipo** (funcion
 ## Antes de publicar cualquiera
 
 - Cada AAB va firmado con la **clave de subida** propia del juego (una por paquete, guardada fuera de GitHub); al crear
-  la app en Play Console hay que aceptar Play App Signing. Paquetes definitivos `es.iaen.<slug>`, target SDK 36, versionCode 1.
+  la app en Play Console hay que aceptar Play App Signing. Paquetes definitivos `es.iaen.<slug>`, target SDK 36 (configurado en el preset), versionCode el del preset de cada juego.
 - Correo de contacto público: PENDIENTE: correo público de contacto obligatorio en Play Console.
 - Con una cuenta personal nueva hace falta una prueba cerrada con 12 probadores durante 14 días por cada app.
 - Los juegos con **nombre provisional** (Isaac Clone, Mini Sims, Factorio Clone) deben cambiar de nombre: la
