@@ -1,0 +1,13 @@
+Un juego de automatización en 2D: taladros, hornos, cintas transportadoras, brazos, postes eléctricos y ensambladores con recetas; laboratorio para investigar, torretas contra los bichos y un silo para lanzar el cohete final. Mapa de 160x160 casillas; se juega con teclado y ratón o con un joystick táctil.
+
+• Cadena de producción: Mineral, placas, engranajes, circuitos… hasta el cohete.
+• Cintas y brazos: Cintas, divisores, cintas subterráneas y brazos que giran por código.
+• Electricidad e investigación: Generadores de carbón, postes, laboratorio y tecnologías.
+• Bichos: Torretas para defender la fábrica.
+
+– Apaisado. Teclado y ratón o táctil.
+– Sin conexión, sin cuentas, sin anuncios.
+– Prototipo. Sprites generados con IA. El nombre «Factorio Clone» no sirve para Play (marca); se propone «Fábrica Planetaria».
+
+Hecho por IAnMove con Godot Engine. Sin anuncios, sin cuentas, sin conexión a internet.
+Más juegos: https://iaen.es/android · X: @theinaog

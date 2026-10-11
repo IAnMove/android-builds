@@ -1,0 +1,15 @@
+Empiezas con un hacha de piedra en una isla de pinos y acabas con una serrería, una cuadrilla de leñadores y un bosque de árboles ancestrales que tú mismo plantaste. Cada hachazo abre una muesca donde apuntas hasta que el árbol cae.
+
+• Talar y picar: Muescas en el tronco golpe a golpe; vetas de piedra que se desmoronan con el pico.
+• Vender y mejorar: Madera y tablones, hacha de cinco niveles, doce habilidades, aserradero y cuadrilla.
+• Islas: Construye la nave y refuérzala: cada nivel alcanza una isla más, con mejores árboles.
+• Reforestar: Planta semillas y decide si talar ya o esperar a que crezcan.
+• Día y noche: Incendios que apagar, dormir para pasar la noche, y progreso mientras no juegas.
+• Modo foto: Cámara libre para retratar tu bosque.
+
+– Apaisado. Joystick flotante y botones táctiles en el móvil; teclado y ratón en el PC.
+– Sin conexión, sin cuentas, sin anuncios. La partida se guarda en el dispositivo.
+– Código abierto: el proyecto está en GitHub. Modelos low-poly generados con Blender desde un script.
+
+Hecho por IAnMove con Godot Engine. Sin anuncios, sin cuentas, sin conexión a internet.
+Más juegos: https://iaen.es/android · X: @theinaog

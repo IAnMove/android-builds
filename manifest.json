@@ -1,0 +1,1158 @@
+{
+  "developer": "IAnMove",
+  "website": "https://iaen.es/android",
+  "x": "https://x.com/theinaog",
+  "contact_email": "PENDIENTE: correo público de contacto obligatorio en Play Console",
+  "generated": "2026-10-11",
+  "games": [
+    {
+      "slug": "brasa",
+      "name": "Brasa",
+      "title": {
+        "es": "Brasa",
+        "en": "Brasa"
+      },
+      "title_proposal": null,
+      "package": "com.ina.brasa",
+      "version_name": "1.0",
+      "version_code": 1,
+      "status": "publicable",
+      "category": "Juegos › Acción",
+      "genre": {
+        "es": "Acción · survivor",
+        "en": "Action · survivor"
+      },
+      "orientation": "portrait",
+      "short_description": {
+        "es": "Guarda la hoguera hasta el amanecer. Sobrevive 3 minutos con un dedo.",
+        "en": "Keep the bonfire alive until dawn. Survive 3 minutes with one thumb."
+      },
+      "full_description": {
+        "es": "Es de noche en el claro del bosque y las sombras llegan por los bordes. Solo la hoguera las mantiene a raya. Tú eres su guardián: te mueves con el pulgar, tu llama ataca sola y en tres minutos llega el jefe.\n\n• Un solo pulgar: Arrastra el dedo por la mitad inferior y el joystick nace donde tocas. Tu llama ataca sola a la sombra más cercana.\n• Luz y sombra: Dentro del círculo de luz tus ataques pegan más y las sombras van más lentas. Fuera, al revés. ¿Te arriesgas?\n• Astillas y leña: Las sombras sueltan astillas: recógelas para subir de nivel y llévalas a la hoguera para que no se apague.\n• Tres llamas: Chispa, aura de calor o antorcha. En cada nivel eliges una de tres mejoras.\n• La Gran Sombra: Partidas de 3 minutos que acaban con un jefe. Mátala y amanece.\n• Tienda de brasas: Entre partidas, gasta brasas en mejoras permanentes: vida, luz, leña, daño…\n\n– Vertical, pensado para jugar con una mano.\n– Sin conexión, sin registro, sin anuncios. Todo el progreso se guarda en el móvil.\n– Todo el arte y el sonido están hechos a mano para este juego.\n\nHecho por IAnMove con Godot Engine. Sin anuncios, sin cuentas, sin conexión a internet.\nMás juegos: https://iaen.es/android · X: @theinaog",
+        "en": "Night has fallen on the forest clearing and the shades are coming in from the edges. Only the bonfire keeps them at bay. You are its keeper: move with your thumb, your flame attacks on its own, and in three minutes the boss arrives.\n\n• One thumb: Drag your finger on the lower half and the joystick appears where you touch. Your flame attacks the nearest shade on its own.\n• Light and shadow: Inside the circle of light your attacks hit harder and the shades slow down. Outside, the opposite. Will you risk it?\n• Splinters and wood: Shades drop splinters: pick them up to level up and bring them to the bonfire so it never dies.\n• Three flames: Spark, heat aura or torch. Pick one of three upgrades on every level.\n• The Great Shade: 3-minute runs that end with a boss. Kill it and dawn breaks.\n• Ember shop: Between runs, spend embers on permanent upgrades: health, light, wood, damage…\n\n– Portrait, designed to be played with one hand.\n– Offline, no sign-up, no ads. All progress is saved on your phone.\n– All art and sound were made by hand for this game.\n\nMade by IAnMove with Godot Engine. No ads, no accounts, no internet connection.\nMore games: https://iaen.es/android · X: @theinaog"
+      },
+      "privacy_policy_url": "https://iaen.es/android/brasa/privacy/",
+      "website": "https://iaen.es/android/brasa/",
+      "contact_email": "PENDIENTE: correo público de contacto obligatorio en Play Console",
+      "developer": "IAnMove",
+      "x": "https://x.com/theinaog",
+      "source_url": null,
+      "ads": false,
+      "in_app_purchases": false,
+      "collects_data": false,
+      "internet_permission": false,
+      "target_audience": "13+ (no dirigido a niños; si se declara para familias aplica la política de Familias)",
+      "content_rating_hints": {
+        "es": "Violencia fantástica leve (sombras abstractas, sin sangre). Hay botones «REVIVIR (ver anuncio)» y «DUPLICAR BRASAS (ver anuncio)» que hoy conceden la recompensa sin mostrar ningún anuncio (no hay SDK). Revisar antes de declarar «sin anuncios».",
+        "en": "Mild fantasy violence (abstract shades, no blood). The REVIVE/DOUBLE EMBERS (watch ad) buttons currently grant the reward without showing any ad (no ad SDK). Review before declaring 'no ads'."
+      },
+      "apk": {
+        "file": "brasa.apk",
+        "bytes": 59447115,
+        "sha256": "53ddabf91fc78d67a18c6e6167aae57794488c66ab350d2d96d4bb54a16258aa",
+        "release_url": "https://github.com/IAnMove/android-builds/releases/download/brasa-v1.0/brasa.apk"
+      },
+      "images": {
+        "icon": "metadata/android/en-US/images/icon.png",
+        "feature_graphic": "metadata/android/en-US/images/featureGraphic.png",
+        "phone_screenshots": {
+          "es": [
+            "metadata/android/es-ES/images/phoneScreenshots/1_title.jpg",
+            "metadata/android/es-ES/images/phoneScreenshots/2_run_many.jpg",
+            "metadata/android/es-ES/images/phoneScreenshots/3_levelup.jpg",
+            "metadata/android/es-ES/images/phoneScreenshots/4_boss.jpg",
+            "metadata/android/es-ES/images/phoneScreenshots/5_end.jpg",
+            "metadata/android/es-ES/images/phoneScreenshots/6_shop.jpg"
+          ],
+          "en": [
+            "metadata/android/en-US/images/phoneScreenshots/1_title.jpg",
+            "metadata/android/en-US/images/phoneScreenshots/2_run_many.jpg",
+            "metadata/android/en-US/images/phoneScreenshots/3_levelup.jpg",
+            "metadata/android/en-US/images/phoneScreenshots/4_boss.jpg",
+            "metadata/android/en-US/images/phoneScreenshots/5_end.jpg",
+            "metadata/android/en-US/images/phoneScreenshots/6_shop.jpg"
+          ]
+        }
+      },
+      "generated": "2026-10-11"
+    },
+    {
+      "slug": "huerto",
+      "name": "Huerto",
+      "title": {
+        "es": "Huerto",
+        "en": "Huerto"
+      },
+      "title_proposal": null,
+      "package": "com.ina.huerto",
+      "version_name": "1.0",
+      "version_code": 1,
+      "status": "publicable",
+      "category": "Juegos › Simulación",
+      "genre": {
+        "es": "Cultivo · relajado",
+        "en": "Farming · relaxed"
+      },
+      "orientation": "portrait",
+      "short_description": {
+        "es": "Cava, planta, riega y cosecha. Nueve bancales, vecinos con pedidos y puzles.",
+        "en": "Dig, plant, water and harvest. Nine beds, neighbours with orders and puzzles."
+      },
+      "full_description": {
+        "es": "Un juego de cultivo tranquilo: vendes la cosecha o se la entregas a tus vecinos; el tiempo, los eventos del día y el nivel desbloquean semillas, terrenos y mejoras. Los cultivos siguen creciendo con la app cerrada.\n\n• Nueve bancales: Cava, planta, riega y cosecha con toques. Cada cultivo tiene su tiempo y su precio.\n• Vecinos: Marta, Domingo, Lola, Inés y Nico, con pedidos, gustos, visitas con decisiones, favores y regalos de amistad.\n• Semilleros: Puzles de encajar piezas con tres dificultades y pistas, para jugar mientras crecen los cultivos.\n• Restauración: Reconstruye el invernadero y el rincón vecinal, visibles al fondo del patio.\n• Recetario y álbum: Cinco recetas y cuatro colecciones con premios únicos.\n• Crece sin ti: El huerto sigue adelante con la app cerrada y te recibe al volver.\n\n– Vertical, para una mano.\n– Sin conexión, sin cuentas, sin anuncios. La partida se guarda en el móvil.\n– Modelos, texturas, iconos y audio generados por código para este juego.\n\nHecho por IAnMove con Godot Engine. Sin anuncios, sin cuentas, sin conexión a internet.\nMás juegos: https://iaen.es/android · X: @theinaog",
+        "en": "A calm farming game: sell your harvest or deliver it to your neighbours; time, daily events and your level unlock seeds, plots and upgrades. Crops keep growing while the app is closed.\n\n• Nine beds: Dig, plant, water and harvest with taps. Every crop has its own time and price.\n• Neighbours: Marta, Domingo, Lola, Inés and Nico, with orders, tastes, visits with choices, favours and friendship gifts.\n• Seed trays: Piece-fitting puzzles with three difficulties and hints, to play while the crops grow.\n• Restoration: Rebuild the greenhouse and the neighbours' corner, visible at the back of the patio.\n• Recipes and album: Five recipes and four collections with unique rewards.\n• Grows without you: The garden keeps going while the app is closed and welcomes you back.\n\n– Portrait, one-handed.\n– Offline, no accounts, no ads. Your game is saved on your phone.\n– Models, textures, icons and audio generated by code for this game.\n\nMade by IAnMove with Godot Engine. No ads, no accounts, no internet connection.\nMore games: https://iaen.es/android · X: @theinaog"
+      },
+      "privacy_policy_url": "https://iaen.es/android/huerto/privacy/",
+      "website": "https://iaen.es/android/huerto/",
+      "contact_email": "PENDIENTE: correo público de contacto obligatorio en Play Console",
+      "developer": "IAnMove",
+      "x": "https://x.com/theinaog",
+      "source_url": null,
+      "ads": false,
+      "in_app_purchases": false,
+      "collects_data": false,
+      "internet_permission": false,
+      "target_audience": "13+ (no dirigido a niños; si se declara para familias aplica la política de Familias)",
+      "content_rating_hints": {
+        "es": "Sin violencia. Apto para todos los públicos; si se declara para familias, aplica la política de Familias de Play.",
+        "en": "No violence. Suitable for everyone; declaring it for families triggers Play's Families policy."
+      },
+      "apk": {
+        "file": "huerto.apk",
+        "bytes": 60619568,
+        "sha256": "3e729c0a1618c1b8ec9f9c10930d0c8117003ad9055a686c586af38b2b405b34",
+        "release_url": "https://github.com/IAnMove/android-builds/releases/download/huerto-v1.0/huerto.apk"
+      },
+      "images": {
+        "icon": "metadata/android/en-US/images/icon.png",
+        "feature_graphic": "metadata/android/en-US/images/featureGraphic.png",
+        "phone_screenshots": {
+          "es": [
+            "metadata/android/es-ES/images/phoneScreenshots/1_overview.jpg",
+            "metadata/android/es-ES/images/phoneScreenshots/2_bed_crop.jpg",
+            "metadata/android/es-ES/images/phoneScreenshots/3_orders_happy.jpg",
+            "metadata/android/es-ES/images/phoneScreenshots/4_puzzle.jpg",
+            "metadata/android/es-ES/images/phoneScreenshots/5_picnic_garden.jpg",
+            "metadata/android/es-ES/images/phoneScreenshots/6_shop.jpg"
+          ],
+          "en": [
+            "metadata/android/en-US/images/phoneScreenshots/1_overview.jpg",
+            "metadata/android/en-US/images/phoneScreenshots/2_bed_crop.jpg",
+            "metadata/android/en-US/images/phoneScreenshots/3_orders_happy.jpg",
+            "metadata/android/en-US/images/phoneScreenshots/4_puzzle.jpg",
+            "metadata/android/en-US/images/phoneScreenshots/5_picnic_garden.jpg",
+            "metadata/android/en-US/images/phoneScreenshots/6_shop.jpg"
+          ]
+        }
+      },
+      "generated": "2026-10-11"
+    },
+    {
+      "slug": "pesca",
+      "name": "Pesca",
+      "title": {
+        "es": "Pesca",
+        "en": "Pesca"
+      },
+      "title_proposal": null,
+      "package": "com.ina.pesca",
+      "version_name": "1.0",
+      "version_code": 1,
+      "status": "publicable",
+      "category": "Juegos › Casual",
+      "genre": {
+        "es": "Pesca · casual",
+        "en": "Fishing · casual"
+      },
+      "orientation": "portrait",
+      "short_description": {
+        "es": "Lanza, espera la picada, clava y recoge. Pesca casual con tienda y vecinos.",
+        "en": "Cast, wait for the bite, hook and reel. Casual fishing with shop and neighbours."
+      },
+      "full_description": {
+        "es": "Mantén el botón para cargar el lanzamiento, mira cómo las sombras de los peces rondan la boya y toca a tiempo cuando pique. Al clavar, un minijuego de toques con tres barras: tiempo, hilo y fuerza del pez. Lanzar lejos saca peces más raros; de noche solo se ve lo que alumbra el farol.\n\n• Lanzar: Un toque corto lanza cerca; mantener, lejos. Cada zona tiene un banco de peces que se mueve cada tres horas.\n• La picada: La boya se hunde, vibra el móvil y suena un aviso: tienes 1,5 segundos para clavar.\n• Recoger: Toca dentro del círculo del pez; el centro es ¡PERFECTO!. Vigila el tiempo, el hilo y la fuerza del pez.\n• De noche: El farol se arrastra con el dedo y su luz atrae a los peces.\n• Niveles, cañas y cebos: Progreso por niveles, tienda, pedidos de los vecinos y peces con nombre.\n• Con la app cerrada: El juego avanza mientras no estás y te lo cuenta al volver.\n\n– Vertical, para una mano.\n– Sin conexión, sin cuentas, sin anuncios. La partida se guarda en el móvil.\n– Todo el arte 3D y el audio se generan por código.\n\nHecho por IAnMove con Godot Engine. Sin anuncios, sin cuentas, sin conexión a internet.\nMás juegos: https://iaen.es/android · X: @theinaog",
+        "en": "Hold the button to charge your cast, watch fish shadows circle the float and tap in time when one bites. Once hooked, a tap minigame with three bars: time, line and the fish's strength. Casting far brings rarer fish; at night you only see what the lantern lights.\n\n• Casting: A short tap casts near; holding casts far. Every area has a fish school that moves every three hours.\n• The bite: The float sinks, the phone buzzes and a sound warns you: you have 1.5 seconds to hook.\n• Reeling: Tap inside the fish's circle; the centre is PERFECT. Watch the time, the line and the fish's strength.\n• At night: Drag the lantern with your finger: its light attracts the fish.\n• Levels, rods and bait: Level progression, a shop, neighbours' orders and named fish.\n• While the app is closed: The game moves on while you are away and tells you about it when you come back.\n\n– Portrait, one-handed.\n– Offline, no accounts, no ads. Your game is saved on your phone.\n– All 3D art and audio are generated by code.\n\nMade by IAnMove with Godot Engine. No ads, no accounts, no internet connection.\nMore games: https://iaen.es/android · X: @theinaog"
+      },
+      "privacy_policy_url": "https://iaen.es/android/pesca/privacy/",
+      "website": "https://iaen.es/android/pesca/",
+      "contact_email": "PENDIENTE: correo público de contacto obligatorio en Play Console",
+      "developer": "IAnMove",
+      "x": "https://x.com/theinaog",
+      "source_url": null,
+      "ads": false,
+      "in_app_purchases": false,
+      "collects_data": false,
+      "internet_permission": false,
+      "target_audience": "13+ (no dirigido a niños; si se declara para familias aplica la política de Familias)",
+      "content_rating_hints": {
+        "es": "Sin violencia (pesca estilizada). Apto para todos los públicos.",
+        "en": "No violence (stylised fishing). Suitable for everyone."
+      },
+      "apk": {
+        "file": "pesca.apk",
+        "bytes": 60552288,
+        "sha256": "14dda06780025c0bedca2fd990169b6ae538882fc72482e13f9b208055e1eb81",
+        "release_url": "https://github.com/IAnMove/android-builds/releases/download/pesca-v1.0/pesca.apk"
+      },
+      "images": {
+        "icon": "metadata/android/en-US/images/icon.png",
+        "feature_graphic": "metadata/android/en-US/images/featureGraphic.png",
+        "phone_screenshots": {
+          "es": [
+            "metadata/android/es-ES/images/phoneScreenshots/1_main.jpg",
+            "metadata/android/es-ES/images/phoneScreenshots/2_biting.jpg",
+            "metadata/android/es-ES/images/phoneScreenshots/3_reeling.jpg",
+            "metadata/android/es-ES/images/phoneScreenshots/4_landed.jpg",
+            "metadata/android/es-ES/images/phoneScreenshots/5_lantern.jpg",
+            "metadata/android/es-ES/images/phoneScreenshots/6_album.jpg"
+          ],
+          "en": [
+            "metadata/android/en-US/images/phoneScreenshots/1_main.jpg",
+            "metadata/android/en-US/images/phoneScreenshots/2_biting.jpg",
+            "metadata/android/en-US/images/phoneScreenshots/3_reeling.jpg",
+            "metadata/android/en-US/images/phoneScreenshots/4_landed.jpg",
+            "metadata/android/en-US/images/phoneScreenshots/5_lantern.jpg",
+            "metadata/android/en-US/images/phoneScreenshots/6_album.jpg"
+          ]
+        }
+      },
+      "generated": "2026-10-11"
+    },
+    {
+      "slug": "gotic",
+      "name": "Gotic",
+      "title": {
+        "es": "Gotic",
+        "en": "Gotic"
+      },
+      "title_proposal": null,
+      "package": "com.ina.gotic",
+      "version_name": "0.1",
+      "version_code": 1,
+      "status": "publicable",
+      "category": "Juegos › Aventura",
+      "genre": {
+        "es": "Aventura · mundo abierto",
+        "en": "Adventure · open world"
+      },
+      "orientation": "landscape",
+      "short_description": {
+        "es": "Una isla para explorar: anda, nada, vuela en escoba y ayuda a sus vecinos.",
+        "en": "An island to explore: walk, swim, fly a broom and help its villagers."
+      },
+      "full_description": {
+        "es": "Una isla de unos 1,8 km² con playas, colinas, bosques, montañas y una meseta, generada por código. Hay una aldea habitada, un gigante, encargos, una carrera, un farol de luciérnagas y un rebaño perdido. Cada experiencia es un mod que se enciende o se apaga antes de jugar o durante la partida.\n\n• Brumacosta: Sigue el sendero desde la playa hasta la aldea: seis casas, mercado, molino, hoguera y cinco vecinos.\n• Brum, el gigante: Habla con él y salta sus tres ondas doradas. Ganar desbloquea un impulso al cielo.\n• La escoba: Cógela y vuela hasta 260 m de altura. Aterrizaje automático al bajar.\n• El farol de las luciérnagas: Disipa sombras con destellos, recupera las chispas y libera una compañera que te deja planear.\n• El rebaño perdido: Consigue el silbato, reúne a Nube, Mora y Trufa y guíalas al corral. Los lobos acechan.\n• Carrera y encargos: Cruza seis puertas contra el reloj y entrega flores a Lía. Récords persistentes.\n\n– Apaisado. Controles táctiles en el móvil; teclado y ratón en el PC.\n– Sin conexión, sin cuentas, sin anuncios. La partida se guarda en el dispositivo.\n– Todo el arte se genera por código. Versión 0.1: sigue en desarrollo.\n\nHecho por IAnMove con Godot Engine. Sin anuncios, sin cuentas, sin conexión a internet.\nMás juegos: https://iaen.es/android · X: @theinaog",
+        "en": "An island of about 1.8 km² with beaches, hills, forests, mountains and a plateau, all generated by code. There is a village, a giant, errands, a race, a firefly lantern and a lost flock. Each experience is a mod you can switch on or off before or during play.\n\n• Brumacosta: Follow the path from the beach to the village: six houses, a market, a mill, a bonfire and five villagers.\n• Brum the giant: Talk to him and jump over his three golden waves. Winning unlocks a leap into the sky.\n• The broom: Grab it and fly up to 260 m. Automatic landing when you come down.\n• The firefly lantern: Scatter shades with flashes, recover the sparks and free a companion that lets you glide.\n• The lost flock: Get the whistle, gather Nube, Mora and Trufa and guide them to the pen. Wolves are lurking.\n• Race and errands: Pass six gates against the clock and deliver flowers to Lía. Records are kept.\n\n– Landscape. Touch controls on mobile; keyboard and mouse on PC.\n– Offline, no accounts, no ads. Your game is saved on the device.\n– All art is generated by code. Version 0.1: still in development.\n\nMade by IAnMove with Godot Engine. No ads, no accounts, no internet connection.\nMore games: https://iaen.es/android · X: @theinaog"
+      },
+      "privacy_policy_url": "https://iaen.es/android/gotic/privacy/",
+      "website": "https://iaen.es/android/gotic/",
+      "contact_email": "PENDIENTE: correo público de contacto obligatorio en Play Console",
+      "developer": "IAnMove",
+      "x": "https://x.com/theinaog",
+      "source_url": null,
+      "ads": false,
+      "in_app_purchases": false,
+      "collects_data": false,
+      "internet_permission": false,
+      "target_audience": "13+ (no dirigido a niños; si se declara para familias aplica la política de Familias)",
+      "content_rating_hints": {
+        "es": "Violencia fantástica muy leve (lobos que dispersan ovejas, sombras que embisten). Sin sangre.",
+        "en": "Very mild fantasy violence (wolves scattering sheep, charging shades). No blood."
+      },
+      "apk": {
+        "file": "gotic.apk",
+        "bytes": 59820386,
+        "sha256": "8cc76311dd2a5ed440fc808aaf3c252f36b57a7f92aafff098c664ce644ddb67",
+        "release_url": "https://github.com/IAnMove/android-builds/releases/download/gotic-v0.1/gotic.apk"
+      },
+      "images": {
+        "icon": "metadata/android/en-US/images/icon.png",
+        "feature_graphic": "metadata/android/en-US/images/featureGraphic.png",
+        "phone_screenshots": {
+          "es": [
+            "metadata/android/es-ES/images/phoneScreenshots/1_inicio.jpg",
+            "metadata/android/es-ES/images/phoneScreenshots/2_main.jpg",
+            "metadata/android/es-ES/images/phoneScreenshots/3_pueblo.jpg",
+            "metadata/android/es-ES/images/phoneScreenshots/4_luciernagas.jpg",
+            "metadata/android/es-ES/images/phoneScreenshots/5_rebano.jpg",
+            "metadata/android/es-ES/images/phoneScreenshots/6_map.jpg"
+          ],
+          "en": [
+            "metadata/android/en-US/images/phoneScreenshots/1_inicio.jpg",
+            "metadata/android/en-US/images/phoneScreenshots/2_main.jpg",
+            "metadata/android/en-US/images/phoneScreenshots/3_pueblo.jpg",
+            "metadata/android/en-US/images/phoneScreenshots/4_luciernagas.jpg",
+            "metadata/android/en-US/images/phoneScreenshots/5_rebano.jpg",
+            "metadata/android/en-US/images/phoneScreenshots/6_map.jpg"
+          ]
+        }
+      },
+      "generated": "2026-10-11"
+    },
+    {
+      "slug": "ciudadmuerta",
+      "name": "Ciudad Muerta",
+      "title": {
+        "es": "Ciudad Muerta",
+        "en": "Ciudad Muerta"
+      },
+      "title_proposal": null,
+      "package": "com.ina.ciudadmuerta",
+      "version_name": "0.1",
+      "version_code": 1,
+      "status": "publicable",
+      "category": "Juegos › Rol",
+      "genre": {
+        "es": "ARPG · zombis",
+        "en": "ARPG · zombies"
+      },
+      "orientation": "landscape",
+      "short_description": {
+        "es": "ARPG isométrico en una ciudad actual invadida por zombis. Botín y hordas.",
+        "en": "Isometric ARPG in a modern city overrun by zombies. Loot, quests and hordes."
+      },
+      "full_description": {
+        "es": "ARPG isométrico de mundo abierto ambientado en Vallegrande, una ciudad de hoy tomada por la plaga. Mapa, combate, botín, habilidades, misiones y eventos; hordas que llegan de noche y un modo horda para sobrevivir en la arena del polígono.\n\n• Vallegrande: Una ciudad abierta con barrios, campamentos, hogueras que descubres y viaje rápido entre ellas.\n• Combate y botín: Ataca al más cercano, usa pociones y habilidades, equipa lo que encuentras desde la mochila.\n• Misiones y eventos: Encargos, grupos de enemigos que aparecen por el mapa y hordas al caer la noche.\n• Modo horda: Oleadas cada vez mayores hasta el amanecer. Cada nivel, elige una mejora.\n• Personajes: Varias clases, varias partidas guardadas y ciclo de día y noche.\n• Español e inglés: Interfaz en los dos idiomas; funciona con táctil, teclado y ratón o mando.\n\n– Apaisado. PC y Android.\n– Sin conexión, sin cuentas, sin anuncios. Las partidas se guardan en el dispositivo.\n– Base jugable (v0.1) pensada para seguir creciendo. Casi todo el arte está generado con IA; el sonido, por código.\n\nHecho por IAnMove con Godot Engine. Sin anuncios, sin cuentas, sin conexión a internet.\nMás juegos: https://iaen.es/android · X: @theinaog",
+        "en": "An isometric open-world ARPG set in Vallegrande, a present-day city taken by the plague. Map, combat, loot, skills, quests and events; hordes that come at night and a horde mode to survive in the industrial arena.\n\n• Vallegrande: An open city with districts, camps, bonfires you discover and fast travel between them.\n• Combat and loot: Attack the nearest, use potions and skills, equip what you find from your bag.\n• Quests and events: Errands, enemy groups popping up on the map and hordes when night falls.\n• Horde mode: Ever bigger waves until dawn. Pick an upgrade on every level.\n• Characters: Several classes, several saved games and a day-night cycle.\n• Spanish and English: Interface in both languages; works with touch, keyboard and mouse or gamepad.\n\n– Landscape. PC and Android.\n– Offline, no accounts, no ads. Saved games stay on the device.\n– A playable base (v0.1) meant to keep growing. Most art is AI-generated; the sound is generated by code.\n\nMade by IAnMove with Godot Engine. No ads, no accounts, no internet connection.\nMore games: https://iaen.es/android · X: @theinaog"
+      },
+      "privacy_policy_url": "https://iaen.es/android/ciudadmuerta/privacy/",
+      "website": "https://iaen.es/android/ciudadmuerta/",
+      "contact_email": "PENDIENTE: correo público de contacto obligatorio en Play Console",
+      "developer": "IAnMove",
+      "x": "https://x.com/theinaog",
+      "source_url": null,
+      "ads": false,
+      "in_app_purchases": false,
+      "collects_data": false,
+      "internet_permission": false,
+      "target_audience": "13+ (no dirigido a niños; si se declara para familias aplica la política de Familias)",
+      "content_rating_hints": {
+        "es": "Violencia contra zombis con armas, botín y muerte del personaje; arte generado con IA. Probable PEGI 12/16 según el cuestionario IARC (sangre: comprobar). Evitar nombrar «Diablo II» en la ficha (marca registrada); en la web se ha dejado la frase, revisar.",
+        "en": "Violence against zombies with weapons, loot and character death; AI-generated art. Likely PEGI 12/16 depending on the IARC questionnaire (blood: check). Avoid naming 'Diablo II' in the listing (trademark)."
+      },
+      "apk": {
+        "file": "ciudadmuerta.apk",
+        "bytes": 72863729,
+        "sha256": "6cfc8ef14174acbe6c03e3d43773994498a06efdb3fa35371577bc770ca15667",
+        "release_url": "https://github.com/IAnMove/android-builds/releases/download/ciudadmuerta-v0.1/ciudadmuerta.apk"
+      },
+      "images": {
+        "icon": "metadata/android/en-US/images/icon.png",
+        "feature_graphic": "metadata/android/en-US/images/featureGraphic.png",
+        "phone_screenshots": {
+          "es": [
+            "metadata/android/es-ES/images/phoneScreenshots/1_menu.jpg",
+            "metadata/android/es-ES/images/phoneScreenshots/2_game.jpg",
+            "metadata/android/es-ES/images/phoneScreenshots/3_combat.jpg",
+            "metadata/android/es-ES/images/phoneScreenshots/4_inv.jpg",
+            "metadata/android/es-ES/images/phoneScreenshots/5_vendor.jpg",
+            "metadata/android/es-ES/images/phoneScreenshots/6_horde.jpg"
+          ],
+          "en": [
+            "metadata/android/en-US/images/phoneScreenshots/1_menu.jpg",
+            "metadata/android/en-US/images/phoneScreenshots/2_game.jpg",
+            "metadata/android/en-US/images/phoneScreenshots/3_combat.jpg",
+            "metadata/android/en-US/images/phoneScreenshots/4_inv.jpg",
+            "metadata/android/en-US/images/phoneScreenshots/5_vendor.jpg",
+            "metadata/android/en-US/images/phoneScreenshots/6_horde.jpg"
+          ]
+        }
+      },
+      "generated": "2026-10-11"
+    },
+    {
+      "slug": "timberfall",
+      "name": "Timberfall",
+      "title": {
+        "es": "Timberfall",
+        "en": "Timberfall"
+      },
+      "title_proposal": null,
+      "package": "com.ianmove.timberfall",
+      "version_name": "0.1.0",
+      "version_code": 1,
+      "status": "publicable",
+      "category": "Juegos › Simulación",
+      "genre": {
+        "es": "Acción · idle",
+        "en": "Action · idle"
+      },
+      "orientation": "landscape",
+      "short_description": {
+        "es": "Tala en primera persona, vende, mejora y reforesta. Acción e idle en una isla.",
+        "en": "Chop trees in first person, sell, upgrade and replant. Action and idle."
+      },
+      "full_description": {
+        "es": "Empiezas con un hacha de piedra en una isla de pinos y acabas con una serrería, una cuadrilla de leñadores y un bosque de árboles ancestrales que tú mismo plantaste. Cada hachazo abre una muesca donde apuntas hasta que el árbol cae.\n\n• Talar y picar: Muescas en el tronco golpe a golpe; vetas de piedra que se desmoronan con el pico.\n• Vender y mejorar: Madera y tablones, hacha de cinco niveles, doce habilidades, aserradero y cuadrilla.\n• Islas: Construye la nave y refuérzala: cada nivel alcanza una isla más, con mejores árboles.\n• Reforestar: Planta semillas y decide si talar ya o esperar a que crezcan.\n• Día y noche: Incendios que apagar, dormir para pasar la noche, y progreso mientras no juegas.\n• Modo foto: Cámara libre para retratar tu bosque.\n\n– Apaisado. Joystick flotante y botones táctiles en el móvil; teclado y ratón en el PC.\n– Sin conexión, sin cuentas, sin anuncios. La partida se guarda en el dispositivo.\n– Código abierto: el proyecto está en GitHub. Modelos low-poly generados con Blender desde un script.\n\nHecho por IAnMove con Godot Engine. Sin anuncios, sin cuentas, sin conexión a internet.\nMás juegos: https://iaen.es/android · X: @theinaog",
+        "en": "You start with a stone axe on a pine island and end up with a sawmill, a crew of lumberjacks and a forest of ancient trees you planted yourself. Every swing cuts a notch where you aim until the tree falls.\n\n• Chop and mine: Notches in the trunk blow by blow; stone veins that crumble under your pickaxe.\n• Sell and upgrade: Wood and planks, a five-level axe, twelve skills, a sawmill and a crew.\n• Islands: Build the ship and reinforce it: every level reaches one more island with better trees.\n• Replant: Plant seeds and decide whether to chop now or wait for them to grow.\n• Day and night: Fires to put out, sleeping through the night, and progress while you are away.\n• Photo mode: A free camera to picture your forest.\n\n– Landscape. Floating joystick and touch buttons on mobile; keyboard and mouse on PC.\n– Offline, no accounts, no ads. Your game is saved on the device.\n– Open source: the project is on GitHub. Low-poly models generated with Blender from one script.\n\nMade by IAnMove with Godot Engine. No ads, no accounts, no internet connection.\nMore games: https://iaen.es/android · X: @theinaog"
+      },
+      "privacy_policy_url": "https://iaen.es/android/timberfall/privacy/",
+      "website": "https://iaen.es/android/timberfall/",
+      "contact_email": "PENDIENTE: correo público de contacto obligatorio en Play Console",
+      "developer": "IAnMove",
+      "x": "https://x.com/theinaog",
+      "source_url": "https://github.com/IAnMove/Timberfall",
+      "ads": false,
+      "in_app_purchases": false,
+      "collects_data": false,
+      "internet_permission": false,
+      "target_audience": "13+ (no dirigido a niños; si se declara para familias aplica la política de Familias)",
+      "content_rating_hints": {
+        "es": "Sin violencia contra personas (se talan árboles, se apagan incendios). Apto para todos los públicos.",
+        "en": "No violence against people (chopping trees, putting out fires). Suitable for everyone."
+      },
+      "apk": {
+        "file": "timberfall.apk",
+        "bytes": 41506329,
+        "sha256": "568c6cc80034887561ad7791fd4624981459d9f49c1573b08188020d10ac6723",
+        "release_url": "https://github.com/IAnMove/android-builds/releases/download/timberfall-v0.1.0/timberfall.apk"
+      },
+      "images": {
+        "icon": "metadata/android/en-US/images/icon.png",
+        "feature_graphic": "metadata/android/en-US/images/featureGraphic.png",
+        "phone_screenshots": {
+          "es": [
+            "metadata/android/es-ES/images/phoneScreenshots/1_talando.jpg",
+            "metadata/android/es-ES/images/phoneScreenshots/2_arboleda_arcana.jpg",
+            "metadata/android/es-ES/images/phoneScreenshots/3_reforestar.jpg",
+            "metadata/android/es-ES/images/phoneScreenshots/4_hangar.jpg",
+            "metadata/android/es-ES/images/phoneScreenshots/5_atardecer.jpg",
+            "metadata/android/es-ES/images/phoneScreenshots/6_bosque_de_niebla.jpg"
+          ],
+          "en": [
+            "metadata/android/en-US/images/phoneScreenshots/1_talando.jpg",
+            "metadata/android/en-US/images/phoneScreenshots/2_arboleda_arcana.jpg",
+            "metadata/android/en-US/images/phoneScreenshots/3_reforestar.jpg",
+            "metadata/android/en-US/images/phoneScreenshots/4_hangar.jpg",
+            "metadata/android/en-US/images/phoneScreenshots/5_atardecer.jpg",
+            "metadata/android/en-US/images/phoneScreenshots/6_bosque_de_niebla.jpg"
+          ]
+        }
+      },
+      "generated": "2026-10-11"
+    },
+    {
+      "slug": "vialactea",
+      "name": "Via Lactea",
+      "title": {
+        "es": "Via Lactea",
+        "en": "Via Lactea"
+      },
+      "title_proposal": null,
+      "package": "org.ina.vialactea",
+      "version_name": "0.1",
+      "version_code": 1,
+      "status": "publicable",
+      "category": "Juegos › Simulación",
+      "genre": {
+        "es": "Espacio · navegación",
+        "en": "Space · navigation"
+      },
+      "orientation": "landscape",
+      "short_description": {
+        "es": "Pilota un carguero por la Vía Láctea: contratos de sistema en sistema.",
+        "en": "Fly a freighter across the Milky Way: contracts from system to system."
+      },
+      "full_description": {
+        "es": "Aceptas contratos, recoges en un sistema y entregas en otro, esquivando lo que haya por el camino. Nada de HUD pegado a la pantalla: los datos van en tres pantallas físicas del salpicadero (navegación, estado de la nave y radar), y la cabina se mueve contigo.\n\n• 900 sistemas: Cuatro brazos espirales y un bulbo central, con colores según el tipo espectral real.\n• Contratos: Encadenados y pagados según la distancia. La prima por casco intacto se cobra de verdad.\n• Aspecto retro: Color de 16 bits, tramado de Bayer y píxeles gordos, como una consola de la época.\n• Cielo procedural: La banda galáctica, el polvo y las estrellas salen de un shader: nada se repite.\n• Táctil: Gas, freno, turbo y alabeo con botones; el rumbo, arrastrando.\n• Pausa con resumen: Créditos, entregas y estado del casco sin salir del menú.\n\n– Apaisado. Android, Windows y Linux.\n– Sin conexión, sin cuentas, sin anuncios. La partida se guarda en el dispositivo.\n– Versión 0.1: sigue en desarrollo.\n\nHecho por IAnMove con Godot Engine. Sin anuncios, sin cuentas, sin conexión a internet.\nMás juegos: https://iaen.es/android · X: @theinaog",
+        "en": "Take contracts, pick up in one system and deliver in another, dodging whatever is in the way. No HUD glued to the screen: the data lives on three physical dashboard screens (navigation, ship status and radar), and the cockpit moves with you.\n\n• 900 systems: Four spiral arms and a central bulge, coloured by real spectral type.\n• Contracts: Chained and paid by distance. The intact-hull bonus is real money.\n• Retro look: 16-bit colour, Bayer dithering and chunky pixels, like a console of the era.\n• Procedural sky: The galactic band, dust and stars come from a shader: nothing repeats.\n• Touch: Throttle, brake, turbo and roll with buttons; heading by dragging.\n• Pause with summary: Credits, deliveries and hull status without leaving the menu.\n\n– Landscape. Android, Windows and Linux.\n– Offline, no accounts, no ads. Your game is saved on the device.\n– Version 0.1: still in development.\n\nMade by IAnMove with Godot Engine. No ads, no accounts, no internet connection.\nMore games: https://iaen.es/android · X: @theinaog"
+      },
+      "privacy_policy_url": "https://iaen.es/android/vialactea/privacy/",
+      "website": "https://iaen.es/android/vialactea/",
+      "contact_email": "PENDIENTE: correo público de contacto obligatorio en Play Console",
+      "developer": "IAnMove",
+      "x": "https://x.com/theinaog",
+      "source_url": null,
+      "ads": false,
+      "in_app_purchases": false,
+      "collects_data": false,
+      "internet_permission": false,
+      "target_audience": "13+ (no dirigido a niños; si se declara para familias aplica la política de Familias)",
+      "content_rating_hints": {
+        "es": "Sin violencia (navegación espacial y contratos). Apto para todos los públicos.",
+        "en": "No violence (space navigation and contracts). Suitable for everyone."
+      },
+      "apk": {
+        "file": "vialactea.apk",
+        "bytes": 30430357,
+        "sha256": "84b8db003f151082e3d9c9e4d0935fb50327cb5feb82c74ccb1b288705c87537",
+        "release_url": "https://github.com/IAnMove/android-builds/releases/download/vialactea-v0.1/vialactea.apk"
+      },
+      "images": {
+        "icon": "metadata/android/en-US/images/icon.png",
+        "feature_graphic": "metadata/android/en-US/images/featureGraphic.png",
+        "phone_screenshots": {
+          "es": [
+            "metadata/android/es-ES/images/phoneScreenshots/1_title_a.jpg",
+            "metadata/android/es-ES/images/phoneScreenshots/2_deployer.jpg"
+          ],
+          "en": [
+            "metadata/android/en-US/images/phoneScreenshots/1_title_a.jpg",
+            "metadata/android/en-US/images/phoneScreenshots/2_deployer.jpg"
+          ]
+        }
+      },
+      "generated": "2026-10-11"
+    },
+    {
+      "slug": "taberna",
+      "name": "Taberna",
+      "title": {
+        "es": "Taberna",
+        "en": "Taberna"
+      },
+      "title_proposal": null,
+      "package": "com.ina.taberna",
+      "version_name": "0.1.0",
+      "version_code": 1,
+      "status": "sin APK",
+      "category": "Juegos › Simulación",
+      "genre": {
+        "es": "Gestión · narrativa",
+        "en": "Management · narrative"
+      },
+      "orientation": "landscape",
+      "short_description": {
+        "es": "De día prepara la plaza y el stock; de noche atiende la barra y sus historias.",
+        "en": "Prepare the square by day; tend the bar and its stories by night."
+      },
+      "full_description": {
+        "es": "Un juego de gestión narrativa. Compra ingredientes, elabora bebidas y cocina; abre el servicio y atiende a los parroquianos de la taberna, cada uno con sus historias, misiones y rumores. Entre día y día, el huerto, el lago y una expedición opcional a la mazmorra.\n\n• Día y noche: Preparar de día, atender la taberna de noche, dormir y vuelta a empezar. No hay que hacerlo todo cada día.\n• La barra: Pedidos, confianza y cofres si vuelves vivo de la expedición.\n• Misiones y rumores: Cada parroquiano trae historias; un diario las recoge.\n• Minijuegos: Cocina, huerto, pesca en el lago y una mazmorra en primera persona.\n• Español e inglés: Textos y diálogos en los dos idiomas.\n• Accesibilidad: Tamaño de texto y HUD, contraste alto, pesca asistida, menos movimiento y teclas configurables.\n\n– Apaisado. PC y Android.\n– Sin conexión, sin cuentas, sin anuncios. La partida y sus copias se guardan en el dispositivo.\n– Código abierto: el proyecto está en GitHub. Sigue en desarrollo (v0.1).\n\nHecho por IAnMove con Godot Engine. Sin anuncios, sin cuentas, sin conexión a internet.\nMás juegos: https://iaen.es/android · X: @theinaog",
+        "en": "A narrative management game. Buy ingredients, brew drinks and cook; open for service and tend the tavern's regulars, each with their own stories, quests and rumours. Between days, the garden, the lake and an optional dungeon expedition.\n\n• Day and night: Prepare by day, serve at night, sleep and start again. You do not need to do everything every day.\n• The bar: Orders, trust and chests if you come back alive from the expedition.\n• Quests and rumours: Every regular brings stories; a journal keeps them.\n• Minigames: Cooking, gardening, lake fishing and a first-person dungeon.\n• Spanish and English: Texts and dialogue in both languages.\n• Accessibility: Text and HUD size, high contrast, assisted fishing, reduced motion and configurable keys.\n\n– Landscape. PC and Android.\n– Offline, no accounts, no ads. Your game and its backups are saved on the device.\n– Open source: the project is on GitHub. Still in development (v0.1).\n\nMade by IAnMove with Godot Engine. No ads, no accounts, no internet connection.\nMore games: https://iaen.es/android · X: @theinaog"
+      },
+      "privacy_policy_url": "https://iaen.es/android/taberna/privacy/",
+      "website": "https://iaen.es/android/taberna/",
+      "contact_email": "PENDIENTE: correo público de contacto obligatorio en Play Console",
+      "developer": "IAnMove",
+      "x": "https://x.com/theinaog",
+      "source_url": "https://github.com/ianmove/taberna",
+      "ads": false,
+      "in_app_purchases": false,
+      "collects_data": false,
+      "internet_permission": false,
+      "target_audience": "13+ (no dirigido a niños; si se declara para familias aplica la política de Familias)",
+      "content_rating_hints": {
+        "es": "Alcohol de fantasía (se sirven cervezas e hidromiel en una taberna), mazmorra con criaturas y muerte posible del personaje. Probable PEGI 12. Revisar en IARC «referencias al alcohol».",
+        "en": "Fantasy alcohol (beer and mead served in a tavern), a dungeon with creatures and possible character death. Likely PEGI 12. Check 'alcohol references' in IARC."
+      },
+      "apk": null,
+      "images": {
+        "icon": "metadata/android/en-US/images/icon.png",
+        "feature_graphic": "metadata/android/en-US/images/featureGraphic.png",
+        "phone_screenshots": {
+          "es": [
+            "metadata/android/es-ES/images/phoneScreenshots/1_deployer.jpg",
+            "metadata/android/es-ES/images/phoneScreenshots/2_day2_morning_plaza.jpg",
+            "metadata/android/es-ES/images/phoneScreenshots/3_day2_service_clean.jpg",
+            "metadata/android/es-ES/images/phoneScreenshots/4_day1_shop.jpg",
+            "metadata/android/es-ES/images/phoneScreenshots/5_day1_night_entry.jpg",
+            "metadata/android/es-ES/images/phoneScreenshots/6_day1_brew_result.jpg"
+          ],
+          "en": [
+            "metadata/android/en-US/images/phoneScreenshots/1_deployer.jpg",
+            "metadata/android/en-US/images/phoneScreenshots/2_day2_morning_plaza.jpg",
+            "metadata/android/en-US/images/phoneScreenshots/3_day2_service_clean.jpg",
+            "metadata/android/en-US/images/phoneScreenshots/4_day1_shop.jpg",
+            "metadata/android/en-US/images/phoneScreenshots/5_day1_night_entry.jpg",
+            "metadata/android/en-US/images/phoneScreenshots/6_day1_brew_result.jpg"
+          ]
+        }
+      },
+      "generated": "2026-10-11"
+    },
+    {
+      "slug": "villabellota",
+      "name": "Villa Bellota",
+      "title": {
+        "es": "Villa Bellota",
+        "en": "Villa Bellota"
+      },
+      "title_proposal": null,
+      "package": "com.ina.villabellota",
+      "version_name": "1.0",
+      "version_code": 1,
+      "status": "publicable",
+      "category": "Juegos › Simulación",
+      "genre": {
+        "es": "Vida tranquila · isla",
+        "en": "Cozy life · island"
+      },
+      "orientation": "landscape",
+      "short_description": {
+        "es": "Vida tranquila en una isla con reloj real: pesca, bichos, fósiles y vecinos.",
+        "en": "Cozy island life on the real clock: fishing, bugs, fossils, home and neighbours."
+      },
+      "full_description": {
+        "es": "Llegas a la isla y Don Topo te recibe en la plaza con una red, una caña y 1.000 bellotas. A partir de ahí la isla sigue la hora, el día y la estación de tu móvil: 28 peces y 25 bichos según el mes y la hora, fósiles nuevos cada día, cerezos en flor en abril y nieve en invierno. Vende en la tienda de Rufina, dona al museo de Doña Tortuga, amplía tu casa y gánate a Pipa, Bruno, Lola y Coco.\n\n• Reloj real: Hora, día y estación de tu dispositivo. Si vuelves después de días, te cuentan qué ha cambiado.\n• Pesca y bichos: 28 peces y 25 bichos según mes, hora y lugar. Acércate de puntillas o huyen.\n• Cava y planta: Fósiles, almejas, rocas con minerales; semillas, flores que se cruzan y plantones.\n• Tienda y museo: Vende tu pesca, compra herramientas y muebles, dona un ejemplar de cada especie.\n• Tu casa: De tienda de campaña a casa con buzón; 30 muebles que colocar y girar. Préstamo sin intereses.\n• Vecinos: Cuatro vecinos con horario, voz, encargos y gustos. La amistad sube charlando y regalando.\n\n– Apaisado. PC y Android.\n– Sin conexión, sin cuentas, sin anuncios. La partida se guarda en el dispositivo.\n– Inspirado en Animal Crossing en las mecánicas; nombres, personajes y arte son propios y generados por código.\n\nHecho por IAnMove con Godot Engine. Sin anuncios, sin cuentas, sin conexión a internet.\nMás juegos: https://iaen.es/android · X: @theinaog",
+        "en": "You arrive on the island and Don Topo welcomes you in the square with a net, a rod and 1,000 acorns. From then on the island follows your phone's time, day and season: 28 fish and 25 bugs by month and hour, new fossils every day, cherry blossoms in April and snow in winter. Sell at Rufina's shop, donate to Doña Tortuga's museum, upgrade your house and win over Pipa, Bruno, Lola and Coco.\n\n• Real clock: Your device's time, day and season. Come back after a few days and they tell you what changed.\n• Fishing and bugs: 28 fish and 25 bugs by month, hour and place. Tiptoe or they flee.\n• Dig and plant: Fossils, clams, mineral rocks; seeds, cross-breeding flowers and saplings.\n• Shop and museum: Sell your catch, buy tools and furniture, donate one of every species.\n• Your home: From a tent to a house with a mailbox; 30 pieces of furniture to place and turn. Interest-free loan.\n• Neighbours: Four neighbours with schedules, voices, errands and tastes. Friendship grows by chatting and gifting.\n\n– Landscape. PC and Android.\n– Offline, no accounts, no ads. Your game is saved on the device.\n– Inspired by Animal Crossing in its mechanics; names, characters and art are original and generated by code.\n\nMade by IAnMove with Godot Engine. No ads, no accounts, no internet connection.\nMore games: https://iaen.es/android · X: @theinaog"
+      },
+      "privacy_policy_url": "https://iaen.es/android/villabellota/privacy/",
+      "website": "https://iaen.es/android/villabellota/",
+      "contact_email": "PENDIENTE: correo público de contacto obligatorio en Play Console",
+      "developer": "IAnMove",
+      "x": "https://x.com/theinaog",
+      "source_url": null,
+      "ads": false,
+      "in_app_purchases": false,
+      "collects_data": false,
+      "internet_permission": false,
+      "target_audience": "13+ (no dirigido a niños; si se declara para familias aplica la política de Familias)",
+      "content_rating_hints": {
+        "es": "Sin violencia. Apto para todos los públicos. No nombrar «Animal Crossing» en la ficha de Play (marca registrada).",
+        "en": "No violence. Suitable for everyone. Do not name 'Animal Crossing' in the Play listing (trademark)."
+      },
+      "apk": {
+        "file": "villabellota.apk",
+        "bytes": 58845295,
+        "sha256": "8544748e7ca46fe8e0b5507ceb8bd737c37038b9aabb8c1bf227844126b481c4",
+        "release_url": "https://github.com/IAnMove/android-builds/releases/download/villabellota-v1.0/villabellota.apk"
+      },
+      "images": {
+        "icon": "metadata/android/en-US/images/icon.png",
+        "feature_graphic": "metadata/android/en-US/images/featureGraphic.png",
+        "phone_screenshots": {
+          "es": [
+            "metadata/android/es-ES/images/phoneScreenshots/1_main.jpg",
+            "metadata/android/es-ES/images/phoneScreenshots/2_fishing.jpg",
+            "metadata/android/es-ES/images/phoneScreenshots/3_bugs.jpg",
+            "metadata/android/es-ES/images/phoneScreenshots/4_museum.jpg",
+            "metadata/android/es-ES/images/phoneScreenshots/5_main.jpg",
+            "metadata/android/es-ES/images/phoneScreenshots/6_shop.jpg"
+          ],
+          "en": [
+            "metadata/android/en-US/images/phoneScreenshots/1_main.jpg",
+            "metadata/android/en-US/images/phoneScreenshots/2_fishing.jpg",
+            "metadata/android/en-US/images/phoneScreenshots/3_bugs.jpg",
+            "metadata/android/en-US/images/phoneScreenshots/4_museum.jpg",
+            "metadata/android/en-US/images/phoneScreenshots/5_main.jpg",
+            "metadata/android/en-US/images/phoneScreenshots/6_shop.jpg"
+          ]
+        }
+      },
+      "generated": "2026-10-11"
+    },
+    {
+      "slug": "isaac",
+      "name": "Isaac Clone",
+      "title": {
+        "es": "Sótano Infinito",
+        "en": "Endless Basement"
+      },
+      "title_proposal": {
+        "es": "Sótano Infinito",
+        "en": "Endless Basement"
+      },
+      "package": "com.ina.isaac",
+      "version_name": "0.1.0",
+      "version_code": 1,
+      "status": "prototipo",
+      "category": "Juegos › Acción",
+      "genre": {
+        "es": "Roguelike · disparos",
+        "en": "Roguelike · twin-stick"
+      },
+      "orientation": "landscape",
+      "short_description": {
+        "es": "Roguelike de salas: pisos generados, 8 armas, 21 objetos, jefes y progreso.",
+        "en": "Room roguelike: generated floors, 8 weapons, 21 items, bosses and progress."
+      },
+      "full_description": {
+        "es": "Un roguelike de salas al estilo clásico: cada piso se genera con salas de tesoro, tienda, secretas y de reto, y acaba en un jefe. Ocho armas, veintiún objetos con efectos que se combinan, cuatro personajes, tres dificultades, semillas y semilla diaria. Al terminar cada partida ganas monedas para mejoras permanentes y logros que desbloquean más contenido.\n\n• Pisos generados: Cinco pisos y tres biomas con enemigos y jefes propios; modo infinito al terminar.\n• Armas y objetos: Lágrimas, escopeta, láser, cohete, boomerang, lanzallamas, espada… y objetos que se combinan.\n• Dos joysticks: Joysticks flotantes en el móvil, ratón o mando en el PC. Botón Atrás integrado.\n• Progreso: Tienda de 18 mejoras permanentes, 7 logros, 4 personajes y semilla diaria.\n\n– Apaisado. Español e inglés.\n– Sin conexión, sin cuentas, sin anuncios.\n– Prototipo: no probado en un dispositivo real. El nombre actual «Isaac Clone» no sirve para Play (marca); se propone «Sótano Infinito».\n\nHecho por IAnMove con Godot Engine. Sin anuncios, sin cuentas, sin conexión a internet.\nMás juegos: https://iaen.es/android · X: @theinaog",
+        "en": "A classic room-based roguelike: every floor is generated with treasure, shop, secret and challenge rooms, and ends with a boss. Eight weapons, twenty-one items with combinable effects, four characters, three difficulties, seeds and a daily seed. Every run earns coins for permanent upgrades and achievements that unlock more content.\n\n• Generated floors: Five floors and three biomes with their own enemies and bosses; endless mode after the end.\n• Weapons and items: Tears, shotgun, laser, rocket, boomerang, flamethrower, sword… and items that stack.\n• Twin sticks: Floating joysticks on mobile, mouse or gamepad on PC. Back button handled.\n• Progress: Shop with 18 permanent upgrades, 7 achievements, 4 characters and a daily seed.\n\n– Landscape. Spanish and English.\n– Offline, no accounts, no ads.\n– Prototype: not tested on a real device. The current name 'Isaac Clone' cannot be used on Play (trademark); 'Endless Basement' is proposed.\n\nMade by IAnMove with Godot Engine. No ads, no accounts, no internet connection.\nMore games: https://iaen.es/android · X: @theinaog"
+      },
+      "privacy_policy_url": "https://iaen.es/android/isaac/privacy/",
+      "website": "https://iaen.es/android/isaac/",
+      "contact_email": "PENDIENTE: correo público de contacto obligatorio en Play Console",
+      "developer": "IAnMove",
+      "x": "https://x.com/theinaog",
+      "source_url": null,
+      "ads": false,
+      "in_app_purchases": false,
+      "collects_data": false,
+      "internet_permission": false,
+      "target_audience": "13+ (no dirigido a niños; si se declara para familias aplica la política de Familias)",
+      "content_rating_hints": {
+        "es": "Violencia fantástica contra monstruos con disparos, objetos como «sacrificio» (vida a cambio de objeto). Probable PEGI 12. Cambiar el nombre antes de publicar.",
+        "en": "Fantasy violence against monsters with projectiles; a 'sacrifice' room trades health for items. Likely PEGI 12. Rename before publishing."
+      },
+      "apk": {
+        "file": "isaac.apk",
+        "bytes": 61135729,
+        "sha256": "bc6c4b6435c8eae71a9d7781a7f6ccdafb2ce93a9d746ce03bddd3d0d5212208",
+        "release_url": "https://github.com/IAnMove/android-builds/releases/download/isaac-v0.1.0/isaac.apk"
+      },
+      "images": {
+        "icon": "metadata/android/en-US/images/icon.png",
+        "feature_graphic": "metadata/android/en-US/images/featureGraphic.png",
+        "phone_screenshots": {
+          "es": [
+            "metadata/android/es-ES/images/phoneScreenshots/1_deployer.jpg",
+            "metadata/android/es-ES/images/phoneScreenshots/2_title_a.jpg"
+          ],
+          "en": [
+            "metadata/android/en-US/images/phoneScreenshots/1_deployer.jpg",
+            "metadata/android/en-US/images/phoneScreenshots/2_title_a.jpg"
+          ]
+        }
+      },
+      "generated": "2026-10-11"
+    },
+    {
+      "slug": "minisims",
+      "name": "Mini Sims",
+      "title": {
+        "es": "Mini Vidas",
+        "en": "Tiny Lives"
+      },
+      "title_proposal": {
+        "es": "Mini Vidas",
+        "en": "Tiny Lives"
+      },
+      "package": "com.ina.minisims",
+      "version_name": "0.1",
+      "version_code": 1,
+      "status": "prototipo",
+      "category": "Juegos › Simulación",
+      "genre": {
+        "es": "Simulador de vida",
+        "en": "Life sim"
+      },
+      "orientation": "landscape",
+      "short_description": {
+        "es": "Simulador de vida: crea tu personaje, construye su casa y cuida de él.",
+        "en": "Life sim: create your character, build their home and look after their needs."
+      },
+      "full_description": {
+        "es": "Crea un adulto con nombre, apariencia, dos rasgos y una aspiración; elige una de las tres parcelas de Los Olmos y construye la casa en el terreno vacío. Después, vive: necesidades, emociones, trabajo, relaciones, diario, mascotas (perro y gato) y visitas como el cartero o un ladrón. Personajes y muebles son mallas procedurales ligeras.\n\n• Creador: Ocho peinados, cuatro caras, estampados, colores de ropa, pelo y piel; vista previa al instante.\n• Construye: Paredes, puertas y un catálogo de muebles con acciones; vista con paredes arriba, cortadas o con tejado.\n• Vive: Necesidades, emociones con cara, trabajo, relaciones, diario y velocidad x1-x3.\n• Mascotas y visitas: Perro y gato con ánimo propio; cartero, vendedor y ladrón.\n\n– Apaisado. Táctil, teclado y mando.\n– Sin conexión, sin cuentas, sin anuncios.\n– Prototipo. El nombre «Mini Sims» no sirve para Play (marca); se propone «Mini Vidas».\n\nHecho por IAnMove con Godot Engine. Sin anuncios, sin cuentas, sin conexión a internet.\nMás juegos: https://iaen.es/android · X: @theinaog",
+        "en": "Create an adult with a name, looks, two traits and an aspiration; pick one of the three plots in Los Olmos and build the house on the empty lot. Then live: needs, emotions, a job, relationships, a journal, pets (dog and cat) and visitors like the postman or a burglar. Characters and furniture are light procedural meshes.\n\n• Creator: Eight hairstyles, four faces, prints, clothes, hair and skin colours; instant preview.\n• Build: Walls, doors and a furniture catalogue with actions; walls up, cut away or with roof.\n• Live: Needs, emotions on their faces, a job, relationships, a journal and x1-x3 speed.\n• Pets and visitors: A dog and a cat with their own mood; postman, salesman and burglar.\n\n– Landscape. Touch, keyboard and gamepad.\n– Offline, no accounts, no ads.\n– Prototype. The name 'Mini Sims' cannot be used on Play (trademark); 'Tiny Lives' is proposed.\n\nMade by IAnMove with Godot Engine. No ads, no accounts, no internet connection.\nMore games: https://iaen.es/android · X: @theinaog"
+      },
+      "privacy_policy_url": "https://iaen.es/android/minisims/privacy/",
+      "website": "https://iaen.es/android/minisims/",
+      "contact_email": "PENDIENTE: correo público de contacto obligatorio en Play Console",
+      "developer": "IAnMove",
+      "x": "https://x.com/theinaog",
+      "source_url": null,
+      "ads": false,
+      "in_app_purchases": false,
+      "collects_data": false,
+      "internet_permission": false,
+      "target_audience": "13+ (no dirigido a niños; si se declara para familias aplica la política de Familias)",
+      "content_rating_hints": {
+        "es": "Sin violencia (un ladrón puede visitar la casa). Apto para todos los públicos. Cambiar el nombre antes de publicar.",
+        "en": "No violence (a burglar may visit). Suitable for everyone. Rename before publishing."
+      },
+      "apk": {
+        "file": "minisims.apk",
+        "bytes": 42833947,
+        "sha256": "717378941a295ffaa91d1b0aed0bc2dcb08f5c5cc83ff4d44106670f381be023",
+        "release_url": "https://github.com/IAnMove/android-builds/releases/download/minisims-v0.1/minisims.apk"
+      },
+      "images": {
+        "icon": "metadata/android/en-US/images/icon.png",
+        "feature_graphic": "metadata/android/en-US/images/featureGraphic.png",
+        "phone_screenshots": {
+          "es": [
+            "metadata/android/es-ES/images/phoneScreenshots/1_deployer.jpg",
+            "metadata/android/es-ES/images/phoneScreenshots/2_start.jpg",
+            "metadata/android/es-ES/images/phoneScreenshots/3_hud.jpg",
+            "metadata/android/es-ES/images/phoneScreenshots/4_pets.jpg",
+            "metadata/android/es-ES/images/phoneScreenshots/5_faces.jpg"
+          ],
+          "en": [
+            "metadata/android/en-US/images/phoneScreenshots/1_deployer.jpg",
+            "metadata/android/en-US/images/phoneScreenshots/2_start.jpg",
+            "metadata/android/en-US/images/phoneScreenshots/3_hud.jpg",
+            "metadata/android/en-US/images/phoneScreenshots/4_pets.jpg",
+            "metadata/android/en-US/images/phoneScreenshots/5_faces.jpg"
+          ]
+        }
+      },
+      "generated": "2026-10-11"
+    },
+    {
+      "slug": "randomsiege",
+      "name": "Random Siege",
+      "title": {
+        "es": "Random Siege",
+        "en": "Random Siege"
+      },
+      "title_proposal": null,
+      "package": "com.ina.randomsiege",
+      "version_name": "0.1.0",
+      "version_code": 1,
+      "status": "prototipo",
+      "category": "Juegos › Arcade",
+      "genre": {
+        "es": "Arcade · mazmorras",
+        "en": "Arcade · dungeon"
+      },
+      "orientation": "landscape",
+      "short_description": {
+        "es": "Arcade de mazmorras: salas generadas, espada, arco con carga, voltereta y jefes.",
+        "en": "Dungeon arcade: generated rooms, sword, charged bow, dodge roll and bosses."
+      },
+      "full_description": {
+        "es": "Rehecho en Godot a partir del Random Siege original de 2015, con sus sprites, sonidos y textos (español, inglés, gallego y francés). Salas generadas con seis arquetipos, torretas y cajas de cobertura; espada, arco con carga que perfora a tope y voltereta con invulnerabilidad. Cada cinco niveles un jefe; combos, bonus de tiempo y «sin daño», élites y récords.\n\n• Salas generadas: Habitaciones, islas, anillo, laberinto, arena y cruz, siempre con todo el suelo alcanzable.\n• Espada, arco y voltereta: Arco con carga (25 a 75 de daño), carcaj que se recarga y voltereta invulnerable.\n• Enemigos con IA: Alerta por vista y ruido, persecución, embestidas telegrafiadas, murciélagos y jefe con furia.\n• Cuatro idiomas: Español, inglés, gallego y francés, como el original.\n\n– Apaisado. Teclado, mando y táctil.\n– Sin conexión, sin cuentas, sin anuncios.\n– Prototipo. Hay una copia anterior (Random Siege v1) con otro paquete: no publicar las dos.\n\nHecho por IAnMove con Godot Engine. Sin anuncios, sin cuentas, sin conexión a internet.\nMás juegos: https://iaen.es/android · X: @theinaog",
+        "en": "Rebuilt in Godot from the original 2015 Random Siege, with its sprites, sounds and texts (Spanish, English, Galician and French). Generated rooms with six archetypes, turrets and cover crates; sword, a charged bow that pierces at full charge and an invulnerable dodge roll. A boss every five levels; combos, time and no-damage bonuses, elites and records.\n\n• Generated rooms: Rooms, islands, ring, maze, arena and cross, with every floor tile reachable.\n• Sword, bow and roll: Charged bow (25 to 75 damage), refilling quiver and an invulnerable roll.\n• Enemies with AI: Alert by sight and sound, pursuit, telegraphed charges, bats and a raging boss.\n• Four languages: Spanish, English, Galician and French, like the original.\n\n– Landscape. Keyboard, gamepad and touch.\n– Offline, no accounts, no ads.\n– Prototype. An older copy (Random Siege v1) has its own package: do not publish both.\n\nMade by IAnMove with Godot Engine. No ads, no accounts, no internet connection.\nMore games: https://iaen.es/android · X: @theinaog"
+      },
+      "privacy_policy_url": "https://iaen.es/android/randomsiege/privacy/",
+      "website": "https://iaen.es/android/randomsiege/",
+      "contact_email": "PENDIENTE: correo público de contacto obligatorio en Play Console",
+      "developer": "IAnMove",
+      "x": "https://x.com/theinaog",
+      "source_url": null,
+      "ads": false,
+      "in_app_purchases": false,
+      "collects_data": false,
+      "internet_permission": false,
+      "target_audience": "13+ (no dirigido a niños; si se declara para familias aplica la política de Familias)",
+      "content_rating_hints": {
+        "es": "Violencia fantástica de píxeles (espada y flechas contra monstruos). Probable PEGI 7.",
+        "en": "Pixel fantasy violence (sword and arrows against monsters). Likely PEGI 7."
+      },
+      "apk": {
+        "file": "randomsiege.apk",
+        "bytes": 44229750,
+        "sha256": "2fbcd0aea46d5788c751b0d75172714016a78acce2dcecfc3405b32bcb357887",
+        "release_url": "https://github.com/IAnMove/android-builds/releases/download/randomsiege-v0.1.0/randomsiege.apk"
+      },
+      "images": {
+        "icon": "metadata/android/en-US/images/icon.png",
+        "feature_graphic": "metadata/android/en-US/images/featureGraphic.png",
+        "phone_screenshots": {
+          "es": [
+            "metadata/android/es-ES/images/phoneScreenshots/1_deployer.jpg",
+            "metadata/android/es-ES/images/phoneScreenshots/2_title_b.jpg"
+          ],
+          "en": [
+            "metadata/android/en-US/images/phoneScreenshots/1_deployer.jpg",
+            "metadata/android/en-US/images/phoneScreenshots/2_title_b.jpg"
+          ]
+        }
+      },
+      "generated": "2026-10-11"
+    },
+    {
+      "slug": "randomsiegev1",
+      "name": "Random Siege v1",
+      "title": {
+        "es": "Random Siege v1",
+        "en": "Random Siege v1"
+      },
+      "title_proposal": null,
+      "package": "com.ina.randomsiegev1",
+      "version_name": "0.1.0",
+      "version_code": 1,
+      "status": "duplicado",
+      "category": "Juegos › Arcade",
+      "genre": {
+        "es": "Arcade · mazmorras (versión anterior)",
+        "en": "Arcade · dungeon (earlier version)"
+      },
+      "orientation": "landscape",
+      "short_description": {
+        "es": "Versión anterior del remake de Random Siege. Duplicado: publicar solo una.",
+        "en": "Earlier version of the Random Siege remake. Duplicate: publish only one."
+      },
+      "full_description": {
+        "es": "Copia guardada de la primera versión del remake (v1), anterior al arco con carga y la voltereta. Mismas salas generadas, sprites y textos del original de 2015; 10 vidas, anillos, dientes y queso. Se conserva como referencia: en Google Play solo debería publicarse la versión actual (Random Siege).\n\n• Salas generadas: Habitaciones y pasillos con todo el suelo alcanzable.\n• Espada y flechas: Flecha con recarga de 2 segundos; enemigos de 50 a 500 puntos.\n\n– Apaisado.\n– Sin conexión, sin cuentas, sin anuncios.\n– Duplicado de Random Siege con otro paquete (com.ina.randomsiegev1). Play no admite dos fichas del mismo juego.\n\nHecho por IAnMove con Godot Engine. Sin anuncios, sin cuentas, sin conexión a internet.\nMás juegos: https://iaen.es/android · X: @theinaog",
+        "en": "Saved copy of the first version of the remake (v1), before the charged bow and the roll. Same generated rooms, sprites and texts from the 2015 original; 10 lives, rings, teeth and cheese. Kept as a reference: only the current version (Random Siege) should be published on Google Play.\n\n• Generated rooms: Rooms and corridors with every floor tile reachable.\n• Sword and arrows: Arrow with a 2-second reload; enemies worth 50 to 500 points.\n\n– Landscape.\n– Offline, no accounts, no ads.\n– Duplicate of Random Siege with another package (com.ina.randomsiegev1). Play will not accept two listings of the same game.\n\nMade by IAnMove with Godot Engine. No ads, no accounts, no internet connection.\nMore games: https://iaen.es/android · X: @theinaog"
+      },
+      "privacy_policy_url": "https://iaen.es/android/randomsiegev1/privacy/",
+      "website": "https://iaen.es/android/randomsiegev1/",
+      "contact_email": "PENDIENTE: correo público de contacto obligatorio en Play Console",
+      "developer": "IAnMove",
+      "x": "https://x.com/theinaog",
+      "source_url": null,
+      "ads": false,
+      "in_app_purchases": false,
+      "collects_data": false,
+      "internet_permission": false,
+      "target_audience": "13+ (no dirigido a niños; si se declara para familias aplica la política de Familias)",
+      "content_rating_hints": {
+        "es": "Como Random Siege. No publicar: es una copia anterior.",
+        "en": "Same as Random Siege. Do not publish: it is an older copy."
+      },
+      "apk": {
+        "file": "randomsiegev1.apk",
+        "bytes": 44007960,
+        "sha256": "56f99d56ea18a3331e53a8a2d347ffee3391a5d79792341aa444fa808d2e4dac",
+        "release_url": "https://github.com/IAnMove/android-builds/releases/download/randomsiegev1-v0.1.0/randomsiegev1.apk"
+      },
+      "images": {
+        "icon": "metadata/android/en-US/images/icon.png",
+        "feature_graphic": "metadata/android/en-US/images/featureGraphic.png",
+        "phone_screenshots": {
+          "es": [
+            "metadata/android/es-ES/images/phoneScreenshots/1_deployer.jpg",
+            "metadata/android/es-ES/images/phoneScreenshots/2_title_b.jpg"
+          ],
+          "en": [
+            "metadata/android/en-US/images/phoneScreenshots/1_deployer.jpg",
+            "metadata/android/en-US/images/phoneScreenshots/2_title_b.jpg"
+          ]
+        }
+      },
+      "generated": "2026-10-11"
+    },
+    {
+      "slug": "siege",
+      "name": "Siege",
+      "title": {
+        "es": "Asedio",
+        "en": "Siege"
+      },
+      "title_proposal": {
+        "es": "Asedio",
+        "en": "Siege"
+      },
+      "package": "com.ina.siege",
+      "version_name": "0.1.0",
+      "version_code": 1,
+      "status": "sin APK",
+      "category": "Juegos › Estrategia",
+      "genre": {
+        "es": "Defensa de torres · 3D",
+        "en": "Tower defence · 3D"
+      },
+      "orientation": "landscape",
+      "short_description": {
+        "es": "Construye tu castillo y resiste 15 oleadas de orcos con muros, torres y cañones.",
+        "en": "Build your castle and survive 15 orc waves with walls, towers and cannons."
+      },
+      "full_description": {
+        "es": "Un mapa de 81x81 celdas con un río circular y cuatro vados. Levanta muros arrastrando el dedo, coloca torres, cañones, arcabuceros y barriles explosivos, excava fosos y tiende puentes. Los orcos siguen un campo de flujo: rodean los muros si el desvío es corto y, si no, los derriban; las catapultas llegan en la oleada 4 y la pólvora se desbloquea en la 5. Los edificios se agrietan, se derrumban con física y dejan escombros.\n\n• Construye con el dedo: Toque corto construye; mantener y arrastrar pinta muros. Dos dedos mueven, giran y acercan la cámara.\n• Quince oleadas: Grunts, enjambres de runts, brutes y catapultas; la oleada 15 supera los 200 orcos.\n• Agua: Nadar frena a los orcos; los brutes se ahogan. Fosos y puentes cambian sus caminos.\n• Destrucción: Edificios por etapas, cascotes con física, polvo y temblor de cámara.\n\n– Apaisado. Táctil y ratón.\n– Sin conexión, sin cuentas, sin anuncios.\n– Prototipo. La exportación a APK falla hoy en Godot al leer los modelos GLB importados: pendiente de arreglar.\n\nHecho por IAnMove con Godot Engine. Sin anuncios, sin cuentas, sin conexión a internet.\nMás juegos: https://iaen.es/android · X: @theinaog",
+        "en": "An 81x81 map with a circular river and four fords. Raise walls by dragging, place towers, cannons, musketeers and explosive barrels, dig moats and lay bridges. Orcs follow a flow field: they go around walls when the detour is short and knock them down otherwise; catapults arrive on wave 4 and gunpowder unlocks on wave 5. Buildings crack, collapse with physics and leave rubble.\n\n• Build with a finger: Tap to build; hold and drag to paint walls. Two fingers move, turn and zoom the camera.\n• Fifteen waves: Grunts, runt swarms, brutes and catapults; wave 15 brings more than 200 orcs.\n• Water: Swimming slows orcs; brutes drown. Moats and bridges change their paths.\n• Destruction: Staged building damage, physics rubble, dust and camera shake.\n\n– Landscape. Touch and mouse.\n– Offline, no accounts, no ads.\n– Prototype. The APK export currently fails in Godot while reading the imported GLB models: to be fixed.\n\nMade by IAnMove with Godot Engine. No ads, no accounts, no internet connection.\nMore games: https://iaen.es/android · X: @theinaog"
+      },
+      "privacy_policy_url": "https://iaen.es/android/siege/privacy/",
+      "website": "https://iaen.es/android/siege/",
+      "contact_email": "PENDIENTE: correo público de contacto obligatorio en Play Console",
+      "developer": "IAnMove",
+      "x": "https://x.com/theinaog",
+      "source_url": null,
+      "ads": false,
+      "in_app_purchases": false,
+      "collects_data": false,
+      "internet_permission": false,
+      "target_audience": "13+ (no dirigido a niños; si se declara para familias aplica la política de Familias)",
+      "content_rating_hints": {
+        "es": "Violencia fantástica contra orcos (sprites 2D, sin sangre). Probable PEGI 7.",
+        "en": "Fantasy violence against orcs (2D sprites, no blood). Likely PEGI 7."
+      },
+      "apk": null,
+      "images": {
+        "icon": "metadata/android/en-US/images/icon.png",
+        "feature_graphic": "metadata/android/en-US/images/featureGraphic.png",
+        "phone_screenshots": {
+          "es": [
+            "metadata/android/es-ES/images/phoneScreenshots/1_deployer.jpg",
+            "metadata/android/es-ES/images/phoneScreenshots/2_title_a.jpg"
+          ],
+          "en": [
+            "metadata/android/en-US/images/phoneScreenshots/1_deployer.jpg",
+            "metadata/android/en-US/images/phoneScreenshots/2_title_a.jpg"
+          ]
+        }
+      },
+      "generated": "2026-10-11"
+    },
+    {
+      "slug": "factorio",
+      "name": "Factorio Clone",
+      "title": {
+        "es": "Fábrica Planetaria",
+        "en": "Planet Factory"
+      },
+      "title_proposal": {
+        "es": "Fábrica Planetaria",
+        "en": "Planet Factory"
+      },
+      "package": "com.ina.factorio",
+      "version_name": "0.1",
+      "version_code": 1,
+      "status": "prototipo",
+      "category": "Juegos › Estrategia",
+      "genre": {
+        "es": "Automatización · fábrica",
+        "en": "Automation · factory"
+      },
+      "orientation": "landscape",
+      "short_description": {
+        "es": "Fábrica desde cero: minería, cintas, brazos, electricidad y un cohete.",
+        "en": "A factory from scratch: mining, belts, inserters, power, research and a rocket."
+      },
+      "full_description": {
+        "es": "Un juego de automatización en 2D: taladros, hornos, cintas transportadoras, brazos, postes eléctricos y ensambladores con recetas; laboratorio para investigar, torretas contra los bichos y un silo para lanzar el cohete final. Mapa de 160x160 casillas; se juega con teclado y ratón o con un joystick táctil.\n\n• Cadena de producción: Mineral, placas, engranajes, circuitos… hasta el cohete.\n• Cintas y brazos: Cintas, divisores, cintas subterráneas y brazos que giran por código.\n• Electricidad e investigación: Generadores de carbón, postes, laboratorio y tecnologías.\n• Bichos: Torretas para defender la fábrica.\n\n– Apaisado. Teclado y ratón o táctil.\n– Sin conexión, sin cuentas, sin anuncios.\n– Prototipo. Sprites generados con IA. El nombre «Factorio Clone» no sirve para Play (marca); se propone «Fábrica Planetaria».\n\nHecho por IAnMove con Godot Engine. Sin anuncios, sin cuentas, sin conexión a internet.\nMás juegos: https://iaen.es/android · X: @theinaog",
+        "en": "A 2D automation game: drills, furnaces, conveyor belts, inserters, power poles and assemblers with recipes; a lab to research, turrets against the bugs and a silo to launch the final rocket. A 160x160 tile map; play with keyboard and mouse or a touch joystick.\n\n• Production chain: Ore, plates, gears, circuits… all the way to the rocket.\n• Belts and inserters: Belts, splitters, underground belts and inserters rotated by code.\n• Power and research: Coal generators, poles, a lab and technologies.\n• Bugs: Turrets to defend the factory.\n\n– Landscape. Keyboard and mouse or touch.\n– Offline, no accounts, no ads.\n– Prototype. AI-generated sprites. The name 'Factorio Clone' cannot be used on Play (trademark); 'Planet Factory' is proposed.\n\nMade by IAnMove with Godot Engine. No ads, no accounts, no internet connection.\nMore games: https://iaen.es/android · X: @theinaog"
+      },
+      "privacy_policy_url": "https://iaen.es/android/factorio/privacy/",
+      "website": "https://iaen.es/android/factorio/",
+      "contact_email": "PENDIENTE: correo público de contacto obligatorio en Play Console",
+      "developer": "IAnMove",
+      "x": "https://x.com/theinaog",
+      "source_url": null,
+      "ads": false,
+      "in_app_purchases": false,
+      "collects_data": false,
+      "internet_permission": false,
+      "target_audience": "13+ (no dirigido a niños; si se declara para familias aplica la política de Familias)",
+      "content_rating_hints": {
+        "es": "Violencia leve contra bichos (torretas). Probable PEGI 7. Cambiar el nombre antes de publicar.",
+        "en": "Mild violence against bugs (turrets). Likely PEGI 7. Rename before publishing."
+      },
+      "apk": {
+        "file": "factorio.apk",
+        "bytes": 50510560,
+        "sha256": "8ddec29acbbdf6c405e917c49cd0090f2f95dee039808f736ce99c43986d8956",
+        "release_url": "https://github.com/IAnMove/android-builds/releases/download/factorio-v0.1/factorio.apk"
+      },
+      "images": {
+        "icon": "metadata/android/en-US/images/icon.png",
+        "feature_graphic": "metadata/android/en-US/images/featureGraphic.png",
+        "phone_screenshots": {
+          "es": [
+            "metadata/android/es-ES/images/phoneScreenshots/1_deployer.jpg",
+            "metadata/android/es-ES/images/phoneScreenshots/2_title_a.jpg"
+          ],
+          "en": [
+            "metadata/android/en-US/images/phoneScreenshots/1_deployer.jpg",
+            "metadata/android/en-US/images/phoneScreenshots/2_title_a.jpg"
+          ]
+        }
+      },
+      "generated": "2026-10-11"
+    },
+    {
+      "slug": "xenara",
+      "name": "XENARA: Colonia Mecánica",
+      "title": {
+        "es": "XENARA: Colonia Mecánica",
+        "en": "XENARA: Colonia Mecánica"
+      },
+      "title_proposal": null,
+      "package": "com.ina.xenara",
+      "version_name": "0.1",
+      "version_code": 1,
+      "status": "prototipo",
+      "category": "Juegos › Estrategia",
+      "genre": {
+        "es": "RTS · cuevas roguelike",
+        "en": "RTS · roguelike caves"
+      },
+      "orientation": "landscape",
+      "short_description": {
+        "es": "RTS de robots en un planeta hostil, cuevas en primera persona y campaña.",
+        "en": "Robot RTS on a hostile planet, first-person roguelike caves and a card campaign."
+      },
+      "full_description": {
+        "es": "Estrategia en tiempo real con obreros, edificios, metal y cristal, y un Mecha-Comandante que es el único pilotado por un humano: si muere, pierdes. Entra con él en las Cuevas Xeno y el juego pasa a primera persona: cueva procedural, criaturas viscosas, altares con mejoras y un Guardián como jefe. La campaña divide Xenara en 18 sectores por turnos, con cartas («envíos orbitales») que cambian cada batalla y una colmena que avanza mientras tú decides.\n\n• RTS táctil: Toca para seleccionar y ordenar, arrastra la cámara, pellizca para el zoom; catálogo de edificios con coste.\n• Cuevas en primera persona: Roguelike con mejoras de expedición, botín, reliquias y un jefe. Al salir, la cueva se derrumba.\n• Campaña con cartas: 18 sectores, rasgos visibles, hasta 3 cartas por asalto, Ironman opcional y guardado automático.\n• Música sintetizada: Ambientes de día, noche, cueva y jefe generados en tiempo real.\n\n– Apaisado. Táctil, teclado y ratón.\n– Sin conexión, sin cuentas, sin anuncios.\n– Prototipo en desarrollo; también existe una versión web solo RTS.\n\nHecho por IAnMove con Godot Engine. Sin anuncios, sin cuentas, sin conexión a internet.\nMás juegos: https://iaen.es/android · X: @theinaog",
+        "en": "Real-time strategy with workers, buildings, metal and crystal, and a Mecha-Commander, the only mech piloted by a human: if it dies, you lose. Take it into the Xeno Caves and the game switches to first person: a procedural cave, slimy creatures, altars with upgrades and a Guardian as boss. The campaign splits Xenara into 18 sectors played by turns, with cards ('orbital shipments') that change every battle and a hive that advances while you decide.\n\n• Touch RTS: Tap to select and command, drag the camera, pinch to zoom; building catalogue with costs.\n• First-person caves: Roguelike with expedition upgrades, loot, relics and a boss. The cave collapses when you leave.\n• Card campaign: 18 sectors, visible traits, up to 3 cards per assault, optional Ironman and autosave.\n• Synthesised music: Day, night, cave and boss ambiences generated in real time.\n\n– Landscape. Touch, keyboard and mouse.\n– Offline, no accounts, no ads.\n– Prototype in development; a web-only RTS version also exists.\n\nMade by IAnMove with Godot Engine. No ads, no accounts, no internet connection.\nMore games: https://iaen.es/android · X: @theinaog"
+      },
+      "privacy_policy_url": "https://iaen.es/android/xenara/privacy/",
+      "website": "https://iaen.es/android/xenara/",
+      "contact_email": "PENDIENTE: correo público de contacto obligatorio en Play Console",
+      "developer": "IAnMove",
+      "x": "https://x.com/theinaog",
+      "source_url": null,
+      "ads": false,
+      "in_app_purchases": false,
+      "collects_data": false,
+      "internet_permission": false,
+      "target_audience": "13+ (no dirigido a niños; si se declara para familias aplica la política de Familias)",
+      "content_rating_hints": {
+        "es": "Violencia fantástica contra criaturas (mocos y explosiones de baba, sin sangre humana). Probable PEGI 12.",
+        "en": "Fantasy violence against creatures (mucus and slime explosions, no human blood). Likely PEGI 12."
+      },
+      "apk": {
+        "file": "xenara.apk",
+        "bytes": 78641321,
+        "sha256": "f1bccb51bf947e57ca783f22cd2574eb6f6852a7cfc48a0a139fd1005d0279fa",
+        "release_url": "https://github.com/IAnMove/android-builds/releases/download/xenara-v0.1/xenara.apk"
+      },
+      "images": {
+        "icon": "metadata/android/en-US/images/icon.png",
+        "feature_graphic": "metadata/android/en-US/images/featureGraphic.png",
+        "phone_screenshots": {
+          "es": [
+            "metadata/android/es-ES/images/phoneScreenshots/1_deployer.jpg",
+            "metadata/android/es-ES/images/phoneScreenshots/2_slime_creatures_in_cave.jpg",
+            "metadata/android/es-ES/images/phoneScreenshots/3_slime_boss_in_cave.jpg",
+            "metadata/android/es-ES/images/phoneScreenshots/4_slime_explosion_in_cave.jpg",
+            "metadata/android/es-ES/images/phoneScreenshots/5_slime_impact_in_cave.jpg"
+          ],
+          "en": [
+            "metadata/android/en-US/images/phoneScreenshots/1_deployer.jpg",
+            "metadata/android/en-US/images/phoneScreenshots/2_slime_creatures_in_cave.jpg",
+            "metadata/android/en-US/images/phoneScreenshots/3_slime_boss_in_cave.jpg",
+            "metadata/android/en-US/images/phoneScreenshots/4_slime_explosion_in_cave.jpg",
+            "metadata/android/en-US/images/phoneScreenshots/5_slime_impact_in_cave.jpg"
+          ]
+        }
+      },
+      "generated": "2026-10-11"
+    },
+    {
+      "slug": "vuelvepronto",
+      "name": "Vuelve Pronto",
+      "title": {
+        "es": "Vuelve Pronto",
+        "en": "Vuelve Pronto"
+      },
+      "title_proposal": null,
+      "package": "com.ina.vuelvepronto",
+      "version_name": "0.1",
+      "version_code": 1,
+      "status": "prototipo",
+      "category": "Juegos › Aventura",
+      "genre": {
+        "es": "Aventura · game jam",
+        "en": "Adventure · game jam"
+      },
+      "orientation": "landscape",
+      "short_description": {
+        "es": "Remake de un juego de game jam: rescata almas en el limbo y elige tu final.",
+        "en": "Remake of a game jam game: rescue souls in limbo and choose your ending."
+      },
+      "full_description": {
+        "es": "Narciso muere atropellado delante de Clotilde y despierta en el limbo convertido en alma en pena. Por el camino rescata almas perdidas y las lanza contra los demonios; cada zona cuesta vida, cada alma que muere cuesta cordura, y al final hay que elegir: llevar a las almas a la luz o volver a la vida con Clotilde. Remake en Godot del juego de game jam original, con sus gráficos, sonidos y fuente.\n\n• Almas: Toca un alma para rescatarla y toca un demonio para lanzarla. El daño crece con cada alma que ataca junta.\n• Vida y cordura: Avanzar cuesta vida; perder almas cuesta cordura. A cero, te quedas en el limbo o te conviertes en demonio.\n• Dos finales: Diez niveles con un demonio jefe y una decisión final.\n• Español e inglés: Se elige al empezar.\n\n– Apaisado (2:1). Táctil y ratón.\n– Sin conexión, sin cuentas, sin anuncios.\n– Prototipo. Juego original de game jam por idelcano; remake en Godot.\n\nHecho por IAnMove con Godot Engine. Sin anuncios, sin cuentas, sin conexión a internet.\nMás juegos: https://iaen.es/android · X: @theinaog",
+        "en": "Narciso is run over in front of Clotilde and wakes up in limbo as a lost soul. Along the way he rescues lost souls and throws them at demons; every zone costs life, every soul that dies costs sanity, and at the end you must choose: lead the souls to the light or return to life with Clotilde. A Godot remake of the original game jam game, with its graphics, sounds and font.\n\n• Souls: Tap a soul to rescue it and tap a demon to throw it. Damage grows with every soul attacking together.\n• Life and sanity: Moving on costs life; losing souls costs sanity. At zero you stay in limbo or become a demon.\n• Two endings: Ten levels with a boss demon and a final choice.\n• Spanish and English: Chosen at the start.\n\n– Landscape (2:1). Touch and mouse.\n– Offline, no accounts, no ads.\n– Prototype. Original game jam game by idelcano; Godot remake.\n\nMade by IAnMove with Godot Engine. No ads, no accounts, no internet connection.\nMore games: https://iaen.es/android · X: @theinaog"
+      },
+      "privacy_policy_url": "https://iaen.es/android/vuelvepronto/privacy/",
+      "website": "https://iaen.es/android/vuelvepronto/",
+      "contact_email": "PENDIENTE: correo público de contacto obligatorio en Play Console",
+      "developer": "IAnMove",
+      "x": "https://x.com/theinaog",
+      "source_url": null,
+      "ads": false,
+      "in_app_purchases": false,
+      "collects_data": false,
+      "internet_permission": false,
+      "target_audience": "13+ (no dirigido a niños; si se declara para familias aplica la política de Familias)",
+      "content_rating_hints": {
+        "es": "Temas de muerte (atropello, limbo, demonios) tratados de forma estilizada; violencia fantástica leve. Probable PEGI 12 por el tema.",
+        "en": "Death themes (a road accident, limbo, demons) handled in a stylised way; mild fantasy violence. Likely PEGI 12 for the theme."
+      },
+      "apk": {
+        "file": "vuelvepronto.apk",
+        "bytes": 41020481,
+        "sha256": "1941cae1015665a7bd961e4cf09d521f8eef525710a86fa00987f428cd931845",
+        "release_url": "https://github.com/IAnMove/android-builds/releases/download/vuelvepronto-v0.1/vuelvepronto.apk"
+      },
+      "images": {
+        "icon": "metadata/android/en-US/images/icon.png",
+        "feature_graphic": "metadata/android/en-US/images/featureGraphic.png",
+        "phone_screenshots": {
+          "es": [
+            "metadata/android/es-ES/images/phoneScreenshots/1_deployer.jpg",
+            "metadata/android/es-ES/images/phoneScreenshots/2_title_b.jpg"
+          ],
+          "en": [
+            "metadata/android/en-US/images/phoneScreenshots/1_deployer.jpg",
+            "metadata/android/en-US/images/phoneScreenshots/2_title_b.jpg"
+          ]
+        }
+      },
+      "generated": "2026-10-11"
+    }
+  ]
+}

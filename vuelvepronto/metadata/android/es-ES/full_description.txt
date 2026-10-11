@@ -1,0 +1,13 @@
+Narciso muere atropellado delante de Clotilde y despierta en el limbo convertido en alma en pena. Por el camino rescata almas perdidas y las lanza contra los demonios; cada zona cuesta vida, cada alma que muere cuesta cordura, y al final hay que elegir: llevar a las almas a la luz o volver a la vida con Clotilde. Remake en Godot del juego de game jam original, con sus gráficos, sonidos y fuente.
+
+• Almas: Toca un alma para rescatarla y toca un demonio para lanzarla. El daño crece con cada alma que ataca junta.
+• Vida y cordura: Avanzar cuesta vida; perder almas cuesta cordura. A cero, te quedas en el limbo o te conviertes en demonio.
+• Dos finales: Diez niveles con un demonio jefe y una decisión final.
+• Español e inglés: Se elige al empezar.
+
+– Apaisado (2:1). Táctil y ratón.
+– Sin conexión, sin cuentas, sin anuncios.
+– Prototipo. Juego original de game jam por idelcano; remake en Godot.
+
+Hecho por IAnMove con Godot Engine. Sin anuncios, sin cuentas, sin conexión a internet.
+Más juegos: https://iaen.es/android · X: @theinaog

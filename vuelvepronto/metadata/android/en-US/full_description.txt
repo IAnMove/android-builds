@@ -1,0 +1,13 @@
+Narciso is run over in front of Clotilde and wakes up in limbo as a lost soul. Along the way he rescues lost souls and throws them at demons; every zone costs life, every soul that dies costs sanity, and at the end you must choose: lead the souls to the light or return to life with Clotilde. A Godot remake of the original game jam game, with its graphics, sounds and font.
+
+• Souls: Tap a soul to rescue it and tap a demon to throw it. Damage grows with every soul attacking together.
+• Life and sanity: Moving on costs life; losing souls costs sanity. At zero you stay in limbo or become a demon.
+• Two endings: Ten levels with a boss demon and a final choice.
+• Spanish and English: Chosen at the start.
+
+– Landscape (2:1). Touch and mouse.
+– Offline, no accounts, no ads.
+– Prototype. Original game jam game by idelcano; Godot remake.
+
+Made by IAnMove with Godot Engine. No ads, no accounts, no internet connection.
+More games: https://iaen.es/android · X: @theinaog

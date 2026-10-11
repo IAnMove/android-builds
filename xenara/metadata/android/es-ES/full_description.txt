@@ -1,0 +1,13 @@
+Estrategia en tiempo real con obreros, edificios, metal y cristal, y un Mecha-Comandante que es el único pilotado por un humano: si muere, pierdes. Entra con él en las Cuevas Xeno y el juego pasa a primera persona: cueva procedural, criaturas viscosas, altares con mejoras y un Guardián como jefe. La campaña divide Xenara en 18 sectores por turnos, con cartas («envíos orbitales») que cambian cada batalla y una colmena que avanza mientras tú decides.
+
+• RTS táctil: Toca para seleccionar y ordenar, arrastra la cámara, pellizca para el zoom; catálogo de edificios con coste.
+• Cuevas en primera persona: Roguelike con mejoras de expedición, botín, reliquias y un jefe. Al salir, la cueva se derrumba.
+• Campaña con cartas: 18 sectores, rasgos visibles, hasta 3 cartas por asalto, Ironman opcional y guardado automático.
+• Música sintetizada: Ambientes de día, noche, cueva y jefe generados en tiempo real.
+
+– Apaisado. Táctil, teclado y ratón.
+– Sin conexión, sin cuentas, sin anuncios.
+– Prototipo en desarrollo; también existe una versión web solo RTS.
+
+Hecho por IAnMove con Godot Engine. Sin anuncios, sin cuentas, sin conexión a internet.
+Más juegos: https://iaen.es/android · X: @theinaog

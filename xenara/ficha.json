@@ -1,0 +1,69 @@
+{
+  "slug": "xenara",
+  "name": "XENARA: Colonia Mecánica",
+  "title": {
+    "es": "XENARA: Colonia Mecánica",
+    "en": "XENARA: Colonia Mecánica"
+  },
+  "title_proposal": null,
+  "package": "com.ina.xenara",
+  "version_name": "0.1",
+  "version_code": 1,
+  "status": "prototipo",
+  "category": "Juegos › Estrategia",
+  "genre": {
+    "es": "RTS · cuevas roguelike",
+    "en": "RTS · roguelike caves"
+  },
+  "orientation": "landscape",
+  "short_description": {
+    "es": "RTS de robots en un planeta hostil, cuevas en primera persona y campaña.",
+    "en": "Robot RTS on a hostile planet, first-person roguelike caves and a card campaign."
+  },
+  "full_description": {
+    "es": "Estrategia en tiempo real con obreros, edificios, metal y cristal, y un Mecha-Comandante que es el único pilotado por un humano: si muere, pierdes. Entra con él en las Cuevas Xeno y el juego pasa a primera persona: cueva procedural, criaturas viscosas, altares con mejoras y un Guardián como jefe. La campaña divide Xenara en 18 sectores por turnos, con cartas («envíos orbitales») que cambian cada batalla y una colmena que avanza mientras tú decides.\n\n• RTS táctil: Toca para seleccionar y ordenar, arrastra la cámara, pellizca para el zoom; catálogo de edificios con coste.\n• Cuevas en primera persona: Roguelike con mejoras de expedición, botín, reliquias y un jefe. Al salir, la cueva se derrumba.\n• Campaña con cartas: 18 sectores, rasgos visibles, hasta 3 cartas por asalto, Ironman opcional y guardado automático.\n• Música sintetizada: Ambientes de día, noche, cueva y jefe generados en tiempo real.\n\n– Apaisado. Táctil, teclado y ratón.\n– Sin conexión, sin cuentas, sin anuncios.\n– Prototipo en desarrollo; también existe una versión web solo RTS.\n\nHecho por IAnMove con Godot Engine. Sin anuncios, sin cuentas, sin conexión a internet.\nMás juegos: https://iaen.es/android · X: @theinaog",
+    "en": "Real-time strategy with workers, buildings, metal and crystal, and a Mecha-Commander, the only mech piloted by a human: if it dies, you lose. Take it into the Xeno Caves and the game switches to first person: a procedural cave, slimy creatures, altars with upgrades and a Guardian as boss. The campaign splits Xenara into 18 sectors played by turns, with cards ('orbital shipments') that change every battle and a hive that advances while you decide.\n\n• Touch RTS: Tap to select and command, drag the camera, pinch to zoom; building catalogue with costs.\n• First-person caves: Roguelike with expedition upgrades, loot, relics and a boss. The cave collapses when you leave.\n• Card campaign: 18 sectors, visible traits, up to 3 cards per assault, optional Ironman and autosave.\n• Synthesised music: Day, night, cave and boss ambiences generated in real time.\n\n– Landscape. Touch, keyboard and mouse.\n– Offline, no accounts, no ads.\n– Prototype in development; a web-only RTS version also exists.\n\nMade by IAnMove with Godot Engine. No ads, no accounts, no internet connection.\nMore games: https://iaen.es/android · X: @theinaog"
+  },
+  "privacy_policy_url": "https://iaen.es/android/xenara/privacy/",
+  "website": "https://iaen.es/android/xenara/",
+  "contact_email": "PENDIENTE: correo público de contacto obligatorio en Play Console",
+  "developer": "IAnMove",
+  "x": "https://x.com/theinaog",
+  "source_url": null,
+  "ads": false,
+  "in_app_purchases": false,
+  "collects_data": false,
+  "internet_permission": false,
+  "target_audience": "13+ (no dirigido a niños; si se declara para familias aplica la política de Familias)",
+  "content_rating_hints": {
+    "es": "Violencia fantástica contra criaturas (mocos y explosiones de baba, sin sangre humana). Probable PEGI 12.",
+    "en": "Fantasy violence against creatures (mucus and slime explosions, no human blood). Likely PEGI 12."
+  },
+  "apk": {
+    "file": "xenara.apk",
+    "bytes": 78641321,
+    "sha256": "f1bccb51bf947e57ca783f22cd2574eb6f6852a7cfc48a0a139fd1005d0279fa",
+    "release_url": "https://github.com/IAnMove/android-builds/releases/download/xenara-v0.1/xenara.apk"
+  },
+  "images": {
+    "icon": "metadata/android/en-US/images/icon.png",
+    "feature_graphic": "metadata/android/en-US/images/featureGraphic.png",
+    "phone_screenshots": {
+      "es": [
+        "metadata/android/es-ES/images/phoneScreenshots/1_deployer.jpg",
+        "metadata/android/es-ES/images/phoneScreenshots/2_slime_creatures_in_cave.jpg",
+        "metadata/android/es-ES/images/phoneScreenshots/3_slime_boss_in_cave.jpg",
+        "metadata/android/es-ES/images/phoneScreenshots/4_slime_explosion_in_cave.jpg",
+        "metadata/android/es-ES/images/phoneScreenshots/5_slime_impact_in_cave.jpg"
+      ],
+      "en": [
+        "metadata/android/en-US/images/phoneScreenshots/1_deployer.jpg",
+        "metadata/android/en-US/images/phoneScreenshots/2_slime_creatures_in_cave.jpg",
+        "metadata/android/en-US/images/phoneScreenshots/3_slime_boss_in_cave.jpg",
+        "metadata/android/en-US/images/phoneScreenshots/4_slime_explosion_in_cave.jpg",
+        "metadata/android/en-US/images/phoneScreenshots/5_slime_impact_in_cave.jpg"
+      ]
+    }
+  },
+  "generated": "2026-10-11"
+}

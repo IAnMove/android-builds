@@ -1,0 +1,13 @@
+Real-time strategy with workers, buildings, metal and crystal, and a Mecha-Commander, the only mech piloted by a human: if it dies, you lose. Take it into the Xeno Caves and the game switches to first person: a procedural cave, slimy creatures, altars with upgrades and a Guardian as boss. The campaign splits Xenara into 18 sectors played by turns, with cards ('orbital shipments') that change every battle and a hive that advances while you decide.
+
+• Touch RTS: Tap to select and command, drag the camera, pinch to zoom; building catalogue with costs.
+• First-person caves: Roguelike with expedition upgrades, loot, relics and a boss. The cave collapses when you leave.
+• Card campaign: 18 sectors, visible traits, up to 3 cards per assault, optional Ironman and autosave.
+• Synthesised music: Day, night, cave and boss ambiences generated in real time.
+
+– Landscape. Touch, keyboard and mouse.
+– Offline, no accounts, no ads.
+– Prototype in development; a web-only RTS version also exists.
+
+Made by IAnMove with Godot Engine. No ads, no accounts, no internet connection.
+More games: https://iaen.es/android · X: @theinaog

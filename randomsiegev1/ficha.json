@@ -1,0 +1,63 @@
+{
+  "slug": "randomsiegev1",
+  "name": "Random Siege v1",
+  "title": {
+    "es": "Random Siege v1",
+    "en": "Random Siege v1"
+  },
+  "title_proposal": null,
+  "package": "com.ina.randomsiegev1",
+  "version_name": "0.1.0",
+  "version_code": 1,
+  "status": "duplicado",
+  "category": "Juegos › Arcade",
+  "genre": {
+    "es": "Arcade · mazmorras (versión anterior)",
+    "en": "Arcade · dungeon (earlier version)"
+  },
+  "orientation": "landscape",
+  "short_description": {
+    "es": "Versión anterior del remake de Random Siege. Duplicado: publicar solo una.",
+    "en": "Earlier version of the Random Siege remake. Duplicate: publish only one."
+  },
+  "full_description": {
+    "es": "Copia guardada de la primera versión del remake (v1), anterior al arco con carga y la voltereta. Mismas salas generadas, sprites y textos del original de 2015; 10 vidas, anillos, dientes y queso. Se conserva como referencia: en Google Play solo debería publicarse la versión actual (Random Siege).\n\n• Salas generadas: Habitaciones y pasillos con todo el suelo alcanzable.\n• Espada y flechas: Flecha con recarga de 2 segundos; enemigos de 50 a 500 puntos.\n\n– Apaisado.\n– Sin conexión, sin cuentas, sin anuncios.\n– Duplicado de Random Siege con otro paquete (com.ina.randomsiegev1). Play no admite dos fichas del mismo juego.\n\nHecho por IAnMove con Godot Engine. Sin anuncios, sin cuentas, sin conexión a internet.\nMás juegos: https://iaen.es/android · X: @theinaog",
+    "en": "Saved copy of the first version of the remake (v1), before the charged bow and the roll. Same generated rooms, sprites and texts from the 2015 original; 10 lives, rings, teeth and cheese. Kept as a reference: only the current version (Random Siege) should be published on Google Play.\n\n• Generated rooms: Rooms and corridors with every floor tile reachable.\n• Sword and arrows: Arrow with a 2-second reload; enemies worth 50 to 500 points.\n\n– Landscape.\n– Offline, no accounts, no ads.\n– Duplicate of Random Siege with another package (com.ina.randomsiegev1). Play will not accept two listings of the same game.\n\nMade by IAnMove with Godot Engine. No ads, no accounts, no internet connection.\nMore games: https://iaen.es/android · X: @theinaog"
+  },
+  "privacy_policy_url": "https://iaen.es/android/randomsiegev1/privacy/",
+  "website": "https://iaen.es/android/randomsiegev1/",
+  "contact_email": "PENDIENTE: correo público de contacto obligatorio en Play Console",
+  "developer": "IAnMove",
+  "x": "https://x.com/theinaog",
+  "source_url": null,
+  "ads": false,
+  "in_app_purchases": false,
+  "collects_data": false,
+  "internet_permission": false,
+  "target_audience": "13+ (no dirigido a niños; si se declara para familias aplica la política de Familias)",
+  "content_rating_hints": {
+    "es": "Como Random Siege. No publicar: es una copia anterior.",
+    "en": "Same as Random Siege. Do not publish: it is an older copy."
+  },
+  "apk": {
+    "file": "randomsiegev1.apk",
+    "bytes": 44007960,
+    "sha256": "56f99d56ea18a3331e53a8a2d347ffee3391a5d79792341aa444fa808d2e4dac",
+    "release_url": "https://github.com/IAnMove/android-builds/releases/download/randomsiegev1-v0.1.0/randomsiegev1.apk"
+  },
+  "images": {
+    "icon": "metadata/android/en-US/images/icon.png",
+    "feature_graphic": "metadata/android/en-US/images/featureGraphic.png",
+    "phone_screenshots": {
+      "es": [
+        "metadata/android/es-ES/images/phoneScreenshots/1_deployer.jpg",
+        "metadata/android/es-ES/images/phoneScreenshots/2_title_b.jpg"
+      ],
+      "en": [
+        "metadata/android/en-US/images/phoneScreenshots/1_deployer.jpg",
+        "metadata/android/en-US/images/phoneScreenshots/2_title_b.jpg"
+      ]
+    }
+  },
+  "generated": "2026-10-11"
+}

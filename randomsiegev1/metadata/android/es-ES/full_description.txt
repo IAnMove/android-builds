@@ -1,0 +1,11 @@
+Copia guardada de la primera versión del remake (v1), anterior al arco con carga y la voltereta. Mismas salas generadas, sprites y textos del original de 2015; 10 vidas, anillos, dientes y queso. Se conserva como referencia: en Google Play solo debería publicarse la versión actual (Random Siege).
+
+• Salas generadas: Habitaciones y pasillos con todo el suelo alcanzable.
+• Espada y flechas: Flecha con recarga de 2 segundos; enemigos de 50 a 500 puntos.
+
+– Apaisado.
+– Sin conexión, sin cuentas, sin anuncios.
+– Duplicado de Random Siege con otro paquete (com.ina.randomsiegev1). Play no admite dos fichas del mismo juego.
+
+Hecho por IAnMove con Godot Engine. Sin anuncios, sin cuentas, sin conexión a internet.
+Más juegos: https://iaen.es/android · X: @theinaog

@@ -1,0 +1,66 @@
+{
+  "slug": "taberna",
+  "name": "Taberna",
+  "title": {
+    "es": "Taberna",
+    "en": "Taberna"
+  },
+  "title_proposal": null,
+  "package": "com.ina.taberna",
+  "version_name": "0.1.0",
+  "version_code": 1,
+  "status": "sin APK",
+  "category": "Juegos › Simulación",
+  "genre": {
+    "es": "Gestión · narrativa",
+    "en": "Management · narrative"
+  },
+  "orientation": "landscape",
+  "short_description": {
+    "es": "De día prepara la plaza y el stock; de noche atiende la barra y sus historias.",
+    "en": "Prepare the square by day; tend the bar and its stories by night."
+  },
+  "full_description": {
+    "es": "Un juego de gestión narrativa. Compra ingredientes, elabora bebidas y cocina; abre el servicio y atiende a los parroquianos de la taberna, cada uno con sus historias, misiones y rumores. Entre día y día, el huerto, el lago y una expedición opcional a la mazmorra.\n\n• Día y noche: Preparar de día, atender la taberna de noche, dormir y vuelta a empezar. No hay que hacerlo todo cada día.\n• La barra: Pedidos, confianza y cofres si vuelves vivo de la expedición.\n• Misiones y rumores: Cada parroquiano trae historias; un diario las recoge.\n• Minijuegos: Cocina, huerto, pesca en el lago y una mazmorra en primera persona.\n• Español e inglés: Textos y diálogos en los dos idiomas.\n• Accesibilidad: Tamaño de texto y HUD, contraste alto, pesca asistida, menos movimiento y teclas configurables.\n\n– Apaisado. PC y Android.\n– Sin conexión, sin cuentas, sin anuncios. La partida y sus copias se guardan en el dispositivo.\n– Código abierto: el proyecto está en GitHub. Sigue en desarrollo (v0.1).\n\nHecho por IAnMove con Godot Engine. Sin anuncios, sin cuentas, sin conexión a internet.\nMás juegos: https://iaen.es/android · X: @theinaog",
+    "en": "A narrative management game. Buy ingredients, brew drinks and cook; open for service and tend the tavern's regulars, each with their own stories, quests and rumours. Between days, the garden, the lake and an optional dungeon expedition.\n\n• Day and night: Prepare by day, serve at night, sleep and start again. You do not need to do everything every day.\n• The bar: Orders, trust and chests if you come back alive from the expedition.\n• Quests and rumours: Every regular brings stories; a journal keeps them.\n• Minigames: Cooking, gardening, lake fishing and a first-person dungeon.\n• Spanish and English: Texts and dialogue in both languages.\n• Accessibility: Text and HUD size, high contrast, assisted fishing, reduced motion and configurable keys.\n\n– Landscape. PC and Android.\n– Offline, no accounts, no ads. Your game and its backups are saved on the device.\n– Open source: the project is on GitHub. Still in development (v0.1).\n\nMade by IAnMove with Godot Engine. No ads, no accounts, no internet connection.\nMore games: https://iaen.es/android · X: @theinaog"
+  },
+  "privacy_policy_url": "https://iaen.es/android/taberna/privacy/",
+  "website": "https://iaen.es/android/taberna/",
+  "contact_email": "PENDIENTE: correo público de contacto obligatorio en Play Console",
+  "developer": "IAnMove",
+  "x": "https://x.com/theinaog",
+  "source_url": "https://github.com/ianmove/taberna",
+  "ads": false,
+  "in_app_purchases": false,
+  "collects_data": false,
+  "internet_permission": false,
+  "target_audience": "13+ (no dirigido a niños; si se declara para familias aplica la política de Familias)",
+  "content_rating_hints": {
+    "es": "Alcohol de fantasía (se sirven cervezas e hidromiel en una taberna), mazmorra con criaturas y muerte posible del personaje. Probable PEGI 12. Revisar en IARC «referencias al alcohol».",
+    "en": "Fantasy alcohol (beer and mead served in a tavern), a dungeon with creatures and possible character death. Likely PEGI 12. Check 'alcohol references' in IARC."
+  },
+  "apk": null,
+  "images": {
+    "icon": "metadata/android/en-US/images/icon.png",
+    "feature_graphic": "metadata/android/en-US/images/featureGraphic.png",
+    "phone_screenshots": {
+      "es": [
+        "metadata/android/es-ES/images/phoneScreenshots/1_deployer.jpg",
+        "metadata/android/es-ES/images/phoneScreenshots/2_day2_morning_plaza.jpg",
+        "metadata/android/es-ES/images/phoneScreenshots/3_day2_service_clean.jpg",
+        "metadata/android/es-ES/images/phoneScreenshots/4_day1_shop.jpg",
+        "metadata/android/es-ES/images/phoneScreenshots/5_day1_night_entry.jpg",
+        "metadata/android/es-ES/images/phoneScreenshots/6_day1_brew_result.jpg"
+      ],
+      "en": [
+        "metadata/android/en-US/images/phoneScreenshots/1_deployer.jpg",
+        "metadata/android/en-US/images/phoneScreenshots/2_day2_morning_plaza.jpg",
+        "metadata/android/en-US/images/phoneScreenshots/3_day2_service_clean.jpg",
+        "metadata/android/en-US/images/phoneScreenshots/4_day1_shop.jpg",
+        "metadata/android/en-US/images/phoneScreenshots/5_day1_night_entry.jpg",
+        "metadata/android/en-US/images/phoneScreenshots/6_day1_brew_result.jpg"
+      ]
+    }
+  },
+  "generated": "2026-10-11"
+}

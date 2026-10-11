@@ -1,0 +1,15 @@
+ARPG isométrico de mundo abierto ambientado en Vallegrande, una ciudad de hoy tomada por la plaga. Mapa, combate, botín, habilidades, misiones y eventos; hordas que llegan de noche y un modo horda para sobrevivir en la arena del polígono.
+
+• Vallegrande: Una ciudad abierta con barrios, campamentos, hogueras que descubres y viaje rápido entre ellas.
+• Combate y botín: Ataca al más cercano, usa pociones y habilidades, equipa lo que encuentras desde la mochila.
+• Misiones y eventos: Encargos, grupos de enemigos que aparecen por el mapa y hordas al caer la noche.
+• Modo horda: Oleadas cada vez mayores hasta el amanecer. Cada nivel, elige una mejora.
+• Personajes: Varias clases, varias partidas guardadas y ciclo de día y noche.
+• Español e inglés: Interfaz en los dos idiomas; funciona con táctil, teclado y ratón o mando.
+
+– Apaisado. PC y Android.
+– Sin conexión, sin cuentas, sin anuncios. Las partidas se guardan en el dispositivo.
+– Base jugable (v0.1) pensada para seguir creciendo. Casi todo el arte está generado con IA; el sonido, por código.
+
+Hecho por IAnMove con Godot Engine. Sin anuncios, sin cuentas, sin conexión a internet.
+Más juegos: https://iaen.es/android · X: @theinaog

@@ -1,0 +1,72 @@
+{
+  "slug": "minisims",
+  "name": "Mini Sims",
+  "title": {
+    "es": "Mini Vidas",
+    "en": "Tiny Lives"
+  },
+  "title_proposal": {
+    "es": "Mini Vidas",
+    "en": "Tiny Lives"
+  },
+  "package": "com.ina.minisims",
+  "version_name": "0.1",
+  "version_code": 1,
+  "status": "prototipo",
+  "category": "Juegos › Simulación",
+  "genre": {
+    "es": "Simulador de vida",
+    "en": "Life sim"
+  },
+  "orientation": "landscape",
+  "short_description": {
+    "es": "Simulador de vida: crea tu personaje, construye su casa y cuida de él.",
+    "en": "Life sim: create your character, build their home and look after their needs."
+  },
+  "full_description": {
+    "es": "Crea un adulto con nombre, apariencia, dos rasgos y una aspiración; elige una de las tres parcelas de Los Olmos y construye la casa en el terreno vacío. Después, vive: necesidades, emociones, trabajo, relaciones, diario, mascotas (perro y gato) y visitas como el cartero o un ladrón. Personajes y muebles son mallas procedurales ligeras.\n\n• Creador: Ocho peinados, cuatro caras, estampados, colores de ropa, pelo y piel; vista previa al instante.\n• Construye: Paredes, puertas y un catálogo de muebles con acciones; vista con paredes arriba, cortadas o con tejado.\n• Vive: Necesidades, emociones con cara, trabajo, relaciones, diario y velocidad x1-x3.\n• Mascotas y visitas: Perro y gato con ánimo propio; cartero, vendedor y ladrón.\n\n– Apaisado. Táctil, teclado y mando.\n– Sin conexión, sin cuentas, sin anuncios.\n– Prototipo. El nombre «Mini Sims» no sirve para Play (marca); se propone «Mini Vidas».\n\nHecho por IAnMove con Godot Engine. Sin anuncios, sin cuentas, sin conexión a internet.\nMás juegos: https://iaen.es/android · X: @theinaog",
+    "en": "Create an adult with a name, looks, two traits and an aspiration; pick one of the three plots in Los Olmos and build the house on the empty lot. Then live: needs, emotions, a job, relationships, a journal, pets (dog and cat) and visitors like the postman or a burglar. Characters and furniture are light procedural meshes.\n\n• Creator: Eight hairstyles, four faces, prints, clothes, hair and skin colours; instant preview.\n• Build: Walls, doors and a furniture catalogue with actions; walls up, cut away or with roof.\n• Live: Needs, emotions on their faces, a job, relationships, a journal and x1-x3 speed.\n• Pets and visitors: A dog and a cat with their own mood; postman, salesman and burglar.\n\n– Landscape. Touch, keyboard and gamepad.\n– Offline, no accounts, no ads.\n– Prototype. The name 'Mini Sims' cannot be used on Play (trademark); 'Tiny Lives' is proposed.\n\nMade by IAnMove with Godot Engine. No ads, no accounts, no internet connection.\nMore games: https://iaen.es/android · X: @theinaog"
+  },
+  "privacy_policy_url": "https://iaen.es/android/minisims/privacy/",
+  "website": "https://iaen.es/android/minisims/",
+  "contact_email": "PENDIENTE: correo público de contacto obligatorio en Play Console",
+  "developer": "IAnMove",
+  "x": "https://x.com/theinaog",
+  "source_url": null,
+  "ads": false,
+  "in_app_purchases": false,
+  "collects_data": false,
+  "internet_permission": false,
+  "target_audience": "13+ (no dirigido a niños; si se declara para familias aplica la política de Familias)",
+  "content_rating_hints": {
+    "es": "Sin violencia (un ladrón puede visitar la casa). Apto para todos los públicos. Cambiar el nombre antes de publicar.",
+    "en": "No violence (a burglar may visit). Suitable for everyone. Rename before publishing."
+  },
+  "apk": {
+    "file": "minisims.apk",
+    "bytes": 42833947,
+    "sha256": "717378941a295ffaa91d1b0aed0bc2dcb08f5c5cc83ff4d44106670f381be023",
+    "release_url": "https://github.com/IAnMove/android-builds/releases/download/minisims-v0.1/minisims.apk"
+  },
+  "images": {
+    "icon": "metadata/android/en-US/images/icon.png",
+    "feature_graphic": "metadata/android/en-US/images/featureGraphic.png",
+    "phone_screenshots": {
+      "es": [
+        "metadata/android/es-ES/images/phoneScreenshots/1_deployer.jpg",
+        "metadata/android/es-ES/images/phoneScreenshots/2_start.jpg",
+        "metadata/android/es-ES/images/phoneScreenshots/3_hud.jpg",
+        "metadata/android/es-ES/images/phoneScreenshots/4_pets.jpg",
+        "metadata/android/es-ES/images/phoneScreenshots/5_faces.jpg"
+      ],
+      "en": [
+        "metadata/android/en-US/images/phoneScreenshots/1_deployer.jpg",
+        "metadata/android/en-US/images/phoneScreenshots/2_start.jpg",
+        "metadata/android/en-US/images/phoneScreenshots/3_hud.jpg",
+        "metadata/android/en-US/images/phoneScreenshots/4_pets.jpg",
+        "metadata/android/en-US/images/phoneScreenshots/5_faces.jpg"
+      ]
+    }
+  },
+  "generated": "2026-10-11"
+}

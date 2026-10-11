@@ -1,0 +1,1 @@
+Arcade de mazmorras: salas generadas, espada, arco con carga, voltereta y jefes.

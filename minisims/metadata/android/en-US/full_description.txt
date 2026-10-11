@@ -1,0 +1,13 @@
+Create an adult with a name, looks, two traits and an aspiration; pick one of the three plots in Los Olmos and build the house on the empty lot. Then live: needs, emotions, a job, relationships, a journal, pets (dog and cat) and visitors like the postman or a burglar. Characters and furniture are light procedural meshes.
+
+• Creator: Eight hairstyles, four faces, prints, clothes, hair and skin colours; instant preview.
+• Build: Walls, doors and a furniture catalogue with actions; walls up, cut away or with roof.
+• Live: Needs, emotions on their faces, a job, relationships, a journal and x1-x3 speed.
+• Pets and visitors: A dog and a cat with their own mood; postman, salesman and burglar.
+
+– Landscape. Touch, keyboard and gamepad.
+– Offline, no accounts, no ads.
+– Prototype. The name 'Mini Sims' cannot be used on Play (trademark); 'Tiny Lives' is proposed.
+
+Made by IAnMove with Godot Engine. No ads, no accounts, no internet connection.
+More games: https://iaen.es/android · X: @theinaog

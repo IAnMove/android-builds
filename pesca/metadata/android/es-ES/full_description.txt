@@ -1,0 +1,15 @@
+Mantén el botón para cargar el lanzamiento, mira cómo las sombras de los peces rondan la boya y toca a tiempo cuando pique. Al clavar, un minijuego de toques con tres barras: tiempo, hilo y fuerza del pez. Lanzar lejos saca peces más raros; de noche solo se ve lo que alumbra el farol.
+
+• Lanzar: Un toque corto lanza cerca; mantener, lejos. Cada zona tiene un banco de peces que se mueve cada tres horas.
+• La picada: La boya se hunde, vibra el móvil y suena un aviso: tienes 1,5 segundos para clavar.
+• Recoger: Toca dentro del círculo del pez; el centro es ¡PERFECTO!. Vigila el tiempo, el hilo y la fuerza del pez.
+• De noche: El farol se arrastra con el dedo y su luz atrae a los peces.
+• Niveles, cañas y cebos: Progreso por niveles, tienda, pedidos de los vecinos y peces con nombre.
+• Con la app cerrada: El juego avanza mientras no estás y te lo cuenta al volver.
+
+– Vertical, para una mano.
+– Sin conexión, sin cuentas, sin anuncios. La partida se guarda en el móvil.
+– Todo el arte 3D y el audio se generan por código.
+
+Hecho por IAnMove con Godot Engine. Sin anuncios, sin cuentas, sin conexión a internet.
+Más juegos: https://iaen.es/android · X: @theinaog

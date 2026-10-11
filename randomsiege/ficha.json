@@ -1,0 +1,63 @@
+{
+  "slug": "randomsiege",
+  "name": "Random Siege",
+  "title": {
+    "es": "Random Siege",
+    "en": "Random Siege"
+  },
+  "title_proposal": null,
+  "package": "com.ina.randomsiege",
+  "version_name": "0.1.0",
+  "version_code": 1,
+  "status": "prototipo",
+  "category": "Juegos › Arcade",
+  "genre": {
+    "es": "Arcade · mazmorras",
+    "en": "Arcade · dungeon"
+  },
+  "orientation": "landscape",
+  "short_description": {
+    "es": "Arcade de mazmorras: salas generadas, espada, arco con carga, voltereta y jefes.",
+    "en": "Dungeon arcade: generated rooms, sword, charged bow, dodge roll and bosses."
+  },
+  "full_description": {
+    "es": "Rehecho en Godot a partir del Random Siege original de 2015, con sus sprites, sonidos y textos (español, inglés, gallego y francés). Salas generadas con seis arquetipos, torretas y cajas de cobertura; espada, arco con carga que perfora a tope y voltereta con invulnerabilidad. Cada cinco niveles un jefe; combos, bonus de tiempo y «sin daño», élites y récords.\n\n• Salas generadas: Habitaciones, islas, anillo, laberinto, arena y cruz, siempre con todo el suelo alcanzable.\n• Espada, arco y voltereta: Arco con carga (25 a 75 de daño), carcaj que se recarga y voltereta invulnerable.\n• Enemigos con IA: Alerta por vista y ruido, persecución, embestidas telegrafiadas, murciélagos y jefe con furia.\n• Cuatro idiomas: Español, inglés, gallego y francés, como el original.\n\n– Apaisado. Teclado, mando y táctil.\n– Sin conexión, sin cuentas, sin anuncios.\n– Prototipo. Hay una copia anterior (Random Siege v1) con otro paquete: no publicar las dos.\n\nHecho por IAnMove con Godot Engine. Sin anuncios, sin cuentas, sin conexión a internet.\nMás juegos: https://iaen.es/android · X: @theinaog",
+    "en": "Rebuilt in Godot from the original 2015 Random Siege, with its sprites, sounds and texts (Spanish, English, Galician and French). Generated rooms with six archetypes, turrets and cover crates; sword, a charged bow that pierces at full charge and an invulnerable dodge roll. A boss every five levels; combos, time and no-damage bonuses, elites and records.\n\n• Generated rooms: Rooms, islands, ring, maze, arena and cross, with every floor tile reachable.\n• Sword, bow and roll: Charged bow (25 to 75 damage), refilling quiver and an invulnerable roll.\n• Enemies with AI: Alert by sight and sound, pursuit, telegraphed charges, bats and a raging boss.\n• Four languages: Spanish, English, Galician and French, like the original.\n\n– Landscape. Keyboard, gamepad and touch.\n– Offline, no accounts, no ads.\n– Prototype. An older copy (Random Siege v1) has its own package: do not publish both.\n\nMade by IAnMove with Godot Engine. No ads, no accounts, no internet connection.\nMore games: https://iaen.es/android · X: @theinaog"
+  },
+  "privacy_policy_url": "https://iaen.es/android/randomsiege/privacy/",
+  "website": "https://iaen.es/android/randomsiege/",
+  "contact_email": "PENDIENTE: correo público de contacto obligatorio en Play Console",
+  "developer": "IAnMove",
+  "x": "https://x.com/theinaog",
+  "source_url": null,
+  "ads": false,
+  "in_app_purchases": false,
+  "collects_data": false,
+  "internet_permission": false,
+  "target_audience": "13+ (no dirigido a niños; si se declara para familias aplica la política de Familias)",
+  "content_rating_hints": {
+    "es": "Violencia fantástica de píxeles (espada y flechas contra monstruos). Probable PEGI 7.",
+    "en": "Pixel fantasy violence (sword and arrows against monsters). Likely PEGI 7."
+  },
+  "apk": {
+    "file": "randomsiege.apk",
+    "bytes": 44229750,
+    "sha256": "2fbcd0aea46d5788c751b0d75172714016a78acce2dcecfc3405b32bcb357887",
+    "release_url": "https://github.com/IAnMove/android-builds/releases/download/randomsiege-v0.1.0/randomsiege.apk"
+  },
+  "images": {
+    "icon": "metadata/android/en-US/images/icon.png",
+    "feature_graphic": "metadata/android/en-US/images/featureGraphic.png",
+    "phone_screenshots": {
+      "es": [
+        "metadata/android/es-ES/images/phoneScreenshots/1_deployer.jpg",
+        "metadata/android/es-ES/images/phoneScreenshots/2_title_b.jpg"
+      ],
+      "en": [
+        "metadata/android/en-US/images/phoneScreenshots/1_deployer.jpg",
+        "metadata/android/en-US/images/phoneScreenshots/2_title_b.jpg"
+      ]
+    }
+  },
+  "generated": "2026-10-11"
+}

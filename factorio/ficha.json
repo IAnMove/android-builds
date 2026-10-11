@@ -1,0 +1,66 @@
+{
+  "slug": "factorio",
+  "name": "Factorio Clone",
+  "title": {
+    "es": "Fábrica Planetaria",
+    "en": "Planet Factory"
+  },
+  "title_proposal": {
+    "es": "Fábrica Planetaria",
+    "en": "Planet Factory"
+  },
+  "package": "com.ina.factorio",
+  "version_name": "0.1",
+  "version_code": 1,
+  "status": "prototipo",
+  "category": "Juegos › Estrategia",
+  "genre": {
+    "es": "Automatización · fábrica",
+    "en": "Automation · factory"
+  },
+  "orientation": "landscape",
+  "short_description": {
+    "es": "Fábrica desde cero: minería, cintas, brazos, electricidad y un cohete.",
+    "en": "A factory from scratch: mining, belts, inserters, power, research and a rocket."
+  },
+  "full_description": {
+    "es": "Un juego de automatización en 2D: taladros, hornos, cintas transportadoras, brazos, postes eléctricos y ensambladores con recetas; laboratorio para investigar, torretas contra los bichos y un silo para lanzar el cohete final. Mapa de 160x160 casillas; se juega con teclado y ratón o con un joystick táctil.\n\n• Cadena de producción: Mineral, placas, engranajes, circuitos… hasta el cohete.\n• Cintas y brazos: Cintas, divisores, cintas subterráneas y brazos que giran por código.\n• Electricidad e investigación: Generadores de carbón, postes, laboratorio y tecnologías.\n• Bichos: Torretas para defender la fábrica.\n\n– Apaisado. Teclado y ratón o táctil.\n– Sin conexión, sin cuentas, sin anuncios.\n– Prototipo. Sprites generados con IA. El nombre «Factorio Clone» no sirve para Play (marca); se propone «Fábrica Planetaria».\n\nHecho por IAnMove con Godot Engine. Sin anuncios, sin cuentas, sin conexión a internet.\nMás juegos: https://iaen.es/android · X: @theinaog",
+    "en": "A 2D automation game: drills, furnaces, conveyor belts, inserters, power poles and assemblers with recipes; a lab to research, turrets against the bugs and a silo to launch the final rocket. A 160x160 tile map; play with keyboard and mouse or a touch joystick.\n\n• Production chain: Ore, plates, gears, circuits… all the way to the rocket.\n• Belts and inserters: Belts, splitters, underground belts and inserters rotated by code.\n• Power and research: Coal generators, poles, a lab and technologies.\n• Bugs: Turrets to defend the factory.\n\n– Landscape. Keyboard and mouse or touch.\n– Offline, no accounts, no ads.\n– Prototype. AI-generated sprites. The name 'Factorio Clone' cannot be used on Play (trademark); 'Planet Factory' is proposed.\n\nMade by IAnMove with Godot Engine. No ads, no accounts, no internet connection.\nMore games: https://iaen.es/android · X: @theinaog"
+  },
+  "privacy_policy_url": "https://iaen.es/android/factorio/privacy/",
+  "website": "https://iaen.es/android/factorio/",
+  "contact_email": "PENDIENTE: correo público de contacto obligatorio en Play Console",
+  "developer": "IAnMove",
+  "x": "https://x.com/theinaog",
+  "source_url": null,
+  "ads": false,
+  "in_app_purchases": false,
+  "collects_data": false,
+  "internet_permission": false,
+  "target_audience": "13+ (no dirigido a niños; si se declara para familias aplica la política de Familias)",
+  "content_rating_hints": {
+    "es": "Violencia leve contra bichos (torretas). Probable PEGI 7. Cambiar el nombre antes de publicar.",
+    "en": "Mild violence against bugs (turrets). Likely PEGI 7. Rename before publishing."
+  },
+  "apk": {
+    "file": "factorio.apk",
+    "bytes": 50510560,
+    "sha256": "8ddec29acbbdf6c405e917c49cd0090f2f95dee039808f736ce99c43986d8956",
+    "release_url": "https://github.com/IAnMove/android-builds/releases/download/factorio-v0.1/factorio.apk"
+  },
+  "images": {
+    "icon": "metadata/android/en-US/images/icon.png",
+    "feature_graphic": "metadata/android/en-US/images/featureGraphic.png",
+    "phone_screenshots": {
+      "es": [
+        "metadata/android/es-ES/images/phoneScreenshots/1_deployer.jpg",
+        "metadata/android/es-ES/images/phoneScreenshots/2_title_a.jpg"
+      ],
+      "en": [
+        "metadata/android/en-US/images/phoneScreenshots/1_deployer.jpg",
+        "metadata/android/en-US/images/phoneScreenshots/2_title_a.jpg"
+      ]
+    }
+  },
+  "generated": "2026-10-11"
+}

@@ -1,0 +1,11 @@
+Saved copy of the first version of the remake (v1), before the charged bow and the roll. Same generated rooms, sprites and texts from the 2015 original; 10 lives, rings, teeth and cheese. Kept as a reference: only the current version (Random Siege) should be published on Google Play.
+
+• Generated rooms: Rooms and corridors with every floor tile reachable.
+• Sword and arrows: Arrow with a 2-second reload; enemies worth 50 to 500 points.
+
+– Landscape.
+– Offline, no accounts, no ads.
+– Duplicate of Random Siege with another package (com.ina.randomsiegev1). Play will not accept two listings of the same game.
+
+Made by IAnMove with Godot Engine. No ads, no accounts, no internet connection.
+More games: https://iaen.es/android · X: @theinaog

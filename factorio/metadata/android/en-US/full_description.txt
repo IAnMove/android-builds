@@ -1,0 +1,13 @@
+A 2D automation game: drills, furnaces, conveyor belts, inserters, power poles and assemblers with recipes; a lab to research, turrets against the bugs and a silo to launch the final rocket. A 160x160 tile map; play with keyboard and mouse or a touch joystick.
+
+• Production chain: Ore, plates, gears, circuits… all the way to the rocket.
+• Belts and inserters: Belts, splitters, underground belts and inserters rotated by code.
+• Power and research: Coal generators, poles, a lab and technologies.
+• Bugs: Turrets to defend the factory.
+
+– Landscape. Keyboard and mouse or touch.
+– Offline, no accounts, no ads.
+– Prototype. AI-generated sprites. The name 'Factorio Clone' cannot be used on Play (trademark); 'Planet Factory' is proposed.
+
+Made by IAnMove with Godot Engine. No ads, no accounts, no internet connection.
+More games: https://iaen.es/android · X: @theinaog

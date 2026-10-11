@@ -1,0 +1,63 @@
+{
+  "slug": "vialactea",
+  "name": "Via Lactea",
+  "title": {
+    "es": "Via Lactea",
+    "en": "Via Lactea"
+  },
+  "title_proposal": null,
+  "package": "org.ina.vialactea",
+  "version_name": "0.1",
+  "version_code": 1,
+  "status": "publicable",
+  "category": "Juegos › Simulación",
+  "genre": {
+    "es": "Espacio · navegación",
+    "en": "Space · navigation"
+  },
+  "orientation": "landscape",
+  "short_description": {
+    "es": "Pilota un carguero por la Vía Láctea: contratos de sistema en sistema.",
+    "en": "Fly a freighter across the Milky Way: contracts from system to system."
+  },
+  "full_description": {
+    "es": "Aceptas contratos, recoges en un sistema y entregas en otro, esquivando lo que haya por el camino. Nada de HUD pegado a la pantalla: los datos van en tres pantallas físicas del salpicadero (navegación, estado de la nave y radar), y la cabina se mueve contigo.\n\n• 900 sistemas: Cuatro brazos espirales y un bulbo central, con colores según el tipo espectral real.\n• Contratos: Encadenados y pagados según la distancia. La prima por casco intacto se cobra de verdad.\n• Aspecto retro: Color de 16 bits, tramado de Bayer y píxeles gordos, como una consola de la época.\n• Cielo procedural: La banda galáctica, el polvo y las estrellas salen de un shader: nada se repite.\n• Táctil: Gas, freno, turbo y alabeo con botones; el rumbo, arrastrando.\n• Pausa con resumen: Créditos, entregas y estado del casco sin salir del menú.\n\n– Apaisado. Android, Windows y Linux.\n– Sin conexión, sin cuentas, sin anuncios. La partida se guarda en el dispositivo.\n– Versión 0.1: sigue en desarrollo.\n\nHecho por IAnMove con Godot Engine. Sin anuncios, sin cuentas, sin conexión a internet.\nMás juegos: https://iaen.es/android · X: @theinaog",
+    "en": "Take contracts, pick up in one system and deliver in another, dodging whatever is in the way. No HUD glued to the screen: the data lives on three physical dashboard screens (navigation, ship status and radar), and the cockpit moves with you.\n\n• 900 systems: Four spiral arms and a central bulge, coloured by real spectral type.\n• Contracts: Chained and paid by distance. The intact-hull bonus is real money.\n• Retro look: 16-bit colour, Bayer dithering and chunky pixels, like a console of the era.\n• Procedural sky: The galactic band, dust and stars come from a shader: nothing repeats.\n• Touch: Throttle, brake, turbo and roll with buttons; heading by dragging.\n• Pause with summary: Credits, deliveries and hull status without leaving the menu.\n\n– Landscape. Android, Windows and Linux.\n– Offline, no accounts, no ads. Your game is saved on the device.\n– Version 0.1: still in development.\n\nMade by IAnMove with Godot Engine. No ads, no accounts, no internet connection.\nMore games: https://iaen.es/android · X: @theinaog"
+  },
+  "privacy_policy_url": "https://iaen.es/android/vialactea/privacy/",
+  "website": "https://iaen.es/android/vialactea/",
+  "contact_email": "PENDIENTE: correo público de contacto obligatorio en Play Console",
+  "developer": "IAnMove",
+  "x": "https://x.com/theinaog",
+  "source_url": null,
+  "ads": false,
+  "in_app_purchases": false,
+  "collects_data": false,
+  "internet_permission": false,
+  "target_audience": "13+ (no dirigido a niños; si se declara para familias aplica la política de Familias)",
+  "content_rating_hints": {
+    "es": "Sin violencia (navegación espacial y contratos). Apto para todos los públicos.",
+    "en": "No violence (space navigation and contracts). Suitable for everyone."
+  },
+  "apk": {
+    "file": "vialactea.apk",
+    "bytes": 30430357,
+    "sha256": "84b8db003f151082e3d9c9e4d0935fb50327cb5feb82c74ccb1b288705c87537",
+    "release_url": "https://github.com/IAnMove/android-builds/releases/download/vialactea-v0.1/vialactea.apk"
+  },
+  "images": {
+    "icon": "metadata/android/en-US/images/icon.png",
+    "feature_graphic": "metadata/android/en-US/images/featureGraphic.png",
+    "phone_screenshots": {
+      "es": [
+        "metadata/android/es-ES/images/phoneScreenshots/1_title_a.jpg",
+        "metadata/android/es-ES/images/phoneScreenshots/2_deployer.jpg"
+      ],
+      "en": [
+        "metadata/android/en-US/images/phoneScreenshots/1_title_a.jpg",
+        "metadata/android/en-US/images/phoneScreenshots/2_deployer.jpg"
+      ]
+    }
+  },
+  "generated": "2026-10-11"
+}

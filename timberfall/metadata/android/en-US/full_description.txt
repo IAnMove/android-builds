@@ -1,0 +1,15 @@
+You start with a stone axe on a pine island and end up with a sawmill, a crew of lumberjacks and a forest of ancient trees you planted yourself. Every swing cuts a notch where you aim until the tree falls.
+
+• Chop and mine: Notches in the trunk blow by blow; stone veins that crumble under your pickaxe.
+• Sell and upgrade: Wood and planks, a five-level axe, twelve skills, a sawmill and a crew.
+• Islands: Build the ship and reinforce it: every level reaches one more island with better trees.
+• Replant: Plant seeds and decide whether to chop now or wait for them to grow.
+• Day and night: Fires to put out, sleeping through the night, and progress while you are away.
+• Photo mode: A free camera to picture your forest.
+
+– Landscape. Floating joystick and touch buttons on mobile; keyboard and mouse on PC.
+– Offline, no accounts, no ads. Your game is saved on the device.
+– Open source: the project is on GitHub. Low-poly models generated with Blender from one script.
+
+Made by IAnMove with Godot Engine. No ads, no accounts, no internet connection.
+More games: https://iaen.es/android · X: @theinaog

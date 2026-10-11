@@ -1,0 +1,15 @@
+A narrative management game. Buy ingredients, brew drinks and cook; open for service and tend the tavern's regulars, each with their own stories, quests and rumours. Between days, the garden, the lake and an optional dungeon expedition.
+
+• Day and night: Prepare by day, serve at night, sleep and start again. You do not need to do everything every day.
+• The bar: Orders, trust and chests if you come back alive from the expedition.
+• Quests and rumours: Every regular brings stories; a journal keeps them.
+• Minigames: Cooking, gardening, lake fishing and a first-person dungeon.
+• Spanish and English: Texts and dialogue in both languages.
+• Accessibility: Text and HUD size, high contrast, assisted fishing, reduced motion and configurable keys.
+
+– Landscape. PC and Android.
+– Offline, no accounts, no ads. Your game and its backups are saved on the device.
+– Open source: the project is on GitHub. Still in development (v0.1).
+
+Made by IAnMove with Godot Engine. No ads, no accounts, no internet connection.
+More games: https://iaen.es/android · X: @theinaog

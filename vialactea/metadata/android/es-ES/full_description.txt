@@ -1,0 +1,15 @@
+Aceptas contratos, recoges en un sistema y entregas en otro, esquivando lo que haya por el camino. Nada de HUD pegado a la pantalla: los datos van en tres pantallas físicas del salpicadero (navegación, estado de la nave y radar), y la cabina se mueve contigo.
+
+• 900 sistemas: Cuatro brazos espirales y un bulbo central, con colores según el tipo espectral real.
+• Contratos: Encadenados y pagados según la distancia. La prima por casco intacto se cobra de verdad.
+• Aspecto retro: Color de 16 bits, tramado de Bayer y píxeles gordos, como una consola de la época.
+• Cielo procedural: La banda galáctica, el polvo y las estrellas salen de un shader: nada se repite.
+• Táctil: Gas, freno, turbo y alabeo con botones; el rumbo, arrastrando.
+• Pausa con resumen: Créditos, entregas y estado del casco sin salir del menú.
+
+– Apaisado. Android, Windows y Linux.
+– Sin conexión, sin cuentas, sin anuncios. La partida se guarda en el dispositivo.
+– Versión 0.1: sigue en desarrollo.
+
+Hecho por IAnMove con Godot Engine. Sin anuncios, sin cuentas, sin conexión a internet.
+Más juegos: https://iaen.es/android · X: @theinaog

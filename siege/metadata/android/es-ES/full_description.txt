@@ -1,0 +1,13 @@
+Un mapa de 81x81 celdas con un río circular y cuatro vados. Levanta muros arrastrando el dedo, coloca torres, cañones, arcabuceros y barriles explosivos, excava fosos y tiende puentes. Los orcos siguen un campo de flujo: rodean los muros si el desvío es corto y, si no, los derriban; las catapultas llegan en la oleada 4 y la pólvora se desbloquea en la 5. Los edificios se agrietan, se derrumban con física y dejan escombros.
+
+• Construye con el dedo: Toque corto construye; mantener y arrastrar pinta muros. Dos dedos mueven, giran y acercan la cámara.
+• Quince oleadas: Grunts, enjambres de runts, brutes y catapultas; la oleada 15 supera los 200 orcos.
+• Agua: Nadar frena a los orcos; los brutes se ahogan. Fosos y puentes cambian sus caminos.
+• Destrucción: Edificios por etapas, cascotes con física, polvo y temblor de cámara.
+
+– Apaisado. Táctil y ratón.
+– Sin conexión, sin cuentas, sin anuncios.
+– Prototipo. La exportación a APK falla hoy en Godot al leer los modelos GLB importados: pendiente de arreglar.
+
+Hecho por IAnMove con Godot Engine. Sin anuncios, sin cuentas, sin conexión a internet.
+Más juegos: https://iaen.es/android · X: @theinaog

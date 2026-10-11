@@ -1,0 +1,71 @@
+{
+  "slug": "timberfall",
+  "name": "Timberfall",
+  "title": {
+    "es": "Timberfall",
+    "en": "Timberfall"
+  },
+  "title_proposal": null,
+  "package": "com.ianmove.timberfall",
+  "version_name": "0.1.0",
+  "version_code": 1,
+  "status": "publicable",
+  "category": "Juegos › Simulación",
+  "genre": {
+    "es": "Acción · idle",
+    "en": "Action · idle"
+  },
+  "orientation": "landscape",
+  "short_description": {
+    "es": "Tala en primera persona, vende, mejora y reforesta. Acción e idle en una isla.",
+    "en": "Chop trees in first person, sell, upgrade and replant. Action and idle."
+  },
+  "full_description": {
+    "es": "Empiezas con un hacha de piedra en una isla de pinos y acabas con una serrería, una cuadrilla de leñadores y un bosque de árboles ancestrales que tú mismo plantaste. Cada hachazo abre una muesca donde apuntas hasta que el árbol cae.\n\n• Talar y picar: Muescas en el tronco golpe a golpe; vetas de piedra que se desmoronan con el pico.\n• Vender y mejorar: Madera y tablones, hacha de cinco niveles, doce habilidades, aserradero y cuadrilla.\n• Islas: Construye la nave y refuérzala: cada nivel alcanza una isla más, con mejores árboles.\n• Reforestar: Planta semillas y decide si talar ya o esperar a que crezcan.\n• Día y noche: Incendios que apagar, dormir para pasar la noche, y progreso mientras no juegas.\n• Modo foto: Cámara libre para retratar tu bosque.\n\n– Apaisado. Joystick flotante y botones táctiles en el móvil; teclado y ratón en el PC.\n– Sin conexión, sin cuentas, sin anuncios. La partida se guarda en el dispositivo.\n– Código abierto: el proyecto está en GitHub. Modelos low-poly generados con Blender desde un script.\n\nHecho por IAnMove con Godot Engine. Sin anuncios, sin cuentas, sin conexión a internet.\nMás juegos: https://iaen.es/android · X: @theinaog",
+    "en": "You start with a stone axe on a pine island and end up with a sawmill, a crew of lumberjacks and a forest of ancient trees you planted yourself. Every swing cuts a notch where you aim until the tree falls.\n\n• Chop and mine: Notches in the trunk blow by blow; stone veins that crumble under your pickaxe.\n• Sell and upgrade: Wood and planks, a five-level axe, twelve skills, a sawmill and a crew.\n• Islands: Build the ship and reinforce it: every level reaches one more island with better trees.\n• Replant: Plant seeds and decide whether to chop now or wait for them to grow.\n• Day and night: Fires to put out, sleeping through the night, and progress while you are away.\n• Photo mode: A free camera to picture your forest.\n\n– Landscape. Floating joystick and touch buttons on mobile; keyboard and mouse on PC.\n– Offline, no accounts, no ads. Your game is saved on the device.\n– Open source: the project is on GitHub. Low-poly models generated with Blender from one script.\n\nMade by IAnMove with Godot Engine. No ads, no accounts, no internet connection.\nMore games: https://iaen.es/android · X: @theinaog"
+  },
+  "privacy_policy_url": "https://iaen.es/android/timberfall/privacy/",
+  "website": "https://iaen.es/android/timberfall/",
+  "contact_email": "PENDIENTE: correo público de contacto obligatorio en Play Console",
+  "developer": "IAnMove",
+  "x": "https://x.com/theinaog",
+  "source_url": "https://github.com/IAnMove/Timberfall",
+  "ads": false,
+  "in_app_purchases": false,
+  "collects_data": false,
+  "internet_permission": false,
+  "target_audience": "13+ (no dirigido a niños; si se declara para familias aplica la política de Familias)",
+  "content_rating_hints": {
+    "es": "Sin violencia contra personas (se talan árboles, se apagan incendios). Apto para todos los públicos.",
+    "en": "No violence against people (chopping trees, putting out fires). Suitable for everyone."
+  },
+  "apk": {
+    "file": "timberfall.apk",
+    "bytes": 41506329,
+    "sha256": "568c6cc80034887561ad7791fd4624981459d9f49c1573b08188020d10ac6723",
+    "release_url": "https://github.com/IAnMove/android-builds/releases/download/timberfall-v0.1.0/timberfall.apk"
+  },
+  "images": {
+    "icon": "metadata/android/en-US/images/icon.png",
+    "feature_graphic": "metadata/android/en-US/images/featureGraphic.png",
+    "phone_screenshots": {
+      "es": [
+        "metadata/android/es-ES/images/phoneScreenshots/1_talando.jpg",
+        "metadata/android/es-ES/images/phoneScreenshots/2_arboleda_arcana.jpg",
+        "metadata/android/es-ES/images/phoneScreenshots/3_reforestar.jpg",
+        "metadata/android/es-ES/images/phoneScreenshots/4_hangar.jpg",
+        "metadata/android/es-ES/images/phoneScreenshots/5_atardecer.jpg",
+        "metadata/android/es-ES/images/phoneScreenshots/6_bosque_de_niebla.jpg"
+      ],
+      "en": [
+        "metadata/android/en-US/images/phoneScreenshots/1_talando.jpg",
+        "metadata/android/en-US/images/phoneScreenshots/2_arboleda_arcana.jpg",
+        "metadata/android/en-US/images/phoneScreenshots/3_reforestar.jpg",
+        "metadata/android/en-US/images/phoneScreenshots/4_hangar.jpg",
+        "metadata/android/en-US/images/phoneScreenshots/5_atardecer.jpg",
+        "metadata/android/en-US/images/phoneScreenshots/6_bosque_de_niebla.jpg"
+      ]
+    }
+  },
+  "generated": "2026-10-11"
+}

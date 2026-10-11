@@ -1,0 +1,61 @@
+{
+  "slug": "siege",
+  "name": "Siege",
+  "title": {
+    "es": "Asedio",
+    "en": "Siege"
+  },
+  "title_proposal": {
+    "es": "Asedio",
+    "en": "Siege"
+  },
+  "package": "com.ina.siege",
+  "version_name": "0.1.0",
+  "version_code": 1,
+  "status": "sin APK",
+  "category": "Juegos › Estrategia",
+  "genre": {
+    "es": "Defensa de torres · 3D",
+    "en": "Tower defence · 3D"
+  },
+  "orientation": "landscape",
+  "short_description": {
+    "es": "Construye tu castillo y resiste 15 oleadas de orcos con muros, torres y cañones.",
+    "en": "Build your castle and survive 15 orc waves with walls, towers and cannons."
+  },
+  "full_description": {
+    "es": "Un mapa de 81x81 celdas con un río circular y cuatro vados. Levanta muros arrastrando el dedo, coloca torres, cañones, arcabuceros y barriles explosivos, excava fosos y tiende puentes. Los orcos siguen un campo de flujo: rodean los muros si el desvío es corto y, si no, los derriban; las catapultas llegan en la oleada 4 y la pólvora se desbloquea en la 5. Los edificios se agrietan, se derrumban con física y dejan escombros.\n\n• Construye con el dedo: Toque corto construye; mantener y arrastrar pinta muros. Dos dedos mueven, giran y acercan la cámara.\n• Quince oleadas: Grunts, enjambres de runts, brutes y catapultas; la oleada 15 supera los 200 orcos.\n• Agua: Nadar frena a los orcos; los brutes se ahogan. Fosos y puentes cambian sus caminos.\n• Destrucción: Edificios por etapas, cascotes con física, polvo y temblor de cámara.\n\n– Apaisado. Táctil y ratón.\n– Sin conexión, sin cuentas, sin anuncios.\n– Prototipo. La exportación a APK falla hoy en Godot al leer los modelos GLB importados: pendiente de arreglar.\n\nHecho por IAnMove con Godot Engine. Sin anuncios, sin cuentas, sin conexión a internet.\nMás juegos: https://iaen.es/android · X: @theinaog",
+    "en": "An 81x81 map with a circular river and four fords. Raise walls by dragging, place towers, cannons, musketeers and explosive barrels, dig moats and lay bridges. Orcs follow a flow field: they go around walls when the detour is short and knock them down otherwise; catapults arrive on wave 4 and gunpowder unlocks on wave 5. Buildings crack, collapse with physics and leave rubble.\n\n• Build with a finger: Tap to build; hold and drag to paint walls. Two fingers move, turn and zoom the camera.\n• Fifteen waves: Grunts, runt swarms, brutes and catapults; wave 15 brings more than 200 orcs.\n• Water: Swimming slows orcs; brutes drown. Moats and bridges change their paths.\n• Destruction: Staged building damage, physics rubble, dust and camera shake.\n\n– Landscape. Touch and mouse.\n– Offline, no accounts, no ads.\n– Prototype. The APK export currently fails in Godot while reading the imported GLB models: to be fixed.\n\nMade by IAnMove with Godot Engine. No ads, no accounts, no internet connection.\nMore games: https://iaen.es/android · X: @theinaog"
+  },
+  "privacy_policy_url": "https://iaen.es/android/siege/privacy/",
+  "website": "https://iaen.es/android/siege/",
+  "contact_email": "PENDIENTE: correo público de contacto obligatorio en Play Console",
+  "developer": "IAnMove",
+  "x": "https://x.com/theinaog",
+  "source_url": null,
+  "ads": false,
+  "in_app_purchases": false,
+  "collects_data": false,
+  "internet_permission": false,
+  "target_audience": "13+ (no dirigido a niños; si se declara para familias aplica la política de Familias)",
+  "content_rating_hints": {
+    "es": "Violencia fantástica contra orcos (sprites 2D, sin sangre). Probable PEGI 7.",
+    "en": "Fantasy violence against orcs (2D sprites, no blood). Likely PEGI 7."
+  },
+  "apk": null,
+  "images": {
+    "icon": "metadata/android/en-US/images/icon.png",
+    "feature_graphic": "metadata/android/en-US/images/featureGraphic.png",
+    "phone_screenshots": {
+      "es": [
+        "metadata/android/es-ES/images/phoneScreenshots/1_deployer.jpg",
+        "metadata/android/es-ES/images/phoneScreenshots/2_title_a.jpg"
+      ],
+      "en": [
+        "metadata/android/en-US/images/phoneScreenshots/1_deployer.jpg",
+        "metadata/android/en-US/images/phoneScreenshots/2_title_a.jpg"
+      ]
+    }
+  },
+  "generated": "2026-10-11"
+}

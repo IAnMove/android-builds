@@ -1,0 +1,15 @@
+Un juego de cultivo tranquilo: vendes la cosecha o se la entregas a tus vecinos; el tiempo, los eventos del día y el nivel desbloquean semillas, terrenos y mejoras. Los cultivos siguen creciendo con la app cerrada.
+
+• Nueve bancales: Cava, planta, riega y cosecha con toques. Cada cultivo tiene su tiempo y su precio.
+• Vecinos: Marta, Domingo, Lola, Inés y Nico, con pedidos, gustos, visitas con decisiones, favores y regalos de amistad.
+• Semilleros: Puzles de encajar piezas con tres dificultades y pistas, para jugar mientras crecen los cultivos.
+• Restauración: Reconstruye el invernadero y el rincón vecinal, visibles al fondo del patio.
+• Recetario y álbum: Cinco recetas y cuatro colecciones con premios únicos.
+• Crece sin ti: El huerto sigue adelante con la app cerrada y te recibe al volver.
+
+– Vertical, para una mano.
+– Sin conexión, sin cuentas, sin anuncios. La partida se guarda en el móvil.
+– Modelos, texturas, iconos y audio generados por código para este juego.
+
+Hecho por IAnMove con Godot Engine. Sin anuncios, sin cuentas, sin conexión a internet.
+Más juegos: https://iaen.es/android · X: @theinaog

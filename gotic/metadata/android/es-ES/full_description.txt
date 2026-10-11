@@ -1,0 +1,15 @@
+Una isla de unos 1,8 km² con playas, colinas, bosques, montañas y una meseta, generada por código. Hay una aldea habitada, un gigante, encargos, una carrera, un farol de luciérnagas y un rebaño perdido. Cada experiencia es un mod que se enciende o se apaga antes de jugar o durante la partida.
+
+• Brumacosta: Sigue el sendero desde la playa hasta la aldea: seis casas, mercado, molino, hoguera y cinco vecinos.
+• Brum, el gigante: Habla con él y salta sus tres ondas doradas. Ganar desbloquea un impulso al cielo.
+• La escoba: Cógela y vuela hasta 260 m de altura. Aterrizaje automático al bajar.
+• El farol de las luciérnagas: Disipa sombras con destellos, recupera las chispas y libera una compañera que te deja planear.
+• El rebaño perdido: Consigue el silbato, reúne a Nube, Mora y Trufa y guíalas al corral. Los lobos acechan.
+• Carrera y encargos: Cruza seis puertas contra el reloj y entrega flores a Lía. Récords persistentes.
+
+– Apaisado. Controles táctiles en el móvil; teclado y ratón en el PC.
+– Sin conexión, sin cuentas, sin anuncios. La partida se guarda en el dispositivo.
+– Todo el arte se genera por código. Versión 0.1: sigue en desarrollo.
+
+Hecho por IAnMove con Godot Engine. Sin anuncios, sin cuentas, sin conexión a internet.
+Más juegos: https://iaen.es/android · X: @theinaog

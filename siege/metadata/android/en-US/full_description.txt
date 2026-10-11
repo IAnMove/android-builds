@@ -1,0 +1,13 @@
+An 81x81 map with a circular river and four fords. Raise walls by dragging, place towers, cannons, musketeers and explosive barrels, dig moats and lay bridges. Orcs follow a flow field: they go around walls when the detour is short and knock them down otherwise; catapults arrive on wave 4 and gunpowder unlocks on wave 5. Buildings crack, collapse with physics and leave rubble.
+
+• Build with a finger: Tap to build; hold and drag to paint walls. Two fingers move, turn and zoom the camera.
+• Fifteen waves: Grunts, runt swarms, brutes and catapults; wave 15 brings more than 200 orcs.
+• Water: Swimming slows orcs; brutes drown. Moats and bridges change their paths.
+• Destruction: Staged building damage, physics rubble, dust and camera shake.
+
+– Landscape. Touch and mouse.
+– Offline, no accounts, no ads.
+– Prototype. The APK export currently fails in Godot while reading the imported GLB models: to be fixed.
+
+Made by IAnMove with Godot Engine. No ads, no accounts, no internet connection.
+More games: https://iaen.es/android · X: @theinaog

@@ -1,0 +1,15 @@
+Es de noche en el claro del bosque y las sombras llegan por los bordes. Solo la hoguera las mantiene a raya. Tú eres su guardián: te mueves con el pulgar, tu llama ataca sola y en tres minutos llega el jefe.
+
+• Un solo pulgar: Arrastra el dedo por la mitad inferior y el joystick nace donde tocas. Tu llama ataca sola a la sombra más cercana.
+• Luz y sombra: Dentro del círculo de luz tus ataques pegan más y las sombras van más lentas. Fuera, al revés. ¿Te arriesgas?
+• Astillas y leña: Las sombras sueltan astillas: recógelas para subir de nivel y llévalas a la hoguera para que no se apague.
+• Tres llamas: Chispa, aura de calor o antorcha. En cada nivel eliges una de tres mejoras.
+• La Gran Sombra: Partidas de 3 minutos que acaban con un jefe. Mátala y amanece.
+• Tienda de brasas: Entre partidas, gasta brasas en mejoras permanentes: vida, luz, leña, daño…
+
+– Vertical, pensado para jugar con una mano.
+– Sin conexión, sin registro, sin anuncios. Todo el progreso se guarda en el móvil.
+– Todo el arte y el sonido están hechos a mano para este juego.
+
+Hecho por IAnMove con Godot Engine. Sin anuncios, sin cuentas, sin conexión a internet.
+Más juegos: https://iaen.es/android · X: @theinaog

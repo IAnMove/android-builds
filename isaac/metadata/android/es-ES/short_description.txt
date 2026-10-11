@@ -1,0 +1,1 @@
+Roguelike de salas: pisos generados, 8 armas, 21 objetos, jefes y progreso.

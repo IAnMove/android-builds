@@ -1,0 +1,13 @@
+Rebuilt in Godot from the original 2015 Random Siege, with its sprites, sounds and texts (Spanish, English, Galician and French). Generated rooms with six archetypes, turrets and cover crates; sword, a charged bow that pierces at full charge and an invulnerable dodge roll. A boss every five levels; combos, time and no-damage bonuses, elites and records.
+
+• Generated rooms: Rooms, islands, ring, maze, arena and cross, with every floor tile reachable.
+• Sword, bow and roll: Charged bow (25 to 75 damage), refilling quiver and an invulnerable roll.
+• Enemies with AI: Alert by sight and sound, pursuit, telegraphed charges, bats and a raging boss.
+• Four languages: Spanish, English, Galician and French, like the original.
+
+– Landscape. Keyboard, gamepad and touch.
+– Offline, no accounts, no ads.
+– Prototype. An older copy (Random Siege v1) has its own package: do not publish both.
+
+Made by IAnMove with Godot Engine. No ads, no accounts, no internet connection.
+More games: https://iaen.es/android · X: @theinaog

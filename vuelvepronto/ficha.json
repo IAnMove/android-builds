@@ -1,0 +1,63 @@
+{
+  "slug": "vuelvepronto",
+  "name": "Vuelve Pronto",
+  "title": {
+    "es": "Vuelve Pronto",
+    "en": "Vuelve Pronto"
+  },
+  "title_proposal": null,
+  "package": "com.ina.vuelvepronto",
+  "version_name": "0.1",
+  "version_code": 1,
+  "status": "prototipo",
+  "category": "Juegos › Aventura",
+  "genre": {
+    "es": "Aventura · game jam",
+    "en": "Adventure · game jam"
+  },
+  "orientation": "landscape",
+  "short_description": {
+    "es": "Remake de un juego de game jam: rescata almas en el limbo y elige tu final.",
+    "en": "Remake of a game jam game: rescue souls in limbo and choose your ending."
+  },
+  "full_description": {
+    "es": "Narciso muere atropellado delante de Clotilde y despierta en el limbo convertido en alma en pena. Por el camino rescata almas perdidas y las lanza contra los demonios; cada zona cuesta vida, cada alma que muere cuesta cordura, y al final hay que elegir: llevar a las almas a la luz o volver a la vida con Clotilde. Remake en Godot del juego de game jam original, con sus gráficos, sonidos y fuente.\n\n• Almas: Toca un alma para rescatarla y toca un demonio para lanzarla. El daño crece con cada alma que ataca junta.\n• Vida y cordura: Avanzar cuesta vida; perder almas cuesta cordura. A cero, te quedas en el limbo o te conviertes en demonio.\n• Dos finales: Diez niveles con un demonio jefe y una decisión final.\n• Español e inglés: Se elige al empezar.\n\n– Apaisado (2:1). Táctil y ratón.\n– Sin conexión, sin cuentas, sin anuncios.\n– Prototipo. Juego original de game jam por idelcano; remake en Godot.\n\nHecho por IAnMove con Godot Engine. Sin anuncios, sin cuentas, sin conexión a internet.\nMás juegos: https://iaen.es/android · X: @theinaog",
+    "en": "Narciso is run over in front of Clotilde and wakes up in limbo as a lost soul. Along the way he rescues lost souls and throws them at demons; every zone costs life, every soul that dies costs sanity, and at the end you must choose: lead the souls to the light or return to life with Clotilde. A Godot remake of the original game jam game, with its graphics, sounds and font.\n\n• Souls: Tap a soul to rescue it and tap a demon to throw it. Damage grows with every soul attacking together.\n• Life and sanity: Moving on costs life; losing souls costs sanity. At zero you stay in limbo or become a demon.\n• Two endings: Ten levels with a boss demon and a final choice.\n• Spanish and English: Chosen at the start.\n\n– Landscape (2:1). Touch and mouse.\n– Offline, no accounts, no ads.\n– Prototype. Original game jam game by idelcano; Godot remake.\n\nMade by IAnMove with Godot Engine. No ads, no accounts, no internet connection.\nMore games: https://iaen.es/android · X: @theinaog"
+  },
+  "privacy_policy_url": "https://iaen.es/android/vuelvepronto/privacy/",
+  "website": "https://iaen.es/android/vuelvepronto/",
+  "contact_email": "PENDIENTE: correo público de contacto obligatorio en Play Console",
+  "developer": "IAnMove",
+  "x": "https://x.com/theinaog",
+  "source_url": null,
+  "ads": false,
+  "in_app_purchases": false,
+  "collects_data": false,
+  "internet_permission": false,
+  "target_audience": "13+ (no dirigido a niños; si se declara para familias aplica la política de Familias)",
+  "content_rating_hints": {
+    "es": "Temas de muerte (atropello, limbo, demonios) tratados de forma estilizada; violencia fantástica leve. Probable PEGI 12 por el tema.",
+    "en": "Death themes (a road accident, limbo, demons) handled in a stylised way; mild fantasy violence. Likely PEGI 12 for the theme."
+  },
+  "apk": {
+    "file": "vuelvepronto.apk",
+    "bytes": 41020481,
+    "sha256": "1941cae1015665a7bd961e4cf09d521f8eef525710a86fa00987f428cd931845",
+    "release_url": "https://github.com/IAnMove/android-builds/releases/download/vuelvepronto-v0.1/vuelvepronto.apk"
+  },
+  "images": {
+    "icon": "metadata/android/en-US/images/icon.png",
+    "feature_graphic": "metadata/android/en-US/images/featureGraphic.png",
+    "phone_screenshots": {
+      "es": [
+        "metadata/android/es-ES/images/phoneScreenshots/1_deployer.jpg",
+        "metadata/android/es-ES/images/phoneScreenshots/2_title_b.jpg"
+      ],
+      "en": [
+        "metadata/android/en-US/images/phoneScreenshots/1_deployer.jpg",
+        "metadata/android/en-US/images/phoneScreenshots/2_title_b.jpg"
+      ]
+    }
+  },
+  "generated": "2026-10-11"
+}

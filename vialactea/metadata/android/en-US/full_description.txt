@@ -1,0 +1,15 @@
+Take contracts, pick up in one system and deliver in another, dodging whatever is in the way. No HUD glued to the screen: the data lives on three physical dashboard screens (navigation, ship status and radar), and the cockpit moves with you.
+
+• 900 systems: Four spiral arms and a central bulge, coloured by real spectral type.
+• Contracts: Chained and paid by distance. The intact-hull bonus is real money.
+• Retro look: 16-bit colour, Bayer dithering and chunky pixels, like a console of the era.
+• Procedural sky: The galactic band, dust and stars come from a shader: nothing repeats.
+• Touch: Throttle, brake, turbo and roll with buttons; heading by dragging.
+• Pause with summary: Credits, deliveries and hull status without leaving the menu.
+
+– Landscape. Android, Windows and Linux.
+– Offline, no accounts, no ads. Your game is saved on the device.
+– Version 0.1: still in development.
+
+Made by IAnMove with Godot Engine. No ads, no accounts, no internet connection.
+More games: https://iaen.es/android · X: @theinaog

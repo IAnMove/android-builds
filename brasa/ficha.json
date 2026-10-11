@@ -1,0 +1,71 @@
+{
+  "slug": "brasa",
+  "name": "Brasa",
+  "title": {
+    "es": "Brasa",
+    "en": "Brasa"
+  },
+  "title_proposal": null,
+  "package": "com.ina.brasa",
+  "version_name": "1.0",
+  "version_code": 1,
+  "status": "publicable",
+  "category": "Juegos › Acción",
+  "genre": {
+    "es": "Acción · survivor",
+    "en": "Action · survivor"
+  },
+  "orientation": "portrait",
+  "short_description": {
+    "es": "Guarda la hoguera hasta el amanecer. Sobrevive 3 minutos con un dedo.",
+    "en": "Keep the bonfire alive until dawn. Survive 3 minutes with one thumb."
+  },
+  "full_description": {
+    "es": "Es de noche en el claro del bosque y las sombras llegan por los bordes. Solo la hoguera las mantiene a raya. Tú eres su guardián: te mueves con el pulgar, tu llama ataca sola y en tres minutos llega el jefe.\n\n• Un solo pulgar: Arrastra el dedo por la mitad inferior y el joystick nace donde tocas. Tu llama ataca sola a la sombra más cercana.\n• Luz y sombra: Dentro del círculo de luz tus ataques pegan más y las sombras van más lentas. Fuera, al revés. ¿Te arriesgas?\n• Astillas y leña: Las sombras sueltan astillas: recógelas para subir de nivel y llévalas a la hoguera para que no se apague.\n• Tres llamas: Chispa, aura de calor o antorcha. En cada nivel eliges una de tres mejoras.\n• La Gran Sombra: Partidas de 3 minutos que acaban con un jefe. Mátala y amanece.\n• Tienda de brasas: Entre partidas, gasta brasas en mejoras permanentes: vida, luz, leña, daño…\n\n– Vertical, pensado para jugar con una mano.\n– Sin conexión, sin registro, sin anuncios. Todo el progreso se guarda en el móvil.\n– Todo el arte y el sonido están hechos a mano para este juego.\n\nHecho por IAnMove con Godot Engine. Sin anuncios, sin cuentas, sin conexión a internet.\nMás juegos: https://iaen.es/android · X: @theinaog",
+    "en": "Night has fallen on the forest clearing and the shades are coming in from the edges. Only the bonfire keeps them at bay. You are its keeper: move with your thumb, your flame attacks on its own, and in three minutes the boss arrives.\n\n• One thumb: Drag your finger on the lower half and the joystick appears where you touch. Your flame attacks the nearest shade on its own.\n• Light and shadow: Inside the circle of light your attacks hit harder and the shades slow down. Outside, the opposite. Will you risk it?\n• Splinters and wood: Shades drop splinters: pick them up to level up and bring them to the bonfire so it never dies.\n• Three flames: Spark, heat aura or torch. Pick one of three upgrades on every level.\n• The Great Shade: 3-minute runs that end with a boss. Kill it and dawn breaks.\n• Ember shop: Between runs, spend embers on permanent upgrades: health, light, wood, damage…\n\n– Portrait, designed to be played with one hand.\n– Offline, no sign-up, no ads. All progress is saved on your phone.\n– All art and sound were made by hand for this game.\n\nMade by IAnMove with Godot Engine. No ads, no accounts, no internet connection.\nMore games: https://iaen.es/android · X: @theinaog"
+  },
+  "privacy_policy_url": "https://iaen.es/android/brasa/privacy/",
+  "website": "https://iaen.es/android/brasa/",
+  "contact_email": "PENDIENTE: correo público de contacto obligatorio en Play Console",
+  "developer": "IAnMove",
+  "x": "https://x.com/theinaog",
+  "source_url": null,
+  "ads": false,
+  "in_app_purchases": false,
+  "collects_data": false,
+  "internet_permission": false,
+  "target_audience": "13+ (no dirigido a niños; si se declara para familias aplica la política de Familias)",
+  "content_rating_hints": {
+    "es": "Violencia fantástica leve (sombras abstractas, sin sangre). Hay botones «REVIVIR (ver anuncio)» y «DUPLICAR BRASAS (ver anuncio)» que hoy conceden la recompensa sin mostrar ningún anuncio (no hay SDK). Revisar antes de declarar «sin anuncios».",
+    "en": "Mild fantasy violence (abstract shades, no blood). The REVIVE/DOUBLE EMBERS (watch ad) buttons currently grant the reward without showing any ad (no ad SDK). Review before declaring 'no ads'."
+  },
+  "apk": {
+    "file": "brasa.apk",
+    "bytes": 59447115,
+    "sha256": "53ddabf91fc78d67a18c6e6167aae57794488c66ab350d2d96d4bb54a16258aa",
+    "release_url": "https://github.com/IAnMove/android-builds/releases/download/brasa-v1.0/brasa.apk"
+  },
+  "images": {
+    "icon": "metadata/android/en-US/images/icon.png",
+    "feature_graphic": "metadata/android/en-US/images/featureGraphic.png",
+    "phone_screenshots": {
+      "es": [
+        "metadata/android/es-ES/images/phoneScreenshots/1_title.jpg",
+        "metadata/android/es-ES/images/phoneScreenshots/2_run_many.jpg",
+        "metadata/android/es-ES/images/phoneScreenshots/3_levelup.jpg",
+        "metadata/android/es-ES/images/phoneScreenshots/4_boss.jpg",
+        "metadata/android/es-ES/images/phoneScreenshots/5_end.jpg",
+        "metadata/android/es-ES/images/phoneScreenshots/6_shop.jpg"
+      ],
+      "en": [
+        "metadata/android/en-US/images/phoneScreenshots/1_title.jpg",
+        "metadata/android/en-US/images/phoneScreenshots/2_run_many.jpg",
+        "metadata/android/en-US/images/phoneScreenshots/3_levelup.jpg",
+        "metadata/android/en-US/images/phoneScreenshots/4_boss.jpg",
+        "metadata/android/en-US/images/phoneScreenshots/5_end.jpg",
+        "metadata/android/en-US/images/phoneScreenshots/6_shop.jpg"
+      ]
+    }
+  },
+  "generated": "2026-10-11"
+}

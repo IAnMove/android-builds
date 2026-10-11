@@ -1,0 +1,15 @@
+Un juego de gestión narrativa. Compra ingredientes, elabora bebidas y cocina; abre el servicio y atiende a los parroquianos de la taberna, cada uno con sus historias, misiones y rumores. Entre día y día, el huerto, el lago y una expedición opcional a la mazmorra.
+
+• Día y noche: Preparar de día, atender la taberna de noche, dormir y vuelta a empezar. No hay que hacerlo todo cada día.
+• La barra: Pedidos, confianza y cofres si vuelves vivo de la expedición.
+• Misiones y rumores: Cada parroquiano trae historias; un diario las recoge.
+• Minijuegos: Cocina, huerto, pesca en el lago y una mazmorra en primera persona.
+• Español e inglés: Textos y diálogos en los dos idiomas.
+• Accesibilidad: Tamaño de texto y HUD, contraste alto, pesca asistida, menos movimiento y teclas configurables.
+
+– Apaisado. PC y Android.
+– Sin conexión, sin cuentas, sin anuncios. La partida y sus copias se guardan en el dispositivo.
+– Código abierto: el proyecto está en GitHub. Sigue en desarrollo (v0.1).
+
+Hecho por IAnMove con Godot Engine. Sin anuncios, sin cuentas, sin conexión a internet.
+Más juegos: https://iaen.es/android · X: @theinaog

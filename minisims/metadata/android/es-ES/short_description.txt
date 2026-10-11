@@ -1,0 +1,1 @@
+Simulador de vida: crea tu personaje, construye su casa y cuida de él.

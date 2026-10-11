@@ -1,0 +1,15 @@
+Llegas a la isla y Don Topo te recibe en la plaza con una red, una caña y 1.000 bellotas. A partir de ahí la isla sigue la hora, el día y la estación de tu móvil: 28 peces y 25 bichos según el mes y la hora, fósiles nuevos cada día, cerezos en flor en abril y nieve en invierno. Vende en la tienda de Rufina, dona al museo de Doña Tortuga, amplía tu casa y gánate a Pipa, Bruno, Lola y Coco.
+
+• Reloj real: Hora, día y estación de tu dispositivo. Si vuelves después de días, te cuentan qué ha cambiado.
+• Pesca y bichos: 28 peces y 25 bichos según mes, hora y lugar. Acércate de puntillas o huyen.
+• Cava y planta: Fósiles, almejas, rocas con minerales; semillas, flores que se cruzan y plantones.
+• Tienda y museo: Vende tu pesca, compra herramientas y muebles, dona un ejemplar de cada especie.
+• Tu casa: De tienda de campaña a casa con buzón; 30 muebles que colocar y girar. Préstamo sin intereses.
+• Vecinos: Cuatro vecinos con horario, voz, encargos y gustos. La amistad sube charlando y regalando.
+
+– Apaisado. PC y Android.
+– Sin conexión, sin cuentas, sin anuncios. La partida se guarda en el dispositivo.
+– Inspirado en Animal Crossing en las mecánicas; nombres, personajes y arte son propios y generados por código.
+
+Hecho por IAnMove con Godot Engine. Sin anuncios, sin cuentas, sin conexión a internet.
+Más juegos: https://iaen.es/android · X: @theinaog

@@ -1,0 +1,13 @@
+Crea un adulto con nombre, apariencia, dos rasgos y una aspiración; elige una de las tres parcelas de Los Olmos y construye la casa en el terreno vacío. Después, vive: necesidades, emociones, trabajo, relaciones, diario, mascotas (perro y gato) y visitas como el cartero o un ladrón. Personajes y muebles son mallas procedurales ligeras.
+
+• Creador: Ocho peinados, cuatro caras, estampados, colores de ropa, pelo y piel; vista previa al instante.
+• Construye: Paredes, puertas y un catálogo de muebles con acciones; vista con paredes arriba, cortadas o con tejado.
+• Vive: Necesidades, emociones con cara, trabajo, relaciones, diario y velocidad x1-x3.
+• Mascotas y visitas: Perro y gato con ánimo propio; cartero, vendedor y ladrón.
+
+– Apaisado. Táctil, teclado y mando.
+– Sin conexión, sin cuentas, sin anuncios.
+– Prototipo. El nombre «Mini Sims» no sirve para Play (marca); se propone «Mini Vidas».
+
+Hecho por IAnMove con Godot Engine. Sin anuncios, sin cuentas, sin conexión a internet.
+Más juegos: https://iaen.es/android · X: @theinaog
