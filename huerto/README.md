@@ -1,6 +1,6 @@
 # Huerto — ficha de Google Play
 
-Estado: **publicable** · Paquete `com.ina.huerto` · Versión 1.0 (versionCode 1) · Generado 2026-10-11
+Estado: **publicable** · Paquete `es.iaen.huerto` · Versión 1.0 (versionCode 1) · Generado 2026-10-11
 
 | Campo de Play Console | Valor |
 |---|---|
@@ -18,7 +18,7 @@ Estado: **publicable** · Paquete `com.ina.huerto` · Versión 1.0 (versionCode 
 | Público objetivo | 13+ (no dirigido a niños; si se declara para familias aplica la política de Familias) |
 | Clasificación (IARC), pistas | Sin violencia. Apto para todos los públicos; si se declara para familias, aplica la política de Familias de Play. |
 | Código fuente | — |
-| APK | [`huerto.apk`](https://github.com/IAnMove/android-builds/releases/download/huerto-v1.0/huerto.apk) · 57.8 MB · SHA-256 `3e729c0a1618c1b8ec9f9c10930d0c8117003ad9055a686c586af38b2b405b34` (APK de depuración, firmado con la clave debug: sirve para *internal app sharing* (Play lo admite en APK); para los tracks de prueba y producción de una app nueva Play exige un AAB firmado con clave de subida) |
+| AAB (subir a Play Console) | [`huerto.aab`](https://github.com/IAnMove/android-builds/releases/download/huerto-v1.0/huerto.aab) · 28.1 MB · SHA-256 `44a969c17fabe7a0f2b2e42804476bdff24ae060c277236facd3f2f50cdd1992` (Android App Bundle de release, firmado con la clave de subida del juego; target SDK 36, arm64-v8a) |
 
 ## Descripción breve (ES, ≤80)
 

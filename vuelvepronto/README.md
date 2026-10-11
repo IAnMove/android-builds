@@ -1,6 +1,6 @@
 # Vuelve Pronto — ficha de Google Play
 
-Estado: **prototipo** · Paquete `com.ina.vuelvepronto` · Versión 0.1 (versionCode 1) · Generado 2026-10-11
+Estado: **prototipo** · Paquete `es.iaen.vuelvepronto` · Versión 0.1 (versionCode 1) · Generado 2026-10-11
 
 | Campo de Play Console | Valor |
 |---|---|
@@ -18,7 +18,7 @@ Estado: **prototipo** · Paquete `com.ina.vuelvepronto` · Versión 0.1 (version
 | Público objetivo | 13+ (no dirigido a niños; si se declara para familias aplica la política de Familias) |
 | Clasificación (IARC), pistas | Temas de muerte (atropello, limbo, demonios) tratados de forma estilizada; violencia fantástica leve. Probable PEGI 12 por el tema. |
 | Código fuente | — |
-| APK | [`vuelvepronto.apk`](https://github.com/IAnMove/android-builds/releases/download/vuelvepronto-v0.1/vuelvepronto.apk) · 39.1 MB · SHA-256 `1941cae1015665a7bd961e4cf09d521f8eef525710a86fa00987f428cd931845` (APK de depuración, firmado con la clave debug: sirve para *internal app sharing* (Play lo admite en APK); para los tracks de prueba y producción de una app nueva Play exige un AAB firmado con clave de subida) |
+| AAB (subir a Play Console) | [`vuelvepronto.aab`](https://github.com/IAnMove/android-builds/releases/download/vuelvepronto-v0.1/vuelvepronto.aab) · 37.4 MB · SHA-256 `fb6490859135838b2e3446d84856fed637126e7a8f23b9f2bab8e510581ac3c8` (Android App Bundle de release, firmado con la clave de subida del juego; target SDK 36, arm64-v8a) |
 
 ## Descripción breve (ES, ≤80)
 

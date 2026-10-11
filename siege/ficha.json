@@ -9,7 +9,7 @@
     "es": "Asedio",
     "en": "Siege"
   },
-  "package": "com.ina.siege",
+  "package": "es.iaen.siege",
   "version_name": "0.1.0",
   "version_code": 1,
   "status": "sin APK",
@@ -37,12 +37,23 @@
   "in_app_purchases": false,
   "collects_data": false,
   "internet_permission": false,
+  "target_sdk": 36,
+  "min_sdk": 24,
+  "architectures": [
+    "arm64-v8a"
+  ],
+  "signing": "AAB firmado con la clave de subida (upload) propia del juego; Play App Signing gestiona la clave de firma",
   "target_audience": "13+ (no dirigido a niños; si se declara para familias aplica la política de Familias)",
   "content_rating_hints": {
     "es": "Violencia fantástica contra orcos (sprites 2D, sin sangre). Probable PEGI 7.",
     "en": "Fantasy violence against orcs (2D sprites, no blood). Likely PEGI 7."
   },
-  "apk": null,
+  "apk": {
+    "file": "siege.aab",
+    "bytes": 514141872,
+    "sha256": "2890e590656afd92641d53737b27b9e4d526cc7bbbf9687b007e41291ae0e550",
+    "release_url": "https://github.com/IAnMove/android-builds/releases/download/siege-v0.1.0/siege.aab"
+  },
   "images": {
     "icon": "metadata/android/en-US/images/icon.png",
     "feature_graphic": "metadata/android/en-US/images/featureGraphic.png",

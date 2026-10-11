@@ -10,7 +10,10 @@ Lo que comparten los juegos de `~/games` de cara a la tienda. Nada de aquí sale
 | `make_web.py` | Genera en `~/customprograms/iaen-home` las páginas `android/<slug>/`, `android/<slug>/privacy/`, sus imágenes y las tarjetas de `android/index.html` e `index.html`. Necesita ImageMagick (`magick`). |
 | `make_play.py` | Genera `publish/play/<slug>/`: ficha de Google Play (README, `ficha.json`, formato fastlane en `metadata/android/`, icono 512, imagen destacada 1024×500, capturas de teléfono) y el índice `play/README.md` + `manifest.json`. Acaba con un validador («0 problemas» salvo los juegos sin APK). |
 | `sync_builds_repo.sh` | Copia `publish/play` (sin APK) al repo público `~/customprograms/android-builds` → https://github.com/IAnMove/android-builds ; con `--release` sube cada APK como release `<slug>-v<versión>`. |
-| `play/<slug>/<slug>.apk` | APK de depuración exportado con Godot headless (`--export-debug Android`). No se commitea: va a las releases. |
+| `prepare_android.py` | Deja un proyecto listo para Play: instala la plantilla Gradle (`android/build`), pone el preset «Android» en Gradle + AAB, paquete `es.iaen.<slug>`, target SDK 36 y arm64, mueve la clave de subida a `export_credentials.cfg` y completa el `.gitignore`. |
+| `build_aab.sh <slug> <dir> …` | Llama a `prepare_android.py` y exporta el AAB de release firmado a `play/<slug>/<slug>.aab` (log en `publish/.tmp/<slug>.aab.log`). |
+| `play/<slug>/<slug>.aab` | Android App Bundle de release. No se commitea: va a las releases del repo público. |
+| `~/almacen/android-keys/` | **Claves de subida** (una por juego) y contraseñas. Fuera de git siempre; ver su README para la copia de seguridad. |
 
 ## Juegos (17 proyectos, slug = carpeta en `publish/play/` y en la web)
 
@@ -57,5 +60,5 @@ de `about_info.gd` para «Isaac Clone», «Siege - Prototipo», «Factorio Clone
 
 - **siege** y **taberna** no exportan APK: Godot falla al leer archivos importados de GLB (`fseeko ... get_length`),
   de forma determinista (24 y 9 archivos). Sin resolver.
-- Play exige **AAB** firmado con clave de subida para producción; aquí solo hay APK de depuración.
+- Antes de cada subida a Play hay que subir `version/code` en el preset del juego.
 - Correo de contacto público: pendiente. Nombres provisionales con marca: Isaac Clone, Mini Sims, Factorio Clone.

@@ -6,7 +6,7 @@
     "en": "Random Siege"
   },
   "title_proposal": null,
-  "package": "com.ina.randomsiege",
+  "package": "es.iaen.randomsiege",
   "version_name": "0.1.0",
   "version_code": 1,
   "status": "prototipo",
@@ -34,16 +34,22 @@
   "in_app_purchases": false,
   "collects_data": false,
   "internet_permission": false,
+  "target_sdk": 36,
+  "min_sdk": 24,
+  "architectures": [
+    "arm64-v8a"
+  ],
+  "signing": "AAB firmado con la clave de subida (upload) propia del juego; Play App Signing gestiona la clave de firma",
   "target_audience": "13+ (no dirigido a niños; si se declara para familias aplica la política de Familias)",
   "content_rating_hints": {
     "es": "Violencia fantástica de píxeles (espada y flechas contra monstruos). Probable PEGI 7.",
     "en": "Pixel fantasy violence (sword and arrows against monsters). Likely PEGI 7."
   },
   "apk": {
-    "file": "randomsiege.apk",
-    "bytes": 44229750,
-    "sha256": "2fbcd0aea46d5788c751b0d75172714016a78acce2dcecfc3405b32bcb357887",
-    "release_url": "https://github.com/IAnMove/android-builds/releases/download/randomsiege-v0.1.0/randomsiege.apk"
+    "file": "randomsiege.aab",
+    "bytes": 42351391,
+    "sha256": "5ad0cafc5a375808436b2d7b971fcdf4e350da0c78e4f36f06ecbd7e085c1a7d",
+    "release_url": "https://github.com/IAnMove/android-builds/releases/download/randomsiege-v0.1.0/randomsiege.aab"
   },
   "images": {
     "icon": "metadata/android/en-US/images/icon.png",

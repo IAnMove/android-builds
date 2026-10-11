@@ -6,7 +6,7 @@
     "en": "XENARA: Colonia Mecánica"
   },
   "title_proposal": null,
-  "package": "com.ina.xenara",
+  "package": "es.iaen.xenara",
   "version_name": "0.1",
   "version_code": 1,
   "status": "prototipo",
@@ -34,16 +34,22 @@
   "in_app_purchases": false,
   "collects_data": false,
   "internet_permission": false,
+  "target_sdk": 36,
+  "min_sdk": 24,
+  "architectures": [
+    "arm64-v8a"
+  ],
+  "signing": "AAB firmado con la clave de subida (upload) propia del juego; Play App Signing gestiona la clave de firma",
   "target_audience": "13+ (no dirigido a niños; si se declara para familias aplica la política de Familias)",
   "content_rating_hints": {
     "es": "Violencia fantástica contra criaturas (mocos y explosiones de baba, sin sangre humana). Probable PEGI 12.",
     "en": "Fantasy violence against creatures (mucus and slime explosions, no human blood). Likely PEGI 12."
   },
   "apk": {
-    "file": "xenara.apk",
-    "bytes": 78641321,
-    "sha256": "f1bccb51bf947e57ca783f22cd2574eb6f6852a7cfc48a0a139fd1005d0279fa",
-    "release_url": "https://github.com/IAnMove/android-builds/releases/download/xenara-v0.1/xenara.apk"
+    "file": "xenara.aab",
+    "bytes": 76662871,
+    "sha256": "f8e0590ed991b4844f6127e4d42384011807e5d04cfdd8dbc8a9db70a3e10d4b",
+    "release_url": "https://github.com/IAnMove/android-builds/releases/download/xenara-v0.1/xenara.aab"
   },
   "images": {
     "icon": "metadata/android/en-US/images/icon.png",

@@ -6,7 +6,7 @@
     "en": "Vuelve Pronto"
   },
   "title_proposal": null,
-  "package": "com.ina.vuelvepronto",
+  "package": "es.iaen.vuelvepronto",
   "version_name": "0.1",
   "version_code": 1,
   "status": "prototipo",
@@ -34,16 +34,22 @@
   "in_app_purchases": false,
   "collects_data": false,
   "internet_permission": false,
+  "target_sdk": 36,
+  "min_sdk": 24,
+  "architectures": [
+    "arm64-v8a"
+  ],
+  "signing": "AAB firmado con la clave de subida (upload) propia del juego; Play App Signing gestiona la clave de firma",
   "target_audience": "13+ (no dirigido a niños; si se declara para familias aplica la política de Familias)",
   "content_rating_hints": {
     "es": "Temas de muerte (atropello, limbo, demonios) tratados de forma estilizada; violencia fantástica leve. Probable PEGI 12 por el tema.",
     "en": "Death themes (a road accident, limbo, demons) handled in a stylised way; mild fantasy violence. Likely PEGI 12 for the theme."
   },
   "apk": {
-    "file": "vuelvepronto.apk",
-    "bytes": 41020481,
-    "sha256": "1941cae1015665a7bd961e4cf09d521f8eef525710a86fa00987f428cd931845",
-    "release_url": "https://github.com/IAnMove/android-builds/releases/download/vuelvepronto-v0.1/vuelvepronto.apk"
+    "file": "vuelvepronto.aab",
+    "bytes": 39182531,
+    "sha256": "fb6490859135838b2e3446d84856fed637126e7a8f23b9f2bab8e510581ac3c8",
+    "release_url": "https://github.com/IAnMove/android-builds/releases/download/vuelvepronto-v0.1/vuelvepronto.aab"
   },
   "images": {
     "icon": "metadata/android/en-US/images/icon.png",

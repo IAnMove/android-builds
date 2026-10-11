@@ -6,7 +6,7 @@
     "en": "Random Siege v1"
   },
   "title_proposal": null,
-  "package": "com.ina.randomsiegev1",
+  "package": "es.iaen.randomsiegev1",
   "version_name": "0.1.0",
   "version_code": 1,
   "status": "duplicado",
@@ -34,16 +34,22 @@
   "in_app_purchases": false,
   "collects_data": false,
   "internet_permission": false,
+  "target_sdk": 36,
+  "min_sdk": 24,
+  "architectures": [
+    "arm64-v8a"
+  ],
+  "signing": "AAB firmado con la clave de subida (upload) propia del juego; Play App Signing gestiona la clave de firma",
   "target_audience": "13+ (no dirigido a niños; si se declara para familias aplica la política de Familias)",
   "content_rating_hints": {
     "es": "Como Random Siege. No publicar: es una copia anterior.",
     "en": "Same as Random Siege. Do not publish: it is an older copy."
   },
   "apk": {
-    "file": "randomsiegev1.apk",
-    "bytes": 44007960,
-    "sha256": "56f99d56ea18a3331e53a8a2d347ffee3391a5d79792341aa444fa808d2e4dac",
-    "release_url": "https://github.com/IAnMove/android-builds/releases/download/randomsiegev1-v0.1.0/randomsiegev1.apk"
+    "file": "randomsiegev1.aab",
+    "bytes": 42131769,
+    "sha256": "c445557cf193eab56011e7573887075d2d3add1683ceb1bfe46646743bffc697",
+    "release_url": "https://github.com/IAnMove/android-builds/releases/download/randomsiegev1-v0.1.0/randomsiegev1.aab"
   },
   "images": {
     "icon": "metadata/android/en-US/images/icon.png",

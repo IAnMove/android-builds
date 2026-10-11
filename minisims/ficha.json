@@ -9,7 +9,7 @@
     "es": "Mini Vidas",
     "en": "Tiny Lives"
   },
-  "package": "com.ina.minisims",
+  "package": "es.iaen.minisims",
   "version_name": "0.1",
   "version_code": 1,
   "status": "prototipo",
@@ -37,16 +37,22 @@
   "in_app_purchases": false,
   "collects_data": false,
   "internet_permission": false,
+  "target_sdk": 36,
+  "min_sdk": 24,
+  "architectures": [
+    "arm64-v8a"
+  ],
+  "signing": "AAB firmado con la clave de subida (upload) propia del juego; Play App Signing gestiona la clave de firma",
   "target_audience": "13+ (no dirigido a niños; si se declara para familias aplica la política de Familias)",
   "content_rating_hints": {
     "es": "Sin violencia (un ladrón puede visitar la casa). Apto para todos los públicos. Cambiar el nombre antes de publicar.",
     "en": "No violence (a burglar may visit). Suitable for everyone. Rename before publishing."
   },
   "apk": {
-    "file": "minisims.apk",
-    "bytes": 42833947,
-    "sha256": "717378941a295ffaa91d1b0aed0bc2dcb08f5c5cc83ff4d44106670f381be023",
-    "release_url": "https://github.com/IAnMove/android-builds/releases/download/minisims-v0.1/minisims.apk"
+    "file": "minisims.aab",
+    "bytes": 40686521,
+    "sha256": "c183aa2a2e052b5a6821f073a3b1796748f5fb07243a1d9660b5c503b6a8f290",
+    "release_url": "https://github.com/IAnMove/android-builds/releases/download/minisims-v0.1/minisims.aab"
   },
   "images": {
     "icon": "metadata/android/en-US/images/icon.png",

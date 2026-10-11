@@ -6,7 +6,7 @@
     "en": "Gotic"
   },
   "title_proposal": null,
-  "package": "com.ina.gotic",
+  "package": "es.iaen.gotic",
   "version_name": "0.1",
   "version_code": 1,
   "status": "publicable",
@@ -34,16 +34,22 @@
   "in_app_purchases": false,
   "collects_data": false,
   "internet_permission": false,
+  "target_sdk": 36,
+  "min_sdk": 24,
+  "architectures": [
+    "arm64-v8a"
+  ],
+  "signing": "AAB firmado con la clave de subida (upload) propia del juego; Play App Signing gestiona la clave de firma",
   "target_audience": "13+ (no dirigido a niños; si se declara para familias aplica la política de Familias)",
   "content_rating_hints": {
     "es": "Violencia fantástica muy leve (lobos que dispersan ovejas, sombras que embisten). Sin sangre.",
     "en": "Very mild fantasy violence (wolves scattering sheep, charging shades). No blood."
   },
   "apk": {
-    "file": "gotic.apk",
-    "bytes": 59820386,
-    "sha256": "8cc76311dd2a5ed440fc808aaf3c252f36b57a7f92aafff098c664ce644ddb67",
-    "release_url": "https://github.com/IAnMove/android-builds/releases/download/gotic-v0.1/gotic.apk"
+    "file": "gotic.aab",
+    "bytes": 28679234,
+    "sha256": "65bfb18f66fc41acffa6962ee8be57f5e242ea592dca949f5baf7f2011774b04",
+    "release_url": "https://github.com/IAnMove/android-builds/releases/download/gotic-v0.1/gotic.aab"
   },
   "images": {
     "icon": "metadata/android/en-US/images/icon.png",

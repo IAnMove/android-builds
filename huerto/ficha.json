@@ -6,7 +6,7 @@
     "en": "Huerto"
   },
   "title_proposal": null,
-  "package": "com.ina.huerto",
+  "package": "es.iaen.huerto",
   "version_name": "1.0",
   "version_code": 1,
   "status": "publicable",
@@ -34,16 +34,22 @@
   "in_app_purchases": false,
   "collects_data": false,
   "internet_permission": false,
+  "target_sdk": 36,
+  "min_sdk": 24,
+  "architectures": [
+    "arm64-v8a"
+  ],
+  "signing": "AAB firmado con la clave de subida (upload) propia del juego; Play App Signing gestiona la clave de firma",
   "target_audience": "13+ (no dirigido a niños; si se declara para familias aplica la política de Familias)",
   "content_rating_hints": {
     "es": "Sin violencia. Apto para todos los públicos; si se declara para familias, aplica la política de Familias de Play.",
     "en": "No violence. Suitable for everyone; declaring it for families triggers Play's Families policy."
   },
   "apk": {
-    "file": "huerto.apk",
-    "bytes": 60619568,
-    "sha256": "3e729c0a1618c1b8ec9f9c10930d0c8117003ad9055a686c586af38b2b405b34",
-    "release_url": "https://github.com/IAnMove/android-builds/releases/download/huerto-v1.0/huerto.apk"
+    "file": "huerto.aab",
+    "bytes": 29477518,
+    "sha256": "44a969c17fabe7a0f2b2e42804476bdff24ae060c277236facd3f2f50cdd1992",
+    "release_url": "https://github.com/IAnMove/android-builds/releases/download/huerto-v1.0/huerto.aab"
   },
   "images": {
     "icon": "metadata/android/en-US/images/icon.png",

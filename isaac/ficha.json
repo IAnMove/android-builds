@@ -9,7 +9,7 @@
     "es": "Sótano Infinito",
     "en": "Endless Basement"
   },
-  "package": "com.ina.isaac",
+  "package": "es.iaen.isaac",
   "version_name": "0.1.0",
   "version_code": 1,
   "status": "prototipo",
@@ -37,16 +37,22 @@
   "in_app_purchases": false,
   "collects_data": false,
   "internet_permission": false,
+  "target_sdk": 36,
+  "min_sdk": 24,
+  "architectures": [
+    "arm64-v8a"
+  ],
+  "signing": "AAB firmado con la clave de subida (upload) propia del juego; Play App Signing gestiona la clave de firma",
   "target_audience": "13+ (no dirigido a niños; si se declara para familias aplica la política de Familias)",
   "content_rating_hints": {
     "es": "Violencia fantástica contra monstruos con disparos, objetos como «sacrificio» (vida a cambio de objeto). Probable PEGI 12. Cambiar el nombre antes de publicar.",
     "en": "Fantasy violence against monsters with projectiles; a 'sacrifice' room trades health for items. Likely PEGI 12. Rename before publishing."
   },
   "apk": {
-    "file": "isaac.apk",
-    "bytes": 61135729,
-    "sha256": "bc6c4b6435c8eae71a9d7781a7f6ccdafb2ce93a9d746ce03bddd3d0d5212208",
-    "release_url": "https://github.com/IAnMove/android-builds/releases/download/isaac-v0.1.0/isaac.apk"
+    "file": "isaac.aab",
+    "bytes": 59236760,
+    "sha256": "87de2e4f167da32e0e4ff3a168915e9ba5edc631372ceb86fa41674f1f2955b0",
+    "release_url": "https://github.com/IAnMove/android-builds/releases/download/isaac-v0.1.0/isaac.aab"
   },
   "images": {
     "icon": "metadata/android/en-US/images/icon.png",

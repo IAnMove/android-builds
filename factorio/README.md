@@ -1,6 +1,6 @@
 # Fábrica Planetaria — ficha de Google Play
 
-Estado: **prototipo** · Paquete `com.ina.factorio` · Versión 0.1 (versionCode 1) · Generado 2026-10-11
+Estado: **prototipo** · Paquete `es.iaen.factorio` · Versión 0.1 (versionCode 1) · Generado 2026-10-11
 
 > **Nombre provisional.** «Factorio Clone» no se puede usar en Play (marca registrada). Propuesta: **Fábrica Planetaria** / **Planet Factory**. El paquete no cambia.
 
@@ -20,7 +20,7 @@ Estado: **prototipo** · Paquete `com.ina.factorio` · Versión 0.1 (versionCode
 | Público objetivo | 13+ (no dirigido a niños; si se declara para familias aplica la política de Familias) |
 | Clasificación (IARC), pistas | Violencia leve contra bichos (torretas). Probable PEGI 7. Cambiar el nombre antes de publicar. |
 | Código fuente | — |
-| APK | [`factorio.apk`](https://github.com/IAnMove/android-builds/releases/download/factorio-v0.1/factorio.apk) · 48.2 MB · SHA-256 `8ddec29acbbdf6c405e917c49cd0090f2f95dee039808f736ce99c43986d8956` (APK de depuración, firmado con la clave debug: sirve para *internal app sharing* (Play lo admite en APK); para los tracks de prueba y producción de una app nueva Play exige un AAB firmado con clave de subida) |
+| AAB (subir a Play Console) | [`factorio.aab`](https://github.com/IAnMove/android-builds/releases/download/factorio-v0.1/factorio.aab) · 46.4 MB · SHA-256 `e9ff86fbf201bb32740cf64edb25a1f8a33add80c6524016a7f93e62b76417d9` (Android App Bundle de release, firmado con la clave de subida del juego; target SDK 36, arm64-v8a) |
 
 ## Descripción breve (ES, ≤80)
 

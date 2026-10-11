@@ -1,6 +1,6 @@
 # Asedio — ficha de Google Play
 
-Estado: **sin APK** · Paquete `com.ina.siege` · Versión 0.1.0 (versionCode 1) · Generado 2026-10-11
+Estado: **sin APK** · Paquete `es.iaen.siege` · Versión 0.1.0 (versionCode 1) · Generado 2026-10-11
 
 > **Nombre provisional.** «Siege» no se puede usar en Play (marca registrada). Propuesta: **Asedio** / **Siege**. El paquete no cambia.
 
@@ -20,7 +20,7 @@ Estado: **sin APK** · Paquete `com.ina.siege` · Versión 0.1.0 (versionCode 1)
 | Público objetivo | 13+ (no dirigido a niños; si se declara para familias aplica la política de Familias) |
 | Clasificación (IARC), pistas | Violencia fantástica contra orcos (sprites 2D, sin sangre). Probable PEGI 7. |
 | Código fuente | — |
-| APK | **Sin APK**: la exportación falla hoy (ver notas). |
+| AAB (subir a Play Console) | [`siege.aab`](https://github.com/IAnMove/android-builds/releases/download/siege-v0.1.0/siege.aab) · 490.3 MB · SHA-256 `2890e590656afd92641d53737b27b9e4d526cc7bbbf9687b007e41291ae0e550` (Android App Bundle de release, firmado con la clave de subida del juego; target SDK 36, arm64-v8a) |
 
 ## Descripción breve (ES, ≤80)
 

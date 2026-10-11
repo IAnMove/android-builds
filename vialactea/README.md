@@ -1,6 +1,6 @@
 # Via Lactea — ficha de Google Play
 
-Estado: **publicable** · Paquete `org.ina.vialactea` · Versión 0.1 (versionCode 1) · Generado 2026-10-11
+Estado: **publicable** · Paquete `es.iaen.vialactea` · Versión 0.1 (versionCode 1) · Generado 2026-10-11
 
 | Campo de Play Console | Valor |
 |---|---|
@@ -18,7 +18,7 @@ Estado: **publicable** · Paquete `org.ina.vialactea` · Versión 0.1 (versionCo
 | Público objetivo | 13+ (no dirigido a niños; si se declara para familias aplica la política de Familias) |
 | Clasificación (IARC), pistas | Sin violencia (navegación espacial y contratos). Apto para todos los públicos. |
 | Código fuente | — |
-| APK | [`vialactea.apk`](https://github.com/IAnMove/android-builds/releases/download/vialactea-v0.1/vialactea.apk) · 29.0 MB · SHA-256 `84b8db003f151082e3d9c9e4d0935fb50327cb5feb82c74ccb1b288705c87537` (APK de depuración, firmado con la clave debug: sirve para *internal app sharing* (Play lo admite en APK); para los tracks de prueba y producción de una app nueva Play exige un AAB firmado con clave de subida) |
+| AAB (subir a Play Console) | [`vialactea.aab`](https://github.com/IAnMove/android-builds/releases/download/vialactea-v0.1/vialactea.aab) · 27.3 MB · SHA-256 `ce7366c50d5b31b7aa4263be5d2c10048c403fc079e0c0a7710432fd7e83a9c4` (Android App Bundle de release, firmado con la clave de subida del juego; target SDK 36, arm64-v8a) |
 
 ## Descripción breve (ES, ≤80)
 

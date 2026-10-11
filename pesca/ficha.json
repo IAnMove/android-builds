@@ -6,7 +6,7 @@
     "en": "Pesca"
   },
   "title_proposal": null,
-  "package": "com.ina.pesca",
+  "package": "es.iaen.pesca",
   "version_name": "1.0",
   "version_code": 1,
   "status": "publicable",
@@ -34,16 +34,22 @@
   "in_app_purchases": false,
   "collects_data": false,
   "internet_permission": false,
+  "target_sdk": 36,
+  "min_sdk": 24,
+  "architectures": [
+    "arm64-v8a"
+  ],
+  "signing": "AAB firmado con la clave de subida (upload) propia del juego; Play App Signing gestiona la clave de firma",
   "target_audience": "13+ (no dirigido a niños; si se declara para familias aplica la política de Familias)",
   "content_rating_hints": {
     "es": "Sin violencia (pesca estilizada). Apto para todos los públicos.",
     "en": "No violence (stylised fishing). Suitable for everyone."
   },
   "apk": {
-    "file": "pesca.apk",
-    "bytes": 60552288,
-    "sha256": "14dda06780025c0bedca2fd990169b6ae538882fc72482e13f9b208055e1eb81",
-    "release_url": "https://github.com/IAnMove/android-builds/releases/download/pesca-v1.0/pesca.apk"
+    "file": "pesca.aab",
+    "bytes": 29414582,
+    "sha256": "ed964ad4efe46d22d50f70af238b2cd0776666603382283d9b7ac8e270a5791c",
+    "release_url": "https://github.com/IAnMove/android-builds/releases/download/pesca-v1.0/pesca.aab"
   },
   "images": {
     "icon": "metadata/android/en-US/images/icon.png",

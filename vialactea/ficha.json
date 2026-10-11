@@ -6,7 +6,7 @@
     "en": "Via Lactea"
   },
   "title_proposal": null,
-  "package": "org.ina.vialactea",
+  "package": "es.iaen.vialactea",
   "version_name": "0.1",
   "version_code": 1,
   "status": "publicable",
@@ -34,16 +34,22 @@
   "in_app_purchases": false,
   "collects_data": false,
   "internet_permission": false,
+  "target_sdk": 36,
+  "min_sdk": 24,
+  "architectures": [
+    "arm64-v8a"
+  ],
+  "signing": "AAB firmado con la clave de subida (upload) propia del juego; Play App Signing gestiona la clave de firma",
   "target_audience": "13+ (no dirigido a niños; si se declara para familias aplica la política de Familias)",
   "content_rating_hints": {
     "es": "Sin violencia (navegación espacial y contratos). Apto para todos los públicos.",
     "en": "No violence (space navigation and contracts). Suitable for everyone."
   },
   "apk": {
-    "file": "vialactea.apk",
-    "bytes": 30430357,
-    "sha256": "84b8db003f151082e3d9c9e4d0935fb50327cb5feb82c74ccb1b288705c87537",
-    "release_url": "https://github.com/IAnMove/android-builds/releases/download/vialactea-v0.1/vialactea.apk"
+    "file": "vialactea.aab",
+    "bytes": 28582783,
+    "sha256": "ce7366c50d5b31b7aa4263be5d2c10048c403fc079e0c0a7710432fd7e83a9c4",
+    "release_url": "https://github.com/IAnMove/android-builds/releases/download/vialactea-v0.1/vialactea.aab"
   },
   "images": {
     "icon": "metadata/android/en-US/images/icon.png",

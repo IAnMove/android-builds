@@ -1,6 +1,6 @@
 # Random Siege — ficha de Google Play
 
-Estado: **prototipo** · Paquete `com.ina.randomsiege` · Versión 0.1.0 (versionCode 1) · Generado 2026-10-11
+Estado: **prototipo** · Paquete `es.iaen.randomsiege` · Versión 0.1.0 (versionCode 1) · Generado 2026-10-11
 
 | Campo de Play Console | Valor |
 |---|---|
@@ -18,7 +18,7 @@ Estado: **prototipo** · Paquete `com.ina.randomsiege` · Versión 0.1.0 (versio
 | Público objetivo | 13+ (no dirigido a niños; si se declara para familias aplica la política de Familias) |
 | Clasificación (IARC), pistas | Violencia fantástica de píxeles (espada y flechas contra monstruos). Probable PEGI 7. |
 | Código fuente | — |
-| APK | [`randomsiege.apk`](https://github.com/IAnMove/android-builds/releases/download/randomsiege-v0.1.0/randomsiege.apk) · 42.2 MB · SHA-256 `2fbcd0aea46d5788c751b0d75172714016a78acce2dcecfc3405b32bcb357887` (APK de depuración, firmado con la clave debug: sirve para *internal app sharing* (Play lo admite en APK); para los tracks de prueba y producción de una app nueva Play exige un AAB firmado con clave de subida) |
+| AAB (subir a Play Console) | [`randomsiege.aab`](https://github.com/IAnMove/android-builds/releases/download/randomsiege-v0.1.0/randomsiege.aab) · 40.4 MB · SHA-256 `5ad0cafc5a375808436b2d7b971fcdf4e350da0c78e4f36f06ecbd7e085c1a7d` (Android App Bundle de release, firmado con la clave de subida del juego; target SDK 36, arm64-v8a) |
 
 ## Descripción breve (ES, ≤80)
 

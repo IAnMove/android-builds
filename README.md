@@ -1,38 +1,39 @@
 # Juegos Android de IAnMove — fichas para Google Play
 
 Una carpeta por juego con todo lo que pide Play Console: textos en español e inglés (`README.md`, `ficha.json` y
-formato fastlane en `metadata/android/`), icono 512×512, imagen destacada 1024×500 y capturas de teléfono. Los APK
-están en las *releases* de este repositorio (una por juego, etiqueta `<slug>-v<versión>`).
+formato fastlane en `metadata/android/`), icono 512×512, imagen destacada 1024×500 y capturas de teléfono. Los AAB
+(Android App Bundle de release, listos para subir a Play Console) están en las *releases* de este repositorio (una por
+juego, etiqueta `<slug>-v<versión>`).
 
 Autor: IAnMove · https://iaen.es/android · X: https://x.com/theinaog · Correo de contacto: PENDIENTE: correo público de contacto obligatorio en Play Console
 
-| Juego | Paquete | Estado | Categoría | APK |
+| Juego | Paquete | Estado | Categoría | AAB |
 |---|---|---|---|---|
-| [Brasa](brasa/README.md) | `com.ina.brasa` | publicable | Juegos › Acción | [APK 57 MB](https://github.com/IAnMove/android-builds/releases/download/brasa-v1.0/brasa.apk) |
-| [Huerto](huerto/README.md) | `com.ina.huerto` | publicable | Juegos › Simulación | [APK 58 MB](https://github.com/IAnMove/android-builds/releases/download/huerto-v1.0/huerto.apk) |
-| [Pesca](pesca/README.md) | `com.ina.pesca` | publicable | Juegos › Casual | [APK 58 MB](https://github.com/IAnMove/android-builds/releases/download/pesca-v1.0/pesca.apk) |
-| [Gotic](gotic/README.md) | `com.ina.gotic` | publicable | Juegos › Aventura | [APK 57 MB](https://github.com/IAnMove/android-builds/releases/download/gotic-v0.1/gotic.apk) |
-| [Ciudad Muerta](ciudadmuerta/README.md) | `com.ina.ciudadmuerta` | publicable | Juegos › Rol | [APK 69 MB](https://github.com/IAnMove/android-builds/releases/download/ciudadmuerta-v0.1/ciudadmuerta.apk) |
-| [Timberfall](timberfall/README.md) | `com.ianmove.timberfall` | publicable | Juegos › Simulación | [APK 40 MB](https://github.com/IAnMove/android-builds/releases/download/timberfall-v0.1.0/timberfall.apk) |
-| [Via Lactea](vialactea/README.md) | `org.ina.vialactea` | publicable | Juegos › Simulación | [APK 29 MB](https://github.com/IAnMove/android-builds/releases/download/vialactea-v0.1/vialactea.apk) |
-| [Taberna](taberna/README.md) | `com.ina.taberna` | sin APK | Juegos › Simulación | sin APK |
-| [Villa Bellota](villabellota/README.md) | `com.ina.villabellota` | publicable | Juegos › Simulación | [APK 56 MB](https://github.com/IAnMove/android-builds/releases/download/villabellota-v1.0/villabellota.apk) |
-| [Sótano Infinito](isaac/README.md) | `com.ina.isaac` | prototipo | Juegos › Acción | [APK 58 MB](https://github.com/IAnMove/android-builds/releases/download/isaac-v0.1.0/isaac.apk) |
-| [Mini Vidas](minisims/README.md) | `com.ina.minisims` | prototipo | Juegos › Simulación | [APK 41 MB](https://github.com/IAnMove/android-builds/releases/download/minisims-v0.1/minisims.apk) |
-| [Random Siege](randomsiege/README.md) | `com.ina.randomsiege` | prototipo | Juegos › Arcade | [APK 42 MB](https://github.com/IAnMove/android-builds/releases/download/randomsiege-v0.1.0/randomsiege.apk) |
-| [Random Siege v1](randomsiegev1/README.md) | `com.ina.randomsiegev1` | duplicado | Juegos › Arcade | [APK 42 MB](https://github.com/IAnMove/android-builds/releases/download/randomsiegev1-v0.1.0/randomsiegev1.apk) |
-| [Asedio](siege/README.md) | `com.ina.siege` | sin APK | Juegos › Estrategia | sin APK |
-| [Fábrica Planetaria](factorio/README.md) | `com.ina.factorio` | prototipo | Juegos › Estrategia | [APK 48 MB](https://github.com/IAnMove/android-builds/releases/download/factorio-v0.1/factorio.apk) |
-| [XENARA: Colonia Mecánica](xenara/README.md) | `com.ina.xenara` | prototipo | Juegos › Estrategia | [APK 75 MB](https://github.com/IAnMove/android-builds/releases/download/xenara-v0.1/xenara.apk) |
-| [Vuelve Pronto](vuelvepronto/README.md) | `com.ina.vuelvepronto` | prototipo | Juegos › Aventura | [APK 39 MB](https://github.com/IAnMove/android-builds/releases/download/vuelvepronto-v0.1/vuelvepronto.apk) |
+| [Brasa](brasa/README.md) | `es.iaen.brasa` | publicable | Juegos › Acción | [AAB 27 MB](https://github.com/IAnMove/android-builds/releases/download/brasa-v1.0/brasa.aab) |
+| [Huerto](huerto/README.md) | `es.iaen.huerto` | publicable | Juegos › Simulación | [AAB 28 MB](https://github.com/IAnMove/android-builds/releases/download/huerto-v1.0/huerto.aab) |
+| [Pesca](pesca/README.md) | `es.iaen.pesca` | publicable | Juegos › Casual | [AAB 28 MB](https://github.com/IAnMove/android-builds/releases/download/pesca-v1.0/pesca.aab) |
+| [Gotic](gotic/README.md) | `es.iaen.gotic` | publicable | Juegos › Aventura | [AAB 27 MB](https://github.com/IAnMove/android-builds/releases/download/gotic-v0.1/gotic.aab) |
+| [Ciudad Muerta](ciudadmuerta/README.md) | `es.iaen.ciudadmuerta` | publicable | Juegos › Rol | [AAB 40 MB](https://github.com/IAnMove/android-builds/releases/download/ciudadmuerta-v0.1/ciudadmuerta.aab) |
+| [Timberfall](timberfall/README.md) | `es.iaen.timberfall` | publicable | Juegos › Simulación | [AAB 38 MB](https://github.com/IAnMove/android-builds/releases/download/timberfall-v0.1.0/timberfall.aab) |
+| [Via Lactea](vialactea/README.md) | `es.iaen.vialactea` | publicable | Juegos › Simulación | [AAB 27 MB](https://github.com/IAnMove/android-builds/releases/download/vialactea-v0.1/vialactea.aab) |
+| [Taberna](taberna/README.md) | `es.iaen.taberna` | sin APK | Juegos › Simulación | [AAB 878 MB](https://github.com/IAnMove/android-builds/releases/download/taberna-v0.1.0/taberna.aab) |
+| [Villa Bellota](villabellota/README.md) | `es.iaen.villabellota` | publicable | Juegos › Simulación | [AAB 26 MB](https://github.com/IAnMove/android-builds/releases/download/villabellota-v1.0/villabellota.aab) |
+| [Sótano Infinito](isaac/README.md) | `es.iaen.isaac` | prototipo | Juegos › Acción | [AAB 56 MB](https://github.com/IAnMove/android-builds/releases/download/isaac-v0.1.0/isaac.aab) |
+| [Mini Vidas](minisims/README.md) | `es.iaen.minisims` | prototipo | Juegos › Simulación | [AAB 39 MB](https://github.com/IAnMove/android-builds/releases/download/minisims-v0.1/minisims.aab) |
+| [Random Siege](randomsiege/README.md) | `es.iaen.randomsiege` | prototipo | Juegos › Arcade | [AAB 40 MB](https://github.com/IAnMove/android-builds/releases/download/randomsiege-v0.1.0/randomsiege.aab) |
+| [Random Siege v1](randomsiegev1/README.md) | `es.iaen.randomsiegev1` | duplicado | Juegos › Arcade | [AAB 40 MB](https://github.com/IAnMove/android-builds/releases/download/randomsiegev1-v0.1.0/randomsiegev1.aab) |
+| [Asedio](siege/README.md) | `es.iaen.siege` | sin APK | Juegos › Estrategia | [AAB 490 MB](https://github.com/IAnMove/android-builds/releases/download/siege-v0.1.0/siege.aab) |
+| [Fábrica Planetaria](factorio/README.md) | `es.iaen.factorio` | prototipo | Juegos › Estrategia | [AAB 46 MB](https://github.com/IAnMove/android-builds/releases/download/factorio-v0.1/factorio.aab) |
+| [XENARA: Colonia Mecánica](xenara/README.md) | `es.iaen.xenara` | prototipo | Juegos › Estrategia | [AAB 73 MB](https://github.com/IAnMove/android-builds/releases/download/xenara-v0.1/xenara.aab) |
+| [Vuelve Pronto](vuelvepronto/README.md) | `es.iaen.vuelvepronto` | prototipo | Juegos › Aventura | [AAB 37 MB](https://github.com/IAnMove/android-builds/releases/download/vuelvepronto-v0.1/vuelvepronto.aab) |
 
 Estados: **publicable** (listo salvo lo pendiente abajo), **prototipo** (funciona pero sigue en desarrollo),
-**duplicado** (copia anterior de otro juego: no publicar), **sin APK** (la exportación falla hoy).
+**duplicado** (copia anterior de otro juego: no publicar), **sin AAB** (la exportación falla hoy).
 
 ## Antes de publicar cualquiera
 
-- Play Console exige un **Android App Bundle (.aab)** firmado con una clave de subida para producción; los APK de
-  aquí son de depuración y sirven para *internal app sharing*; para los tracks de prueba de una app nueva hace falta el AAB.
+- Cada AAB va firmado con la **clave de subida** propia del juego (una por paquete, guardada fuera de GitHub); al crear
+  la app en Play Console hay que aceptar Play App Signing. Paquetes definitivos `es.iaen.<slug>`, target SDK 36, versionCode 1.
 - Correo de contacto público: PENDIENTE: correo público de contacto obligatorio en Play Console.
 - Con una cuenta personal nueva hace falta una prueba cerrada con 12 probadores durante 14 días por cada app.
 - Los juegos con **nombre provisional** (Isaac Clone, Mini Sims, Factorio Clone) deben cambiar de nombre: la

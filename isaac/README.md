@@ -1,6 +1,6 @@
 # Sótano Infinito — ficha de Google Play
 
-Estado: **prototipo** · Paquete `com.ina.isaac` · Versión 0.1.0 (versionCode 1) · Generado 2026-10-11
+Estado: **prototipo** · Paquete `es.iaen.isaac` · Versión 0.1.0 (versionCode 1) · Generado 2026-10-11
 
 > **Nombre provisional.** «Isaac Clone» no se puede usar en Play (marca registrada). Propuesta: **Sótano Infinito** / **Endless Basement**. El paquete no cambia.
 
@@ -20,7 +20,7 @@ Estado: **prototipo** · Paquete `com.ina.isaac` · Versión 0.1.0 (versionCode 
 | Público objetivo | 13+ (no dirigido a niños; si se declara para familias aplica la política de Familias) |
 | Clasificación (IARC), pistas | Violencia fantástica contra monstruos con disparos, objetos como «sacrificio» (vida a cambio de objeto). Probable PEGI 12. Cambiar el nombre antes de publicar. |
 | Código fuente | — |
-| APK | [`isaac.apk`](https://github.com/IAnMove/android-builds/releases/download/isaac-v0.1.0/isaac.apk) · 58.3 MB · SHA-256 `bc6c4b6435c8eae71a9d7781a7f6ccdafb2ce93a9d746ce03bddd3d0d5212208` (APK de depuración, firmado con la clave debug: sirve para *internal app sharing* (Play lo admite en APK); para los tracks de prueba y producción de una app nueva Play exige un AAB firmado con clave de subida) |
+| AAB (subir a Play Console) | [`isaac.aab`](https://github.com/IAnMove/android-builds/releases/download/isaac-v0.1.0/isaac.aab) · 56.5 MB · SHA-256 `87de2e4f167da32e0e4ff3a168915e9ba5edc631372ceb86fa41674f1f2955b0` (Android App Bundle de release, firmado con la clave de subida del juego; target SDK 36, arm64-v8a) |
 
 ## Descripción breve (ES, ≤80)
 

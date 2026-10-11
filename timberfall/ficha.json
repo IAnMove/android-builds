@@ -6,7 +6,7 @@
     "en": "Timberfall"
   },
   "title_proposal": null,
-  "package": "com.ianmove.timberfall",
+  "package": "es.iaen.timberfall",
   "version_name": "0.1.0",
   "version_code": 1,
   "status": "publicable",
@@ -34,16 +34,22 @@
   "in_app_purchases": false,
   "collects_data": false,
   "internet_permission": false,
+  "target_sdk": 36,
+  "min_sdk": 24,
+  "architectures": [
+    "arm64-v8a"
+  ],
+  "signing": "AAB firmado con la clave de subida (upload) propia del juego; Play App Signing gestiona la clave de firma",
   "target_audience": "13+ (no dirigido a niños; si se declara para familias aplica la política de Familias)",
   "content_rating_hints": {
     "es": "Sin violencia contra personas (se talan árboles, se apagan incendios). Apto para todos los públicos.",
     "en": "No violence against people (chopping trees, putting out fires). Suitable for everyone."
   },
   "apk": {
-    "file": "timberfall.apk",
-    "bytes": 41506329,
-    "sha256": "568c6cc80034887561ad7791fd4624981459d9f49c1573b08188020d10ac6723",
-    "release_url": "https://github.com/IAnMove/android-builds/releases/download/timberfall-v0.1.0/timberfall.apk"
+    "file": "timberfall.aab",
+    "bytes": 39662200,
+    "sha256": "ea23fbaed597fd98730b795a3403ae94b6493e16515fd90b2189dbfc0b34adf7",
+    "release_url": "https://github.com/IAnMove/android-builds/releases/download/timberfall-v0.1.0/timberfall.aab"
   },
   "images": {
     "icon": "metadata/android/en-US/images/icon.png",

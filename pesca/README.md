@@ -1,6 +1,6 @@
 # Pesca — ficha de Google Play
 
-Estado: **publicable** · Paquete `com.ina.pesca` · Versión 1.0 (versionCode 1) · Generado 2026-10-11
+Estado: **publicable** · Paquete `es.iaen.pesca` · Versión 1.0 (versionCode 1) · Generado 2026-10-11
 
 | Campo de Play Console | Valor |
 |---|---|
@@ -18,7 +18,7 @@ Estado: **publicable** · Paquete `com.ina.pesca` · Versión 1.0 (versionCode 1
 | Público objetivo | 13+ (no dirigido a niños; si se declara para familias aplica la política de Familias) |
 | Clasificación (IARC), pistas | Sin violencia (pesca estilizada). Apto para todos los públicos. |
 | Código fuente | — |
-| APK | [`pesca.apk`](https://github.com/IAnMove/android-builds/releases/download/pesca-v1.0/pesca.apk) · 57.7 MB · SHA-256 `14dda06780025c0bedca2fd990169b6ae538882fc72482e13f9b208055e1eb81` (APK de depuración, firmado con la clave debug: sirve para *internal app sharing* (Play lo admite en APK); para los tracks de prueba y producción de una app nueva Play exige un AAB firmado con clave de subida) |
+| AAB (subir a Play Console) | [`pesca.aab`](https://github.com/IAnMove/android-builds/releases/download/pesca-v1.0/pesca.aab) · 28.1 MB · SHA-256 `ed964ad4efe46d22d50f70af238b2cd0776666603382283d9b7ac8e270a5791c` (Android App Bundle de release, firmado con la clave de subida del juego; target SDK 36, arm64-v8a) |
 
 ## Descripción breve (ES, ≤80)
 

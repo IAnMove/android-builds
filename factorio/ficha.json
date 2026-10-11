@@ -9,7 +9,7 @@
     "es": "Fábrica Planetaria",
     "en": "Planet Factory"
   },
-  "package": "com.ina.factorio",
+  "package": "es.iaen.factorio",
   "version_name": "0.1",
   "version_code": 1,
   "status": "prototipo",
@@ -37,16 +37,22 @@
   "in_app_purchases": false,
   "collects_data": false,
   "internet_permission": false,
+  "target_sdk": 36,
+  "min_sdk": 24,
+  "architectures": [
+    "arm64-v8a"
+  ],
+  "signing": "AAB firmado con la clave de subida (upload) propia del juego; Play App Signing gestiona la clave de firma",
   "target_audience": "13+ (no dirigido a niños; si se declara para familias aplica la política de Familias)",
   "content_rating_hints": {
     "es": "Violencia leve contra bichos (torretas). Probable PEGI 7. Cambiar el nombre antes de publicar.",
     "en": "Mild violence against bugs (turrets). Likely PEGI 7. Rename before publishing."
   },
   "apk": {
-    "file": "factorio.apk",
-    "bytes": 50510560,
-    "sha256": "8ddec29acbbdf6c405e917c49cd0090f2f95dee039808f736ce99c43986d8956",
-    "release_url": "https://github.com/IAnMove/android-builds/releases/download/factorio-v0.1/factorio.apk"
+    "file": "factorio.aab",
+    "bytes": 48629384,
+    "sha256": "e9ff86fbf201bb32740cf64edb25a1f8a33add80c6524016a7f93e62b76417d9",
+    "release_url": "https://github.com/IAnMove/android-builds/releases/download/factorio-v0.1/factorio.aab"
   },
   "images": {
     "icon": "metadata/android/en-US/images/icon.png",
