@@ -1,6 +1,6 @@
 # Fábrica Planetaria — ficha de Google Play
 
-Estado: **prototipo** · Paquete `es.iaen.factorio` · Versión 0.1 (versionCode 2) · Generado 2026-10-11
+Estado: **prototipo** · Paquete `es.iaen.factorio` · Versión 0.1 (versionCode 2) · Generado 2026-10-17
 
 > **Nombre provisional.** «Factorio Clone» no se puede usar en Play (marca registrada). Propuesta: **Fábrica Planetaria** / **Planet Factory**. El paquete no cambia.
 

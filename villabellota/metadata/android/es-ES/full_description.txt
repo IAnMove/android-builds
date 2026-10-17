@@ -1,15 +1,19 @@
-Llegas a la isla y Don Topo te recibe en la plaza con una red, una caña y 1.000 bellotas. A partir de ahí la isla sigue la hora, el día y la estación de tu móvil: 28 peces y 25 bichos según el mes y la hora, fósiles nuevos cada día, cerezos en flor en abril y nieve en invierno. Vende en la tienda de Rufina, dona al museo de Doña Tortuga, amplía tu casa y gánate a Pipa, Bruno, Lola y Coco.
+Llegas a la isla y Don Topo te recibe en la plaza con una red, una caña y 1.000 bellotas. A partir de ahí la isla sigue la hora, el día y la estación de tu móvil: 28 peces y 25 bichos según el mes y la hora, fósiles nuevos cada día, cerezos en flor en abril y nieve en invierno. Vende en la tienda de Rufina, dona al museo de Doña Tortuga, amplía tu casa, hazte muebles en el banco de trabajo y gánate a Pipa, Bruno, Lola y Coco. Cada semana pasan visitantes por la plaza y el calendario trae concursos, fuegos artificiales y fiestas.
 
 • Reloj real: Hora, día y estación de tu dispositivo. Si vuelves después de días, te cuentan qué ha cambiado.
 • Pesca y bichos: 28 peces y 25 bichos según mes, hora y lugar. Acércate de puntillas o huyen.
 • Cava y planta: Fósiles, almejas, rocas con minerales; semillas, flores que se cruzan y plantones.
 • Tienda y museo: Vende tu pesca, compra herramientas y muebles, dona un ejemplar de cada especie.
-• Tu casa: De tienda de campaña a casa con buzón; 30 muebles que colocar y girar. Préstamo sin intereses.
+• Tu casa: De tienda de campaña a casa con buzón; 46 muebles que colocar y girar. Préstamo sin intereses.
 • Vecinos: Cuatro vecinos con horario, voz, encargos y gustos. La amistad sube charlando y regalando.
+• Fiestas y visitantes: Concursos de pesca y de bichos, fuegos artificiales, Noche de Ánimas, Fiesta de Invierno... Y cada semana, visitantes que compran caro o venden lo raro.
+• Bricolaje y ropa: 17 planos llegan en botellas a la playa: muebles, herramientas y sombreros. 17 gorros y camisetas para vestirte a tu gusto.
+• Mercado de setas: Compra setas el domingo y véndelas durante la semana cuando el precio suba. ¡El domingo siguiente se pochan!
 
 – Apaisado. PC y Android.
 – Sin conexión, sin cuentas, sin anuncios. La partida se guarda en el dispositivo.
-– Inspirado en Animal Crossing en las mecánicas; nombres, personajes y arte son propios y generados por código.
+– Avisos opcionales en Android (la fruta, las fiestas, las setas): piden el permiso de notificaciones.
+– Mecánicas inspiradas en los juegos de vida tranquila en una isla; nombres, personajes y arte son propios y generados por código.
 
 Hecho por IAnMove con Godot Engine. Sin anuncios, sin cuentas, sin conexión a internet.
 Más juegos: https://iaen.es/android · X: @theinaog

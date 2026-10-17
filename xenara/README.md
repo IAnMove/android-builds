@@ -1,6 +1,6 @@
 # XENARA: Colonia Mecánica — ficha de Google Play
 
-Estado: **prototipo** · Paquete `es.iaen.xenara` · Versión 0.1 (versionCode 1) · Generado 2026-10-11
+Estado: **prototipo** · Paquete `es.iaen.xenara` · Versión 0.1 (versionCode 1) · Generado 2026-10-17
 
 | Campo de Play Console | Valor |
 |---|---|

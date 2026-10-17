@@ -40,4 +40,4 @@ Estados: **publicable** (listo salvo lo pendiente abajo), **prototipo** (funcion
   propuesta está en su ficha.
 - Las pistas de clasificación por edades son orientativas: el cuestionario IARC lo responde el desarrollador.
 
-Generado el 2026-10-11 con `publish/make_play.py` desde `publish/games.json`.
+Generado el 2026-10-17 con `publish/make_play.py` desde `publish/games.json`.

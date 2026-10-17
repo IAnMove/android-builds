@@ -9,7 +9,7 @@ You start with a stone axe on a pine island and end up with a sawmill, a crew of
 
 – Landscape. Floating joystick and touch buttons on mobile; keyboard and mouse on PC.
 – Offline, no accounts, no ads. Your game is saved on the device.
-– Open source: the project is on GitHub. Low-poly models generated with Blender from one script.
+– Low-poly models generated with Blender from one script.
 
 Made by IAnMove with Godot Engine. No ads, no accounts, no internet connection.
 More games: https://iaen.es/android · X: @theinaog

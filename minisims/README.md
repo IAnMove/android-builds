@@ -1,6 +1,6 @@
 # Mini Vidas — ficha de Google Play
 
-Estado: **prototipo** · Paquete `es.iaen.minisims` · Versión 0.1 (versionCode 1) · Generado 2026-10-11
+Estado: **prototipo** · Paquete `es.iaen.minisims` · Versión 0.1 (versionCode 1) · Generado 2026-10-17
 
 > **Nombre provisional.** «Mini Sims» no se puede usar en Play (marca registrada). Propuesta: **Mini Vidas** / **Tiny Lives**. El paquete no cambia.
 

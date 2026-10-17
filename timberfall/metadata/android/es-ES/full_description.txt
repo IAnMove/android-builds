@@ -9,7 +9,7 @@ Empiezas con un hacha de piedra en una isla de pinos y acabas con una serrería,
 
 – Apaisado. Joystick flotante y botones táctiles en el móvil; teclado y ratón en el PC.
 – Sin conexión, sin cuentas, sin anuncios. La partida se guarda en el dispositivo.
-– Código abierto: el proyecto está en GitHub. Modelos low-poly generados con Blender desde un script.
+– Modelos low-poly generados con Blender desde un script.
 
 Hecho por IAnMove con Godot Engine. Sin anuncios, sin cuentas, sin conexión a internet.
 Más juegos: https://iaen.es/android · X: @theinaog

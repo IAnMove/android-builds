@@ -1,6 +1,6 @@
 # Via Lactea — ficha de Google Play
 
-Estado: **publicable** · Paquete `es.iaen.vialactea` · Versión 0.1 (versionCode 1) · Generado 2026-10-11
+Estado: **publicable** · Paquete `es.iaen.vialactea` · Versión 0.1 (versionCode 1) · Generado 2026-10-17
 
 | Campo de Play Console | Valor |
 |---|---|

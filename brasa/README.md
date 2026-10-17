@@ -1,6 +1,6 @@
 # Brasa — ficha de Google Play
 
-Estado: **publicable** · Paquete `es.iaen.brasa` · Versión 1.0 (versionCode 1) · Generado 2026-10-11
+Estado: **publicable** · Paquete `es.iaen.brasa` · Versión 1.0 (versionCode 1) · Generado 2026-10-17
 
 | Campo de Play Console | Valor |
 |---|---|

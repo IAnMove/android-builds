@@ -1,6 +1,6 @@
 # Taberna — ficha de Google Play
 
-Estado: **sin APK** · Paquete `es.iaen.taberna` · Versión 0.1.0 (versionCode 1) · Generado 2026-10-11
+Estado: **sin APK** · Paquete `es.iaen.taberna` · Versión 0.1.0 (versionCode 1) · Generado 2026-10-17
 
 | Campo de Play Console | Valor |
 |---|---|
@@ -17,8 +17,8 @@ Estado: **sin APK** · Paquete `es.iaen.taberna` · Versión 0.1.0 (versionCode 
 | Seguridad de los datos | No recoge ni comparte datos; sin permiso INTERNET; la partida se guarda en el dispositivo |
 | Público objetivo | 13+ (no dirigido a niños; si se declara para familias aplica la política de Familias) |
 | Clasificación (IARC), pistas | Alcohol de fantasía (se sirven cervezas e hidromiel en una taberna), mazmorra con criaturas y muerte posible del personaje. Probable PEGI 12. Revisar en IARC «referencias al alcohol». |
-| Código fuente | https://github.com/ianmove/taberna |
-| AAB (subir a Play Console) | [`taberna.aab`](https://github.com/IAnMove/android-builds/releases/download/taberna-v0.1.0/taberna.aab) · 878.1 MB · SHA-256 `058633657f192aaf30dc585da44f3ce1e2e7ccbd618c620a8e2958df1907f742` (Android App Bundle de release, firmado con la clave de subida del juego; target SDK 36, arm64-v8a) |
+| Código fuente | — |
+| AAB (subir a Play Console) | [`taberna.aab`](https://github.com/IAnMove/android-builds/releases/download/taberna-v0.1.0/taberna.aab) · 878.1 MB · SHA-256 `c50eeb1a5c5899a56aacbd8b93c6f099454ceddf6c76d723996ca8898a9464a5` (Android App Bundle de release, firmado con la clave de subida del juego; target SDK 36, arm64-v8a) |
 
 ## Descripción breve (ES, ≤80)
 
@@ -41,7 +41,7 @@ Un juego de gestión narrativa. Compra ingredientes, elabora bebidas y cocina; a
 
 – Apaisado. PC y Android.
 – Sin conexión, sin cuentas, sin anuncios. La partida y sus copias se guardan en el dispositivo.
-– Código abierto: el proyecto está en GitHub. Sigue en desarrollo (v0.1).
+– Sigue en desarrollo (v0.1).
 
 Hecho por IAnMove con Godot Engine. Sin anuncios, sin cuentas, sin conexión a internet.
 Más juegos: https://iaen.es/android · X: @theinaog
@@ -59,7 +59,7 @@ A narrative management game. Buy ingredients, brew drinks and cook; open for ser
 
 – Landscape. PC and Android.
 – Offline, no accounts, no ads. Your game and its backups are saved on the device.
-– Open source: the project is on GitHub. Still in development (v0.1).
+– Still in development (v0.1).
 
 Made by IAnMove with Godot Engine. No ads, no accounts, no internet connection.
 More games: https://iaen.es/android · X: @theinaog

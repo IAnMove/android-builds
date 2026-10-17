@@ -9,7 +9,7 @@ Un juego de gestión narrativa. Compra ingredientes, elabora bebidas y cocina; a
 
 – Apaisado. PC y Android.
 – Sin conexión, sin cuentas, sin anuncios. La partida y sus copias se guardan en el dispositivo.
-– Código abierto: el proyecto está en GitHub. Sigue en desarrollo (v0.1).
+– Sigue en desarrollo (v0.1).
 
 Hecho por IAnMove con Godot Engine. Sin anuncios, sin cuentas, sin conexión a internet.
 Más juegos: https://iaen.es/android · X: @theinaog

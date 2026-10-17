@@ -9,7 +9,7 @@ A narrative management game. Buy ingredients, brew drinks and cook; open for ser
 
 – Landscape. PC and Android.
 – Offline, no accounts, no ads. Your game and its backups are saved on the device.
-– Open source: the project is on GitHub. Still in development (v0.1).
+– Still in development (v0.1).
 
 Made by IAnMove with Godot Engine. No ads, no accounts, no internet connection.
 More games: https://iaen.es/android · X: @theinaog
