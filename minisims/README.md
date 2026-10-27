@@ -1,6 +1,6 @@
 # Mini Vidas — ficha de Google Play
 
-Estado: **prototipo** · Paquete `es.iaen.minisims` · Versión 0.1 (versionCode 1) · Generado 2026-10-27
+Estado: **prototipo** · Paquete `es.iaen.minisims` · Versión 0.1 (versionCode 1) · Generado 2026-10-28
 
 > **Nombre provisional.** «Mini Sims» no se puede usar en Play (marca registrada). Propuesta: **Mini Vidas** / **Tiny Lives**. El paquete no cambia.
 
@@ -13,7 +13,7 @@ Estado: **prototipo** · Paquete `es.iaen.minisims` · Versión 0.1 (versionCode
 | Etiquetas | Simulador de vida |
 | Política de privacidad | https://iaen.es/android/minisims/privacy/ |
 | Web | https://iaen.es/android/minisims/ |
-| Correo de contacto | PENDIENTE: correo público de contacto obligatorio en Play Console |
+| Correo de contacto | contacto@iaen.es |
 | Anuncios | No |
 | Compras dentro de la app | No |
 | Seguridad de los datos | No recoge ni comparte datos; sin permiso INTERNET; la partida se guarda en el dispositivo |

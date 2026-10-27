@@ -26,7 +26,7 @@
   },
   "privacy_policy_url": "https://iaen.es/android/xenara/privacy/",
   "website": "https://iaen.es/android/xenara/",
-  "contact_email": "PENDIENTE: correo público de contacto obligatorio en Play Console",
+  "contact_email": "contacto@iaen.es",
   "developer": "IAnMove",
   "x": "https://x.com/theinaog",
   "source_url": null,
@@ -73,5 +73,5 @@
       ]
     }
   },
-  "generated": "2026-10-27"
+  "generated": "2026-10-28"
 }

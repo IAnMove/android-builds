@@ -1,6 +1,6 @@
 # Huertecito — ficha de Google Play
 
-Estado: **publicable** · Paquete `es.iaen.huerto` · Versión 1.0 (versionCode 1) · Generado 2026-10-27
+Estado: **publicable** · Paquete `es.iaen.huerto` · Versión 1.0 (versionCode 1) · Generado 2026-10-28
 
 | Campo de Play Console | Valor |
 |---|---|
@@ -11,7 +11,7 @@ Estado: **publicable** · Paquete `es.iaen.huerto` · Versión 1.0 (versionCode 
 | Etiquetas | Cultivo · relajado |
 | Política de privacidad | https://iaen.es/android/huerto/privacy/ |
 | Web | https://iaen.es/android/huerto/ |
-| Correo de contacto | PENDIENTE: correo público de contacto obligatorio en Play Console |
+| Correo de contacto | contacto@iaen.es |
 | Anuncios | No |
 | Compras dentro de la app | No |
 | Seguridad de los datos | No recoge ni comparte datos; sin permiso INTERNET; la partida se guarda en el dispositivo |

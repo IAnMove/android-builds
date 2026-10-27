@@ -1,6 +1,6 @@
 # Asedio — ficha de Google Play
 
-Estado: **sin APK** · Paquete `es.iaen.siege` · Versión 0.1.0 (versionCode 1) · Generado 2026-10-27
+Estado: **sin APK** · Paquete `es.iaen.siege` · Versión 0.1.0 (versionCode 1) · Generado 2026-10-28
 
 > **Nombre provisional.** «Siege» no se puede usar en Play (marca registrada). Propuesta: **Asedio** / **Siege**. El paquete no cambia.
 
@@ -13,7 +13,7 @@ Estado: **sin APK** · Paquete `es.iaen.siege` · Versión 0.1.0 (versionCode 1)
 | Etiquetas | Defensa de torres · 3D |
 | Política de privacidad | https://iaen.es/android/siege/privacy/ |
 | Web | https://iaen.es/android/siege/ |
-| Correo de contacto | PENDIENTE: correo público de contacto obligatorio en Play Console |
+| Correo de contacto | contacto@iaen.es |
 | Anuncios | No |
 | Compras dentro de la app | No |
 | Seguridad de los datos | No recoge ni comparte datos; sin permiso INTERNET; la partida se guarda en el dispositivo |

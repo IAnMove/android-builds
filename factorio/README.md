@@ -1,6 +1,6 @@
 # Fábrica Planetaria — ficha de Google Play
 
-Estado: **prototipo** · Paquete `es.iaen.factorio` · Versión 0.1 (versionCode 2) · Generado 2026-10-27
+Estado: **prototipo** · Paquete `es.iaen.factorio` · Versión 0.1 (versionCode 2) · Generado 2026-10-28
 
 > **Nombre provisional.** «Factorio Clone» no se puede usar en Play (marca registrada). Propuesta: **Fábrica Planetaria** / **Planet Factory**. El paquete no cambia.
 
@@ -13,7 +13,7 @@ Estado: **prototipo** · Paquete `es.iaen.factorio` · Versión 0.1 (versionCode
 | Etiquetas | Automatización · fábrica |
 | Política de privacidad | https://iaen.es/android/factorio/privacy/ |
 | Web | https://iaen.es/android/factorio/ |
-| Correo de contacto | PENDIENTE: correo público de contacto obligatorio en Play Console |
+| Correo de contacto | contacto@iaen.es |
 | Anuncios | No |
 | Compras dentro de la app | No |
 | Seguridad de los datos | No recoge ni comparte datos; sin permiso INTERNET; la partida se guarda en el dispositivo |

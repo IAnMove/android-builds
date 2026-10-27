@@ -1,6 +1,6 @@
 # Sótano Infinito — ficha de Google Play
 
-Estado: **prototipo** · Paquete `es.iaen.isaac` · Versión 0.1.0 (versionCode 1) · Generado 2026-10-27
+Estado: **prototipo** · Paquete `es.iaen.isaac` · Versión 0.1.0 (versionCode 1) · Generado 2026-10-28
 
 > **Nombre provisional.** «Isaac Clone» no se puede usar en Play (marca registrada). Propuesta: **Sótano Infinito** / **Endless Basement**. El paquete no cambia.
 
@@ -13,7 +13,7 @@ Estado: **prototipo** · Paquete `es.iaen.isaac` · Versión 0.1.0 (versionCode 
 | Etiquetas | Roguelike · disparos |
 | Política de privacidad | https://iaen.es/android/isaac/privacy/ |
 | Web | https://iaen.es/android/isaac/ |
-| Correo de contacto | PENDIENTE: correo público de contacto obligatorio en Play Console |
+| Correo de contacto | contacto@iaen.es |
 | Anuncios | No |
 | Compras dentro de la app | No |
 | Seguridad de los datos | No recoge ni comparte datos; sin permiso INTERNET; la partida se guarda en el dispositivo |

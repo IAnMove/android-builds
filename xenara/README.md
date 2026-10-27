@@ -1,6 +1,6 @@
 # XENARA: Colonia Mecánica — ficha de Google Play
 
-Estado: **publicable** · Paquete `es.iaen.xenara` · Versión 0.2 (versionCode 2) · Generado 2026-10-27
+Estado: **publicable** · Paquete `es.iaen.xenara` · Versión 0.2 (versionCode 2) · Generado 2026-10-28
 
 | Campo de Play Console | Valor |
 |---|---|
@@ -11,7 +11,7 @@ Estado: **publicable** · Paquete `es.iaen.xenara` · Versión 0.2 (versionCode 
 | Etiquetas | RTS · cuevas roguelike |
 | Política de privacidad | https://iaen.es/android/xenara/privacy/ |
 | Web | https://iaen.es/android/xenara/ |
-| Correo de contacto | PENDIENTE: correo público de contacto obligatorio en Play Console |
+| Correo de contacto | contacto@iaen.es |
 | Anuncios | No |
 | Compras dentro de la app | No |
 | Seguridad de los datos | No recoge ni comparte datos; sin permiso INTERNET; la partida se guarda en el dispositivo |

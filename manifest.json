@@ -2,8 +2,8 @@
   "developer": "IAnMove",
   "website": "https://iaen.es/android",
   "x": "https://x.com/theinaog",
-  "contact_email": "PENDIENTE: correo público de contacto obligatorio en Play Console",
-  "generated": "2026-10-27",
+  "contact_email": "contacto@iaen.es",
+  "generated": "2026-10-28",
   "games": [
     {
       "slug": "brasa",
@@ -33,7 +33,7 @@
       },
       "privacy_policy_url": "https://iaen.es/android/brasa/privacy/",
       "website": "https://iaen.es/android/brasa/",
-      "contact_email": "PENDIENTE: correo público de contacto obligatorio en Play Console",
+      "contact_email": "contacto@iaen.es",
       "developer": "IAnMove",
       "x": "https://x.com/theinaog",
       "source_url": null,
@@ -80,7 +80,7 @@
           ]
         }
       },
-      "generated": "2026-10-27"
+      "generated": "2026-10-28"
     },
     {
       "slug": "huerto",
@@ -110,7 +110,7 @@
       },
       "privacy_policy_url": "https://iaen.es/android/huerto/privacy/",
       "website": "https://iaen.es/android/huerto/",
-      "contact_email": "PENDIENTE: correo público de contacto obligatorio en Play Console",
+      "contact_email": "contacto@iaen.es",
       "developer": "IAnMove",
       "x": "https://x.com/theinaog",
       "source_url": null,
@@ -157,7 +157,7 @@
           ]
         }
       },
-      "generated": "2026-10-27"
+      "generated": "2026-10-28"
     },
     {
       "slug": "pesca",
@@ -187,7 +187,7 @@
       },
       "privacy_policy_url": "https://iaen.es/android/pesca/privacy/",
       "website": "https://iaen.es/android/pesca/",
-      "contact_email": "PENDIENTE: correo público de contacto obligatorio en Play Console",
+      "contact_email": "contacto@iaen.es",
       "developer": "IAnMove",
       "x": "https://x.com/theinaog",
       "source_url": null,
@@ -234,7 +234,7 @@
           ]
         }
       },
-      "generated": "2026-10-27"
+      "generated": "2026-10-28"
     },
     {
       "slug": "gotic",
@@ -264,7 +264,7 @@
       },
       "privacy_policy_url": "https://iaen.es/android/gotic/privacy/",
       "website": "https://iaen.es/android/gotic/",
-      "contact_email": "PENDIENTE: correo público de contacto obligatorio en Play Console",
+      "contact_email": "contacto@iaen.es",
       "developer": "IAnMove",
       "x": "https://x.com/theinaog",
       "source_url": null,
@@ -311,7 +311,7 @@
           ]
         }
       },
-      "generated": "2026-10-27"
+      "generated": "2026-10-28"
     },
     {
       "slug": "ciudadmuerta",
@@ -341,7 +341,7 @@
       },
       "privacy_policy_url": "https://iaen.es/android/ciudadmuerta/privacy/",
       "website": "https://iaen.es/android/ciudadmuerta/",
-      "contact_email": "PENDIENTE: correo público de contacto obligatorio en Play Console",
+      "contact_email": "contacto@iaen.es",
       "developer": "IAnMove",
       "x": "https://x.com/theinaog",
       "source_url": null,
@@ -388,7 +388,7 @@
           ]
         }
       },
-      "generated": "2026-10-27"
+      "generated": "2026-10-28"
     },
     {
       "slug": "timberfall",
@@ -418,7 +418,7 @@
       },
       "privacy_policy_url": "https://iaen.es/android/timberfall/privacy/",
       "website": "https://iaen.es/android/timberfall/",
-      "contact_email": "PENDIENTE: correo público de contacto obligatorio en Play Console",
+      "contact_email": "contacto@iaen.es",
       "developer": "IAnMove",
       "x": "https://x.com/theinaog",
       "source_url": null,
@@ -465,7 +465,7 @@
           ]
         }
       },
-      "generated": "2026-10-27"
+      "generated": "2026-10-28"
     },
     {
       "slug": "vialactea",
@@ -495,7 +495,7 @@
       },
       "privacy_policy_url": "https://iaen.es/android/vialactea/privacy/",
       "website": "https://iaen.es/android/vialactea/",
-      "contact_email": "PENDIENTE: correo público de contacto obligatorio en Play Console",
+      "contact_email": "contacto@iaen.es",
       "developer": "IAnMove",
       "x": "https://x.com/theinaog",
       "source_url": null,
@@ -534,7 +534,7 @@
           ]
         }
       },
-      "generated": "2026-10-27"
+      "generated": "2026-10-28"
     },
     {
       "slug": "taberna",
@@ -564,7 +564,7 @@
       },
       "privacy_policy_url": "https://iaen.es/android/taberna/privacy/",
       "website": "https://iaen.es/android/taberna/",
-      "contact_email": "PENDIENTE: correo público de contacto obligatorio en Play Console",
+      "contact_email": "contacto@iaen.es",
       "developer": "IAnMove",
       "x": "https://x.com/theinaog",
       "source_url": null,
@@ -611,7 +611,7 @@
           ]
         }
       },
-      "generated": "2026-10-27"
+      "generated": "2026-10-28"
     },
     {
       "slug": "villabellota",
@@ -641,7 +641,7 @@
       },
       "privacy_policy_url": "https://iaen.es/android/villabellota/privacy/",
       "website": "https://iaen.es/android/villabellota/",
-      "contact_email": "PENDIENTE: correo público de contacto obligatorio en Play Console",
+      "contact_email": "contacto@iaen.es",
       "developer": "IAnMove",
       "x": "https://x.com/theinaog",
       "source_url": null,
@@ -692,7 +692,7 @@
           ]
         }
       },
-      "generated": "2026-10-27"
+      "generated": "2026-10-28"
     },
     {
       "slug": "isaac",
@@ -725,7 +725,7 @@
       },
       "privacy_policy_url": "https://iaen.es/android/isaac/privacy/",
       "website": "https://iaen.es/android/isaac/",
-      "contact_email": "PENDIENTE: correo público de contacto obligatorio en Play Console",
+      "contact_email": "contacto@iaen.es",
       "developer": "IAnMove",
       "x": "https://x.com/theinaog",
       "source_url": null,
@@ -764,7 +764,7 @@
           ]
         }
       },
-      "generated": "2026-10-27"
+      "generated": "2026-10-28"
     },
     {
       "slug": "minisims",
@@ -797,7 +797,7 @@
       },
       "privacy_policy_url": "https://iaen.es/android/minisims/privacy/",
       "website": "https://iaen.es/android/minisims/",
-      "contact_email": "PENDIENTE: correo público de contacto obligatorio en Play Console",
+      "contact_email": "contacto@iaen.es",
       "developer": "IAnMove",
       "x": "https://x.com/theinaog",
       "source_url": null,
@@ -842,7 +842,7 @@
           ]
         }
       },
-      "generated": "2026-10-27"
+      "generated": "2026-10-28"
     },
     {
       "slug": "randomsiege",
@@ -872,7 +872,7 @@
       },
       "privacy_policy_url": "https://iaen.es/android/randomsiege/privacy/",
       "website": "https://iaen.es/android/randomsiege/",
-      "contact_email": "PENDIENTE: correo público de contacto obligatorio en Play Console",
+      "contact_email": "contacto@iaen.es",
       "developer": "IAnMove",
       "x": "https://x.com/theinaog",
       "source_url": null,
@@ -911,7 +911,7 @@
           ]
         }
       },
-      "generated": "2026-10-27"
+      "generated": "2026-10-28"
     },
     {
       "slug": "randomsiegev1",
@@ -941,7 +941,7 @@
       },
       "privacy_policy_url": "https://iaen.es/android/randomsiegev1/privacy/",
       "website": "https://iaen.es/android/randomsiegev1/",
-      "contact_email": "PENDIENTE: correo público de contacto obligatorio en Play Console",
+      "contact_email": "contacto@iaen.es",
       "developer": "IAnMove",
       "x": "https://x.com/theinaog",
       "source_url": null,
@@ -980,7 +980,7 @@
           ]
         }
       },
-      "generated": "2026-10-27"
+      "generated": "2026-10-28"
     },
     {
       "slug": "siege",
@@ -1013,7 +1013,7 @@
       },
       "privacy_policy_url": "https://iaen.es/android/siege/privacy/",
       "website": "https://iaen.es/android/siege/",
-      "contact_email": "PENDIENTE: correo público de contacto obligatorio en Play Console",
+      "contact_email": "contacto@iaen.es",
       "developer": "IAnMove",
       "x": "https://x.com/theinaog",
       "source_url": null,
@@ -1052,7 +1052,7 @@
           ]
         }
       },
-      "generated": "2026-10-27"
+      "generated": "2026-10-28"
     },
     {
       "slug": "factorio",
@@ -1085,7 +1085,7 @@
       },
       "privacy_policy_url": "https://iaen.es/android/factorio/privacy/",
       "website": "https://iaen.es/android/factorio/",
-      "contact_email": "PENDIENTE: correo público de contacto obligatorio en Play Console",
+      "contact_email": "contacto@iaen.es",
       "developer": "IAnMove",
       "x": "https://x.com/theinaog",
       "source_url": null,
@@ -1124,7 +1124,7 @@
           ]
         }
       },
-      "generated": "2026-10-27"
+      "generated": "2026-10-28"
     },
     {
       "slug": "xenara",
@@ -1154,7 +1154,7 @@
       },
       "privacy_policy_url": "https://iaen.es/android/xenara/privacy/",
       "website": "https://iaen.es/android/xenara/",
-      "contact_email": "PENDIENTE: correo público de contacto obligatorio en Play Console",
+      "contact_email": "contacto@iaen.es",
       "developer": "IAnMove",
       "x": "https://x.com/theinaog",
       "source_url": null,
@@ -1201,7 +1201,7 @@
           ]
         }
       },
-      "generated": "2026-10-27"
+      "generated": "2026-10-28"
     },
     {
       "slug": "vuelvepronto",
@@ -1231,7 +1231,7 @@
       },
       "privacy_policy_url": "https://iaen.es/android/vuelvepronto/privacy/",
       "website": "https://iaen.es/android/vuelvepronto/",
-      "contact_email": "PENDIENTE: correo público de contacto obligatorio en Play Console",
+      "contact_email": "contacto@iaen.es",
       "developer": "IAnMove",
       "x": "https://x.com/theinaog",
       "source_url": null,
@@ -1270,7 +1270,7 @@
           ]
         }
       },
-      "generated": "2026-10-27"
+      "generated": "2026-10-28"
     }
   ]
 }

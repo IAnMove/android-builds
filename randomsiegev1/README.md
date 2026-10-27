@@ -1,6 +1,6 @@
 # Random Siege v1 — ficha de Google Play
 
-Estado: **duplicado** · Paquete `es.iaen.randomsiegev1` · Versión 0.1.0 (versionCode 1) · Generado 2026-10-27
+Estado: **duplicado** · Paquete `es.iaen.randomsiegev1` · Versión 0.1.0 (versionCode 1) · Generado 2026-10-28
 
 | Campo de Play Console | Valor |
 |---|---|
@@ -11,7 +11,7 @@ Estado: **duplicado** · Paquete `es.iaen.randomsiegev1` · Versión 0.1.0 (vers
 | Etiquetas | Arcade · mazmorras (versión anterior) |
 | Política de privacidad | https://iaen.es/android/randomsiegev1/privacy/ |
 | Web | https://iaen.es/android/randomsiegev1/ |
-| Correo de contacto | PENDIENTE: correo público de contacto obligatorio en Play Console |
+| Correo de contacto | contacto@iaen.es |
 | Anuncios | No |
 | Compras dentro de la app | No |
 | Seguridad de los datos | No recoge ni comparte datos; sin permiso INTERNET; la partida se guarda en el dispositivo |

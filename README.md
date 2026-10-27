@@ -5,7 +5,11 @@ formato fastlane en `metadata/android/`), icono 512×512, imagen destacada 1024�
 (Android App Bundle de release, listos para subir a Play Console) están en las *releases* de este repositorio (una por
 juego, etiqueta `<slug>-v<versión>`).
 
-Autor: IAnMove · https://iaen.es/android · X: https://x.com/theinaog · Correo de contacto: PENDIENTE: correo público de contacto obligatorio en Play Console
+Autor: IAnMove · https://iaen.es/android · X: https://x.com/theinaog · Correo de contacto: contacto@iaen.es
+
+**Para publicar** (persona o agente): empieza por [`GROK.md`](GROK.md) (dónde está todo y qué hacer). Estándares:
+[`FICHA.md`](FICHA.md) (cómo tiene que quedar cada ficha, idiomas y ASO) y [`WEB.md`](WEB.md) (la página de cada app
+y juego en iaen.es). Estado de todas las apps y juegos: [`ESTADO.md`](ESTADO.md). Validador: `tools/check_store.py`.
 
 | Juego | Paquete | Estado | Categoría | AAB |
 |---|---|---|---|---|
@@ -34,10 +38,10 @@ Estados: **publicable** (listo salvo lo pendiente abajo), **prototipo** (funcion
 
 - Cada AAB va firmado con la **clave de subida** propia del juego (una por paquete, guardada fuera de GitHub); al crear
   la app en Play Console hay que aceptar Play App Signing. Paquetes definitivos `es.iaen.<slug>`, target SDK 36 (configurado en el preset), versionCode el del preset de cada juego.
-- Correo de contacto público: PENDIENTE: correo público de contacto obligatorio en Play Console.
+- Correo de contacto público: contacto@iaen.es.
 - Con una cuenta personal nueva hace falta una prueba cerrada con 12 probadores durante 14 días por cada app.
 - Los juegos con **nombre provisional** (Isaac Clone, Mini Sims, Factorio Clone) deben cambiar de nombre: la
   propuesta está en su ficha.
 - Las pistas de clasificación por edades son orientativas: el cuestionario IARC lo responde el desarrollador.
 
-Generado el 2026-10-27 con `publish/make_play.py` desde `publish/games.json`.
+Generado el 2026-10-28 con `publish/make_play.py` desde `publish/games.json`.
