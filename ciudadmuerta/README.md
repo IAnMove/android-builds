@@ -1,6 +1,6 @@
 # Ciudad Muerta — ficha de Google Play
 
-Estado: **publicable** · Paquete `es.iaen.ciudadmuerta` · Versión 0.1 (versionCode 1) · Generado 2026-10-17
+Estado: **publicable** · Paquete `es.iaen.ciudadmuerta` · Versión 0.1 (versionCode 1) · Generado 2026-10-27
 
 | Campo de Play Console | Valor |
 |---|---|
@@ -18,7 +18,7 @@ Estado: **publicable** · Paquete `es.iaen.ciudadmuerta` · Versión 0.1 (versio
 | Público objetivo | 13+ (no dirigido a niños; si se declara para familias aplica la política de Familias) |
 | Clasificación (IARC), pistas | Violencia contra zombis con armas, botín y muerte del personaje; arte generado con IA. Probable PEGI 12/16 según el cuestionario IARC (sangre: comprobar). Evitar nombrar «Diablo II» en la ficha (marca registrada); en la web se ha dejado la frase, revisar. |
 | Código fuente | — |
-| AAB (subir a Play Console) | [`ciudadmuerta.aab`](https://github.com/IAnMove/android-builds/releases/download/ciudadmuerta-v0.1/ciudadmuerta.aab) · 39.7 MB · SHA-256 `28516e819ee51873b7c298983b7454045ada1493d526897b743d9e2aebde2bce` (Android App Bundle de release, firmado con la clave de subida del juego; target SDK 36, arm64-v8a) |
+| AAB (subir a Play Console) | [`ciudadmuerta.aab`](https://github.com/IAnMove/android-builds/releases/download/ciudadmuerta-v0.1/ciudadmuerta.aab) · 37.9 MB · SHA-256 `89ac6ed87e81afe9182392fa6827b8fde6e0fed0185ca478e0355461e0a43b3c` (Android App Bundle de release, firmado con la clave de subida del juego; target SDK 36, arm64-v8a) |
 
 ## Descripción breve (ES, ≤80)
 

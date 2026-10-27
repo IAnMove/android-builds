@@ -1,6 +1,6 @@
 # Vuelve Pronto — ficha de Google Play
 
-Estado: **prototipo** · Paquete `es.iaen.vuelvepronto` · Versión 0.1 (versionCode 1) · Generado 2026-10-17
+Estado: **prototipo** · Paquete `es.iaen.vuelvepronto` · Versión 0.1 (versionCode 1) · Generado 2026-10-27
 
 | Campo de Play Console | Valor |
 |---|---|

@@ -1,7 +1,7 @@
 Un juego de cultivo tranquilo: vendes la cosecha o se la entregas a tus vecinos; el tiempo, los eventos del día y el nivel desbloquean semillas, terrenos y mejoras. Los cultivos siguen creciendo con la app cerrada.
 
 • Nueve bancales: Cava, planta, riega y cosecha con toques. Cada cultivo tiene su tiempo y su precio.
-• Vecinos: Marta, Domingo, Lola, Inés y Nico, con pedidos, gustos, visitas con decisiones, favores y regalos de amistad.
+• Vecinos: Marta, Domingo, Lola, Inés y Nico, con pedidos, gustos y una escena con cada pedido de su historia. Se los llevas en moto por el barrio.
 • Semilleros: Puzles de encajar piezas con tres dificultades y pistas, para jugar mientras crecen los cultivos.
 • Restauración: Reconstruye el invernadero y el rincón vecinal, visibles al fondo del patio.
 • Recetario y álbum: Cinco recetas y cuatro colecciones con premios únicos.

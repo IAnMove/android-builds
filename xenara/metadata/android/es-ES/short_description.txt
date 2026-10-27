@@ -1,1 +1,1 @@
-RTS de robots en un planeta hostil, cuevas en primera persona y campaña.
+RTS de robots, cuevas en primera persona y una campaña por turnos con cartas.

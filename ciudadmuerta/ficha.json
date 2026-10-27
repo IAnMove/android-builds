@@ -47,8 +47,8 @@
   },
   "apk": {
     "file": "ciudadmuerta.aab",
-    "bytes": 41679951,
-    "sha256": "28516e819ee51873b7c298983b7454045ada1493d526897b743d9e2aebde2bce",
+    "bytes": 39705865,
+    "sha256": "89ac6ed87e81afe9182392fa6827b8fde6e0fed0185ca478e0355461e0a43b3c",
     "release_url": "https://github.com/IAnMove/android-builds/releases/download/ciudadmuerta-v0.1/ciudadmuerta.aab"
   },
   "images": {
@@ -73,5 +73,5 @@
       ]
     }
   },
-  "generated": "2026-10-17"
+  "generated": "2026-10-27"
 }

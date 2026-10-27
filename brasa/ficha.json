@@ -47,8 +47,8 @@
   },
   "apk": {
     "file": "brasa.aab",
-    "bytes": 28312664,
-    "sha256": "73fc88f43559b9883ccb634accfca6138894386922b04c4d09fd385bcfff5aa1",
+    "bytes": 28333032,
+    "sha256": "0b74517c7b57e6604274885192de798deedb61a21837829d69f450b36812adc8",
     "release_url": "https://github.com/IAnMove/android-builds/releases/download/brasa-v1.0/brasa.aab"
   },
   "images": {
@@ -73,5 +73,5 @@
       ]
     }
   },
-  "generated": "2026-10-17"
+  "generated": "2026-10-27"
 }

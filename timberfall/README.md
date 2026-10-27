@@ -1,6 +1,6 @@
 # Timberfall — ficha de Google Play
 
-Estado: **publicable** · Paquete `es.iaen.timberfall` · Versión 0.1.0 (versionCode 1) · Generado 2026-10-17
+Estado: **publicable** · Paquete `es.iaen.timberfall` · Versión 0.1.0 (versionCode 1) · Generado 2026-10-27
 
 | Campo de Play Console | Valor |
 |---|---|
@@ -18,7 +18,7 @@ Estado: **publicable** · Paquete `es.iaen.timberfall` · Versión 0.1.0 (versio
 | Público objetivo | 13+ (no dirigido a niños; si se declara para familias aplica la política de Familias) |
 | Clasificación (IARC), pistas | Sin violencia contra personas (se talan árboles, se apagan incendios). Apto para todos los públicos. |
 | Código fuente | — |
-| AAB (subir a Play Console) | [`timberfall.aab`](https://github.com/IAnMove/android-builds/releases/download/timberfall-v0.1.0/timberfall.aab) · 37.9 MB · SHA-256 `395931ef36bc648df4f6e5b6b372efed393a747ea4cc07a51276795f2d5b3a72` (Android App Bundle de release, firmado con la clave de subida del juego; target SDK 36, arm64-v8a) |
+| AAB (subir a Play Console) | [`timberfall.aab`](https://github.com/IAnMove/android-builds/releases/download/timberfall-v0.1.0/timberfall.aab) · 37.9 MB · SHA-256 `7385d876263d01eb6654eafbad3f0eaf3ca19b9677e1247ef95bca0e6fb576e0` (Android App Bundle de release, firmado con la clave de subida del juego; target SDK 36, arm64-v8a) |
 
 ## Descripción breve (ES, ≤80)
 

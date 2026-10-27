@@ -1,6 +1,6 @@
 # Villa Bellota — ficha de Google Play
 
-Estado: **publicable** · Paquete `es.iaen.villabellota` · Versión 1.0 (versionCode 1) · Generado 2026-10-17
+Estado: **publicable** · Paquete `es.iaen.villabellota` · Versión 1.0 (versionCode 1) · Generado 2026-10-27
 
 | Campo de Play Console | Valor |
 |---|---|
@@ -18,7 +18,7 @@ Estado: **publicable** · Paquete `es.iaen.villabellota` · Versión 1.0 (versio
 | Público objetivo | 13+ (no dirigido a niños; si se declara para familias aplica la política de Familias) |
 | Clasificación (IARC), pistas | Sin violencia. Apto para todos los públicos. No nombrar «Animal Crossing» en la ficha de Play (marca registrada). |
 | Código fuente | — |
-| AAB (subir a Play Console) | [`villabellota.aab`](https://github.com/IAnMove/android-builds/releases/download/villabellota-v1.0/villabellota.aab) · 26.4 MB · SHA-256 `d6a4f34196cac03bf3b0d76214699a711f59292b555001ebface7b6a0cb3fafe` (Android App Bundle de release, firmado con la clave de subida del juego; target SDK 36, arm64-v8a) |
+| AAB (subir a Play Console) | [`villabellota.aab`](https://github.com/IAnMove/android-builds/releases/download/villabellota-v1.0/villabellota.aab) · 26.5 MB · SHA-256 `26fd4faa0b92780a665939c313df0c4f0afcd4bbfe274cc65c71afa8d9b10dea` (Android App Bundle de release, firmado con la clave de subida del juego; target SDK 36, arm64-v8a) |
 
 ## Descripción breve (ES, ≤80)
 

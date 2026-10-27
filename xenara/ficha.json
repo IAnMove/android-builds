@@ -7,9 +7,9 @@
   },
   "title_proposal": null,
   "package": "es.iaen.xenara",
-  "version_name": "0.1",
-  "version_code": 1,
-  "status": "prototipo",
+  "version_name": "0.2",
+  "version_code": 2,
+  "status": "publicable",
   "category": "Juegos › Estrategia",
   "genre": {
     "es": "RTS · cuevas roguelike",
@@ -17,12 +17,12 @@
   },
   "orientation": "landscape",
   "short_description": {
-    "es": "RTS de robots en un planeta hostil, cuevas en primera persona y campaña.",
-    "en": "Robot RTS on a hostile planet, first-person roguelike caves and a card campaign."
+    "es": "RTS de robots, cuevas en primera persona y una campaña por turnos con cartas.",
+    "en": "Robot RTS, first-person roguelike caves and a turn-based card campaign."
   },
   "full_description": {
-    "es": "Estrategia en tiempo real con obreros, edificios, metal y cristal, y un Mecha-Comandante que es el único pilotado por un humano: si muere, pierdes. Entra con él en las Cuevas Xeno y el juego pasa a primera persona: cueva procedural, criaturas viscosas, altares con mejoras y un Guardián como jefe. La campaña divide Xenara en 18 sectores por turnos, con cartas («envíos orbitales») que cambian cada batalla y una colmena que avanza mientras tú decides.\n\n• RTS táctil: Toca para seleccionar y ordenar, arrastra la cámara, pellizca para el zoom; catálogo de edificios con coste.\n• Cuevas en primera persona: Roguelike con mejoras de expedición, botín, reliquias y un jefe. Al salir, la cueva se derrumba.\n• Campaña con cartas: 18 sectores, rasgos visibles, hasta 3 cartas por asalto, Ironman opcional y guardado automático.\n• Música sintetizada: Ambientes de día, noche, cueva y jefe generados en tiempo real.\n\n– Apaisado. Táctil, teclado y ratón.\n– Sin conexión, sin cuentas, sin anuncios.\n– Prototipo en desarrollo; también existe una versión web solo RTS.\n\nHecho por IAnMove con Godot Engine. Sin anuncios, sin cuentas, sin conexión a internet.\nMás juegos: https://iaen.es/android · X: @theinaog",
-    "en": "Real-time strategy with workers, buildings, metal and crystal, and a Mecha-Commander, the only mech piloted by a human: if it dies, you lose. Take it into the Xeno Caves and the game switches to first person: a procedural cave, slimy creatures, altars with upgrades and a Guardian as boss. The campaign splits Xenara into 18 sectors played by turns, with cards ('orbital shipments') that change every battle and a hive that advances while you decide.\n\n• Touch RTS: Tap to select and command, drag the camera, pinch to zoom; building catalogue with costs.\n• First-person caves: Roguelike with expedition upgrades, loot, relics and a boss. The cave collapses when you leave.\n• Card campaign: 18 sectors, visible traits, up to 3 cards per assault, optional Ironman and autosave.\n• Synthesised music: Day, night, cave and boss ambiences generated in real time.\n\n– Landscape. Touch, keyboard and mouse.\n– Offline, no accounts, no ads.\n– Prototype in development; a web-only RTS version also exists.\n\nMade by IAnMove with Godot Engine. No ads, no accounts, no internet connection.\nMore games: https://iaen.es/android · X: @theinaog"
+    "es": "Estrategia en tiempo real con obreros, edificios, metal y cristal, y un Mecha-Comandante pilotado por un humano. Entra con él en las Cuevas Xeno y el juego pasa a primera persona: cueva procedural, criaturas viscosas, altares con mejoras y un Guardián como jefe. La campaña divide Xenara en 18 sectores por turnos: eliges dónde atacar y con qué cartas («envíos orbitales»), y la colmena anuncia su próximo movimiento para que puedas adelantarte. Al final te espera la Reina Xeno, protegida por sus nidos.\n\n• RTS táctil: Toca para seleccionar y ordenar, arrastra la cámara, pellizca para el zoom; catálogo de edificios con coste.\n• Cuevas en primera persona: Roguelike con mejoras de expedición, botín, reliquias y un jefe. Al salir, la cueva se derrumba.\n• Campaña con cartas: 18 sectores con rasgos visibles, hasta 3 cartas por asalto, defensas, Ironman opcional y guardado automático.\n• Una colmena que se adelanta: Anuncia su próximo ataque o expansión, se endurece cuanto más te alejas de la bahía y lanza un asalto final en cada defensa.\n• Español e inglés: Elige el idioma en Opciones o deja el del sistema.\n\n– Apaisado. Táctil, teclado y ratón.\n– Sin conexión, sin cuentas, sin anuncios.\n– En desarrollo: seguirán llegando arte y ajustes de equilibrio.\n\nHecho por IAnMove con Godot Engine. Sin anuncios, sin cuentas, sin conexión a internet.\nMás juegos: https://iaen.es/android · X: @theinaog",
+    "en": "Real-time strategy with workers, buildings, metal and crystal, and a Mecha-Commander piloted by a human. Take it into the Xeno Caves and the game switches to first person: a procedural cave, slimy creatures, altars with upgrades and a Guardian as boss. The campaign splits Xenara into 18 sectors played in turns: you choose where to strike and with which cards ('orbital shipments'), and the hive announces its next move so you can get ahead of it. At the end the Xeno Queen awaits, shielded by her nests.\n\n• Touch RTS: Tap to select and command, drag the camera, pinch to zoom; building catalogue with costs.\n• First-person caves: Roguelike with expedition upgrades, loot, relics and a boss. The cave collapses when you leave.\n• Card campaign: 18 sectors with visible traits, up to 3 cards per assault, defences, optional Ironman and autosave.\n• A hive that plans ahead: It announces its next attack or expansion, grows tougher the further you push from the bay and launches a final assault in every defence.\n• Spanish and English: Pick the language in Options or let it follow your device.\n\n– Landscape. Touch, keyboard and mouse.\n– Offline, no accounts, no ads.\n– In development: more art and balance tuning are on the way.\n\nMade by IAnMove with Godot Engine. No ads, no accounts, no internet connection.\nMore games: https://iaen.es/android · X: @theinaog"
   },
   "privacy_policy_url": "https://iaen.es/android/xenara/privacy/",
   "website": "https://iaen.es/android/xenara/",
@@ -47,29 +47,31 @@
   },
   "apk": {
     "file": "xenara.aab",
-    "bytes": 76662871,
-    "sha256": "f8e0590ed991b4844f6127e4d42384011807e5d04cfdd8dbc8a9db70a3e10d4b",
-    "release_url": "https://github.com/IAnMove/android-builds/releases/download/xenara-v0.1/xenara.aab"
+    "bytes": 59157590,
+    "sha256": "10483406310ab67ecbcd2e98bd83a4ee4604af890a917514f57edbcee3af64eb",
+    "release_url": "https://github.com/IAnMove/android-builds/releases/download/xenara-v0.2/xenara.aab"
   },
   "images": {
     "icon": "metadata/android/en-US/images/icon.png",
     "feature_graphic": "metadata/android/en-US/images/featureGraphic.png",
     "phone_screenshots": {
       "es": [
-        "metadata/android/es-ES/images/phoneScreenshots/1_deployer.jpg",
-        "metadata/android/es-ES/images/phoneScreenshots/2_slime_creatures_in_cave.jpg",
-        "metadata/android/es-ES/images/phoneScreenshots/3_slime_boss_in_cave.jpg",
-        "metadata/android/es-ES/images/phoneScreenshots/4_slime_explosion_in_cave.jpg",
-        "metadata/android/es-ES/images/phoneScreenshots/5_slime_impact_in_cave.jpg"
+        "metadata/android/es-ES/images/phoneScreenshots/1_battle.jpg",
+        "metadata/android/es-ES/images/phoneScreenshots/2_cave.jpg",
+        "metadata/android/es-ES/images/phoneScreenshots/3_campaign.jpg",
+        "metadata/android/es-ES/images/phoneScreenshots/4_queen.jpg",
+        "metadata/android/es-ES/images/phoneScreenshots/5_build.jpg",
+        "metadata/android/es-ES/images/phoneScreenshots/6_shop.jpg"
       ],
       "en": [
-        "metadata/android/en-US/images/phoneScreenshots/1_deployer.jpg",
-        "metadata/android/en-US/images/phoneScreenshots/2_slime_creatures_in_cave.jpg",
-        "metadata/android/en-US/images/phoneScreenshots/3_slime_boss_in_cave.jpg",
-        "metadata/android/en-US/images/phoneScreenshots/4_slime_explosion_in_cave.jpg",
-        "metadata/android/en-US/images/phoneScreenshots/5_slime_impact_in_cave.jpg"
+        "metadata/android/en-US/images/phoneScreenshots/1_battle.jpg",
+        "metadata/android/en-US/images/phoneScreenshots/2_cave.jpg",
+        "metadata/android/en-US/images/phoneScreenshots/3_campaign.jpg",
+        "metadata/android/en-US/images/phoneScreenshots/4_queen.jpg",
+        "metadata/android/en-US/images/phoneScreenshots/5_build.jpg",
+        "metadata/android/en-US/images/phoneScreenshots/6_shop.jpg"
       ]
     }
   },
-  "generated": "2026-10-17"
+  "generated": "2026-10-27"
 }

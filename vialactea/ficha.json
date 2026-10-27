@@ -47,8 +47,8 @@
   },
   "apk": {
     "file": "vialactea.aab",
-    "bytes": 28582783,
-    "sha256": "ce7366c50d5b31b7aa4263be5d2c10048c403fc079e0c0a7710432fd7e83a9c4",
+    "bytes": 28012734,
+    "sha256": "45192cb399b68362ca9967b3a32004ff68c6abe690536816adadd893747e4dc6",
     "release_url": "https://github.com/IAnMove/android-builds/releases/download/vialactea-v0.1/vialactea.aab"
   },
   "images": {
@@ -65,5 +65,5 @@
       ]
     }
   },
-  "generated": "2026-10-17"
+  "generated": "2026-10-27"
 }

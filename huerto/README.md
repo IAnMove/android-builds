@@ -1,11 +1,11 @@
-# Huerto — ficha de Google Play
+# Huertecito — ficha de Google Play
 
-Estado: **publicable** · Paquete `es.iaen.huerto` · Versión 1.0 (versionCode 1) · Generado 2026-10-17
+Estado: **publicable** · Paquete `es.iaen.huerto` · Versión 1.0 (versionCode 1) · Generado 2026-10-27
 
 | Campo de Play Console | Valor |
 |---|---|
-| Nombre de la app (ES, ≤30) | Huerto |
-| App name (EN, ≤30) | Huerto |
+| Nombre de la app (ES, ≤30) | Huertecito |
+| App name (EN, ≤30) | Huertecito |
 | Idioma predeterminado | es-ES (más en-US) |
 | Categoría | Juegos › Simulación |
 | Etiquetas | Cultivo · relajado |
@@ -18,7 +18,7 @@ Estado: **publicable** · Paquete `es.iaen.huerto` · Versión 1.0 (versionCode 
 | Público objetivo | 13+ (no dirigido a niños; si se declara para familias aplica la política de Familias) |
 | Clasificación (IARC), pistas | Sin violencia. Apto para todos los públicos; si se declara para familias, aplica la política de Familias de Play. |
 | Código fuente | — |
-| AAB (subir a Play Console) | [`huerto.aab`](https://github.com/IAnMove/android-builds/releases/download/huerto-v1.0/huerto.aab) · 28.1 MB · SHA-256 `44a969c17fabe7a0f2b2e42804476bdff24ae060c277236facd3f2f50cdd1992` (Android App Bundle de release, firmado con la clave de subida del juego; target SDK 36, arm64-v8a) |
+| AAB (subir a Play Console) | [`huerto.aab`](https://github.com/IAnMove/android-builds/releases/download/huerto-v1.0/huerto.aab) · 28.1 MB · SHA-256 `bd3487b97728bc86112b1faa19261c73ca7fa5652d8dd1f2515a555464ae7f7d` (Android App Bundle de release, firmado con la clave de subida del juego; target SDK 36, arm64-v8a) |
 
 ## Descripción breve (ES, ≤80)
 
@@ -33,7 +33,7 @@ Dig, plant, water and harvest. Nine beds, neighbours with orders and puzzles.
 Un juego de cultivo tranquilo: vendes la cosecha o se la entregas a tus vecinos; el tiempo, los eventos del día y el nivel desbloquean semillas, terrenos y mejoras. Los cultivos siguen creciendo con la app cerrada.
 
 • Nueve bancales: Cava, planta, riega y cosecha con toques. Cada cultivo tiene su tiempo y su precio.
-• Vecinos: Marta, Domingo, Lola, Inés y Nico, con pedidos, gustos, visitas con decisiones, favores y regalos de amistad.
+• Vecinos: Marta, Domingo, Lola, Inés y Nico, con pedidos, gustos y una escena con cada pedido de su historia. Se los llevas en moto por el barrio.
 • Semilleros: Puzles de encajar piezas con tres dificultades y pistas, para jugar mientras crecen los cultivos.
 • Restauración: Reconstruye el invernadero y el rincón vecinal, visibles al fondo del patio.
 • Recetario y álbum: Cinco recetas y cuatro colecciones con premios únicos.
@@ -51,7 +51,7 @@ Más juegos: https://iaen.es/android · X: @theinaog
 A calm farming game: sell your harvest or deliver it to your neighbours; time, daily events and your level unlock seeds, plots and upgrades. Crops keep growing while the app is closed.
 
 • Nine beds: Dig, plant, water and harvest with taps. Every crop has its own time and price.
-• Neighbours: Marta, Domingo, Lola, Inés and Nico, with orders, tastes, visits with choices, favours and friendship gifts.
+• Neighbours: Marta, Domingo, Lola, Inés and Nico, with orders, tastes and a scene with every story order. You deliver them by motorbike through the neighbourhood.
 • Seed trays: Piece-fitting puzzles with three difficulties and hints, to play while the crops grow.
 • Restoration: Rebuild the greenhouse and the neighbours' corner, visible at the back of the patio.
 • Recipes and album: Five recipes and four collections with unique rewards.

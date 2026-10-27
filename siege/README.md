@@ -1,6 +1,6 @@
 # Asedio — ficha de Google Play
 
-Estado: **sin APK** · Paquete `es.iaen.siege` · Versión 0.1.0 (versionCode 1) · Generado 2026-10-17
+Estado: **sin APK** · Paquete `es.iaen.siege` · Versión 0.1.0 (versionCode 1) · Generado 2026-10-27
 
 > **Nombre provisional.** «Siege» no se puede usar en Play (marca registrada). Propuesta: **Asedio** / **Siege**. El paquete no cambia.
 

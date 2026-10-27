@@ -1,6 +1,6 @@
 # Gotic — ficha de Google Play
 
-Estado: **publicable** · Paquete `es.iaen.gotic` · Versión 0.1 (versionCode 1) · Generado 2026-10-17
+Estado: **publicable** · Paquete `es.iaen.gotic` · Versión 0.1 (versionCode 1) · Generado 2026-10-27
 
 | Campo de Play Console | Valor |
 |---|---|
@@ -18,7 +18,7 @@ Estado: **publicable** · Paquete `es.iaen.gotic` · Versión 0.1 (versionCode 1
 | Público objetivo | 13+ (no dirigido a niños; si se declara para familias aplica la política de Familias) |
 | Clasificación (IARC), pistas | Violencia fantástica muy leve (lobos que dispersan ovejas, sombras que embisten). Sin sangre. |
 | Código fuente | — |
-| AAB (subir a Play Console) | [`gotic.aab`](https://github.com/IAnMove/android-builds/releases/download/gotic-v0.1/gotic.aab) · 27.4 MB · SHA-256 `65bfb18f66fc41acffa6962ee8be57f5e242ea592dca949f5baf7f2011774b04` (Android App Bundle de release, firmado con la clave de subida del juego; target SDK 36, arm64-v8a) |
+| AAB (subir a Play Console) | [`gotic.aab`](https://github.com/IAnMove/android-builds/releases/download/gotic-v0.1/gotic.aab) · 45.5 MB · SHA-256 `f2023d1eb8b477b9b0c3cd322d260550f8be76b4664b1c5673c52243a7ae8cf0` (Android App Bundle de release, firmado con la clave de subida del juego; target SDK 36, arm64-v8a) |
 
 ## Descripción breve (ES, ≤80)
 

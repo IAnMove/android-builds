@@ -1,6 +1,6 @@
 # Pesca — ficha de Google Play
 
-Estado: **publicable** · Paquete `es.iaen.pesca` · Versión 1.0 (versionCode 1) · Generado 2026-10-17
+Estado: **publicable** · Paquete `es.iaen.pesca` · Versión 1.0 (versionCode 1) · Generado 2026-10-27
 
 | Campo de Play Console | Valor |
 |---|---|

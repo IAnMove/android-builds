@@ -1,6 +1,6 @@
 # Sótano Infinito — ficha de Google Play
 
-Estado: **prototipo** · Paquete `es.iaen.isaac` · Versión 0.1.0 (versionCode 1) · Generado 2026-10-17
+Estado: **prototipo** · Paquete `es.iaen.isaac` · Versión 0.1.0 (versionCode 1) · Generado 2026-10-27
 
 > **Nombre provisional.** «Isaac Clone» no se puede usar en Play (marca registrada). Propuesta: **Sótano Infinito** / **Endless Basement**. El paquete no cambia.
 

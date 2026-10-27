@@ -1,13 +1,14 @@
-Real-time strategy with workers, buildings, metal and crystal, and a Mecha-Commander, the only mech piloted by a human: if it dies, you lose. Take it into the Xeno Caves and the game switches to first person: a procedural cave, slimy creatures, altars with upgrades and a Guardian as boss. The campaign splits Xenara into 18 sectors played by turns, with cards ('orbital shipments') that change every battle and a hive that advances while you decide.
+Real-time strategy with workers, buildings, metal and crystal, and a Mecha-Commander piloted by a human. Take it into the Xeno Caves and the game switches to first person: a procedural cave, slimy creatures, altars with upgrades and a Guardian as boss. The campaign splits Xenara into 18 sectors played in turns: you choose where to strike and with which cards ('orbital shipments'), and the hive announces its next move so you can get ahead of it. At the end the Xeno Queen awaits, shielded by her nests.
 
 • Touch RTS: Tap to select and command, drag the camera, pinch to zoom; building catalogue with costs.
 • First-person caves: Roguelike with expedition upgrades, loot, relics and a boss. The cave collapses when you leave.
-• Card campaign: 18 sectors, visible traits, up to 3 cards per assault, optional Ironman and autosave.
-• Synthesised music: Day, night, cave and boss ambiences generated in real time.
+• Card campaign: 18 sectors with visible traits, up to 3 cards per assault, defences, optional Ironman and autosave.
+• A hive that plans ahead: It announces its next attack or expansion, grows tougher the further you push from the bay and launches a final assault in every defence.
+• Spanish and English: Pick the language in Options or let it follow your device.
 
 – Landscape. Touch, keyboard and mouse.
 – Offline, no accounts, no ads.
-– Prototype in development; a web-only RTS version also exists.
+– In development: more art and balance tuning are on the way.
 
 Made by IAnMove with Godot Engine. No ads, no accounts, no internet connection.
 More games: https://iaen.es/android · X: @theinaog

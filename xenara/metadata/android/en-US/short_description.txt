@@ -1,1 +1,1 @@
-Robot RTS on a hostile planet, first-person roguelike caves and a card campaign.
+Robot RTS, first-person roguelike caves and a turn-based card campaign.

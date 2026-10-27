@@ -47,8 +47,8 @@
   },
   "apk": {
     "file": "gotic.aab",
-    "bytes": 28679234,
-    "sha256": "65bfb18f66fc41acffa6962ee8be57f5e242ea592dca949f5baf7f2011774b04",
+    "bytes": 47679783,
+    "sha256": "f2023d1eb8b477b9b0c3cd322d260550f8be76b4664b1c5673c52243a7ae8cf0",
     "release_url": "https://github.com/IAnMove/android-builds/releases/download/gotic-v0.1/gotic.aab"
   },
   "images": {
@@ -73,5 +73,5 @@
       ]
     }
   },
-  "generated": "2026-10-17"
+  "generated": "2026-10-27"
 }

@@ -1,6 +1,6 @@
 # Taberna — ficha de Google Play
 
-Estado: **sin APK** · Paquete `es.iaen.taberna` · Versión 0.1.0 (versionCode 1) · Generado 2026-10-17
+Estado: **sin APK** · Paquete `es.iaen.taberna` · Versión 0.1.0 (versionCode 1) · Generado 2026-10-27
 
 | Campo de Play Console | Valor |
 |---|---|

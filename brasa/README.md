@@ -1,6 +1,6 @@
 # Brasa — ficha de Google Play
 
-Estado: **publicable** · Paquete `es.iaen.brasa` · Versión 1.0 (versionCode 1) · Generado 2026-10-17
+Estado: **publicable** · Paquete `es.iaen.brasa` · Versión 1.0 (versionCode 1) · Generado 2026-10-27
 
 | Campo de Play Console | Valor |
 |---|---|
@@ -18,7 +18,7 @@ Estado: **publicable** · Paquete `es.iaen.brasa` · Versión 1.0 (versionCode 1
 | Público objetivo | 13+ (no dirigido a niños; si se declara para familias aplica la política de Familias) |
 | Clasificación (IARC), pistas | Violencia fantástica leve (sombras abstractas, sin sangre). Hay botones «REVIVIR (ver anuncio)» y «DUPLICAR BRASAS (ver anuncio)» que hoy conceden la recompensa sin mostrar ningún anuncio (no hay SDK). Revisar antes de declarar «sin anuncios». |
 | Código fuente | — |
-| AAB (subir a Play Console) | [`brasa.aab`](https://github.com/IAnMove/android-builds/releases/download/brasa-v1.0/brasa.aab) · 27.0 MB · SHA-256 `73fc88f43559b9883ccb634accfca6138894386922b04c4d09fd385bcfff5aa1` (Android App Bundle de release, firmado con la clave de subida del juego; target SDK 36, arm64-v8a) |
+| AAB (subir a Play Console) | [`brasa.aab`](https://github.com/IAnMove/android-builds/releases/download/brasa-v1.0/brasa.aab) · 27.0 MB · SHA-256 `0b74517c7b57e6604274885192de798deedb61a21837829d69f450b36812adc8` (Android App Bundle de release, firmado con la clave de subida del juego; target SDK 36, arm64-v8a) |
 
 ## Descripción breve (ES, ≤80)
 

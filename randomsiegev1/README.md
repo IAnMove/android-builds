@@ -1,6 +1,6 @@
 # Random Siege v1 — ficha de Google Play
 
-Estado: **duplicado** · Paquete `es.iaen.randomsiegev1` · Versión 0.1.0 (versionCode 1) · Generado 2026-10-17
+Estado: **duplicado** · Paquete `es.iaen.randomsiegev1` · Versión 0.1.0 (versionCode 1) · Generado 2026-10-27
 
 | Campo de Play Console | Valor |
 |---|---|

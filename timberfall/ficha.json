@@ -47,8 +47,8 @@
   },
   "apk": {
     "file": "timberfall.aab",
-    "bytes": 39704186,
-    "sha256": "395931ef36bc648df4f6e5b6b372efed393a747ea4cc07a51276795f2d5b3a72",
+    "bytes": 39704248,
+    "sha256": "7385d876263d01eb6654eafbad3f0eaf3ca19b9677e1247ef95bca0e6fb576e0",
     "release_url": "https://github.com/IAnMove/android-builds/releases/download/timberfall-v0.1.0/timberfall.aab"
   },
   "images": {
@@ -73,5 +73,5 @@
       ]
     }
   },
-  "generated": "2026-10-17"
+  "generated": "2026-10-27"
 }
