@@ -7,10 +7,6 @@ juego, etiqueta `<slug>-v<versión>`).
 
 Autor: IAnMove · https://iaen.es/android · X: https://x.com/theinaog · Correo de contacto: contacto@iaen.es
 
-**Para publicar** (persona o agente): empieza por [`GROK.md`](GROK.md) (dónde está todo y qué hacer). Estándares:
-[`FICHA.md`](FICHA.md) (cómo tiene que quedar cada ficha, idiomas y ASO) y [`WEB.md`](WEB.md) (la página de cada app
-y juego en iaen.es). Estado de todas las apps y juegos: [`ESTADO.md`](ESTADO.md). Validador: `tools/check_store.py`.
-
 | Juego | Paquete | Estado | Categoría | AAB |
 |---|---|---|---|---|
 | [Brasa](brasa/README.md) | `es.iaen.brasa` | publicable | Juegos › Acción | [AAB 27 MB](https://github.com/IAnMove/android-builds/releases/download/brasa-v1.0/brasa.aab) |
