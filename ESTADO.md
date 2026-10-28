@@ -36,7 +36,7 @@ la de Gifea no lo dice; Lupa dice que la interfaz está en 20 idiomas. Gifea y A
 
 | App | Carpeta | Paquete | Estado | Ojo con |
 |---|---|---|---|---|
-| Lupa | lupa | es.iaen.lupa | **lista** salvo rehacer el AAB (`./gradlew bundleRelease`: el de `store/release/` es anterior al «Acerca de» nuevo) | permiso de cámara |
+| Lupa | lupa | es.iaen.lupa | **lista para subir**: AAB rehecho el 2026-10-28 en `store/release/lupa-1.0-1.aab` (firma de subida comprobada) | permiso de cámara |
 | Gifea | gifcreator | es.iaen.gifea | ficha hecha | — |
 | Aligera | image-video-compresor | es.iaen.aligera | ficha hecha | — |
 | FotoFácil | photo-editor | es.iaen.fotofacil | ficha hecha | — |
