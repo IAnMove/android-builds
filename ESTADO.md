@@ -29,6 +29,11 @@ Falta en todas menos Lupa (paso A de `GROK.md`, `run_grok.sh`): interfaz en 20 i
 español e inglés; las fichas lo dicen, y hay que quitar esa frase cuando se traduzca), icono e imagen destacada,
 capturas del emulador, AAB firmado y página web.
 
+Diferencias entre fichas que hay que igualar al traducir las interfaces: las de Sonómetro, Duermevela, FotoFácil,
+StikerMaker, Corregir y Explora dicen en los idiomas extranjeros que la app está en español (o español e inglés);
+la de Gifea no lo dice; Lupa dice que la interfaz está en 20 idiomas. Gifea y Aligera no llevan la frase
+«Apache 2.0» (las demás sí: ver el punto 4 de arriba).
+
 | App | Carpeta | Paquete | Estado | Ojo con |
 |---|---|---|---|---|
 | Lupa | lupa | es.iaen.lupa | **lista para subir** | permiso de cámara |
