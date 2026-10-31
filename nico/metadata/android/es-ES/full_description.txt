@@ -1,0 +1,21 @@
+Roguelike de pesadillas: Nico duerme con el farol encendido y su luz despierta todo lo que dormía en la casa. Baja hasta el fondo del sueño para despertar.
+
+Nico le tiene miedo a la oscuridad. Esta noche el sueño se lo lleva antes de apagar el farol y la luz se cuela dentro: muñecas, juguetes, sábanas con ojos y cosas que viven debajo de la cama cobran vida. El farol es su luz y su arma, y la única forma de despertar es llegar al fondo… donde espera El Coco.
+
+Cada partida genera pisos nuevos con salas de tesoro, tienda, secretas, de reto y de jefe. Se juega con dos joysticks: uno para moverte y otro para disparar la luz.
+
+• Luz contra sombra: Tus disparos son luz: la sala está en penumbra mientras luchas y se ilumina al limpiarla.
+• Siete capas de sueño: Sótano, Pasillos, Desván, Cuarto de Juguetes, Debajo de la Cama, la habitación de Nico y el Sueño profundo, que se abre al vencer tres veces al Coco.
+• 32 enemigos y 18 jefes: Muñecas, soldaditos de plomo, sábanas fantasma, cajas sorpresa y El Coco, que tiene tres fases.
+• 84 objetos y 25 sinergias: Objetos que se combinan, 8 armas, cromos de sueño, caramelos de sabor secreto y tesoros del bolsillo del pijama.
+• Tratos y cinco finales: La Sombra ofrece poder a cambio de un corazón; La Ventana regala un objeto a quien vence a un jefe sin recibir daño. Cómo juegas decide el final.
+• Seis personajes: Nico, Rex, Luna, Blaze, Mía y Teo, cada uno con su habilidad.
+• Para rejugar: 37 logros, 8 retos, sueños lúcidos (reglas más duras a cambio de más monedas), tienda de 18 mejoras permanentes, 3 dificultades, semillas y semilla diaria.
+• Móvil y mando: Joysticks flotantes en la pantalla, botón Atrás integrado y compatible con mando.
+
+– Apaisado. Español e inglés.
+– Sin conexión, sin cuentas, sin anuncios.
+– Un cuento de miedo para valientes: las pesadillas tienen forma de objetos de casa.
+
+Hecho por IAnMove con Godot Engine. Sin anuncios, sin cuentas, sin conexión a internet.
+Más juegos: https://iaen.es/android · X: @theinaog

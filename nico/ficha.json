@@ -1,0 +1,81 @@
+{
+  "slug": "nico",
+  "name": "Despierta, Nico",
+  "title": {
+    "es": "Despierta, Nico",
+    "en": "Wake Up, Nico"
+  },
+  "title_proposal": null,
+  "package": "es.iaen.nico",
+  "version_name": "0.1.0",
+  "version_code": 1,
+  "status": "prototipo",
+  "category": "Juegos › Acción",
+  "genre": {
+    "es": "Roguelike · pesadillas",
+    "en": "Roguelike · nightmares"
+  },
+  "orientation": "landscape",
+  "short_description": {
+    "es": "Roguelike de pesadillas: baja por el sueño de Nico con un farol y despierta",
+    "en": "Nightmare roguelike: carry a lantern down Nico's dream and wake up"
+  },
+  "full_description": {
+    "es": "Roguelike de pesadillas: Nico duerme con el farol encendido y su luz despierta todo lo que dormía en la casa. Baja hasta el fondo del sueño para despertar.\n\nNico le tiene miedo a la oscuridad. Esta noche el sueño se lo lleva antes de apagar el farol y la luz se cuela dentro: muñecas, juguetes, sábanas con ojos y cosas que viven debajo de la cama cobran vida. El farol es su luz y su arma, y la única forma de despertar es llegar al fondo… donde espera El Coco.\n\nCada partida genera pisos nuevos con salas de tesoro, tienda, secretas, de reto y de jefe. Se juega con dos joysticks: uno para moverte y otro para disparar la luz.\n\n• Luz contra sombra: Tus disparos son luz: la sala está en penumbra mientras luchas y se ilumina al limpiarla.\n• Siete capas de sueño: Sótano, Pasillos, Desván, Cuarto de Juguetes, Debajo de la Cama, la habitación de Nico y el Sueño profundo, que se abre al vencer tres veces al Coco.\n• 32 enemigos y 18 jefes: Muñecas, soldaditos de plomo, sábanas fantasma, cajas sorpresa y El Coco, que tiene tres fases.\n• 84 objetos y 25 sinergias: Objetos que se combinan, 8 armas, cromos de sueño, caramelos de sabor secreto y tesoros del bolsillo del pijama.\n• Tratos y cinco finales: La Sombra ofrece poder a cambio de un corazón; La Ventana regala un objeto a quien vence a un jefe sin recibir daño. Cómo juegas decide el final.\n• Seis personajes: Nico, Rex, Luna, Blaze, Mía y Teo, cada uno con su habilidad.\n• Para rejugar: 37 logros, 8 retos, sueños lúcidos (reglas más duras a cambio de más monedas), tienda de 18 mejoras permanentes, 3 dificultades, semillas y semilla diaria.\n• Móvil y mando: Joysticks flotantes en la pantalla, botón Atrás integrado y compatible con mando.\n\n– Apaisado. Español e inglés.\n– Sin conexión, sin cuentas, sin anuncios.\n– Un cuento de miedo para valientes: las pesadillas tienen forma de objetos de casa.\n\nHecho por IAnMove con Godot Engine. Sin anuncios, sin cuentas, sin conexión a internet.\nMás juegos: https://iaen.es/android · X: @theinaog",
+    "en": "Nightmare roguelike: Nico sleeps with his lantern on, and its light wakes everything that slept in the house. Go down to the bottom of the dream to wake up.\n\nNico is afraid of the dark. Tonight sleep takes him before he can turn the lantern off, and the light seeps into the dream: dolls, toys, sheets with eyes and things that live under the bed come alive. The lantern is his light and his weapon, and the only way to wake up is to reach the bottom… where the Bogeyman waits.\n\nEvery run generates new floors with treasure, shop, secret, challenge and boss rooms. You play with two sticks: one to move and one to shoot the light.\n\n• Light against shadow: Your shots are light: the room is dim while you fight and lights up once you clear it.\n• Seven layers of dream: Basement, Hallways, Attic, Toy Room, Under the Bed, Nico's Bedroom and the Deep Dream, which opens after beating the Bogeyman three times.\n• 32 enemies and 18 bosses: Dolls, tin soldiers, ghost sheets, jack-in-the-boxes and the Bogeyman, who has three phases.\n• 84 items and 25 synergies: Items that combine, 8 weapons, dream cards, candies with a secret flavor and treasures from the pajama pocket.\n• Deals and five endings: The Shadow offers power in exchange for a heart; the Window gives an item to anyone who beats a boss without being hit. How you play decides the ending.\n• Six characters: Nico, Rex, Luna, Blaze, Mía and Teo, each with their own ability.\n• Built to replay: 37 achievements, 8 challenges, lucid dreams (harder rules for more coins), a shop with 18 permanent upgrades, 3 difficulties, seeds and a daily seed.\n• Phone and gamepad: Floating on-screen sticks, the Back button handled, and gamepad support.\n\n– Landscape. Spanish and English.\n– Offline, no accounts, no ads.\n– A scary story for the brave: the nightmares are shaped like household objects.\n\nMade by IAnMove with Godot Engine. No ads, no accounts, no internet connection.\nMore games: https://iaen.es/android · X: @theinaog"
+  },
+  "privacy_policy_url": "https://iaen.es/android/nico/privacy/",
+  "website": "https://iaen.es/android/nico/",
+  "contact_email": "contacto@iaen.es",
+  "developer": "IAnMove",
+  "x": "https://x.com/theinaog",
+  "source_url": null,
+  "ads": false,
+  "in_app_purchases": false,
+  "collects_data": false,
+  "internet_permission": false,
+  "target_sdk": 36,
+  "min_sdk": 24,
+  "architectures": [
+    "arm64-v8a"
+  ],
+  "signing": "AAB firmado con la clave de subida (upload) propia del juego; Play App Signing gestiona la clave de firma",
+  "target_audience": "13+ (no dirigido a niños; si se declara para familias aplica la política de Familias)",
+  "content_rating_hints": {
+    "es": "Violencia fantástica de dibujos animados contra monstruos con disparos de luz; un enemigo escupe baba roja que puede parecer sangre. Tratos con «corazón por objeto» y salas de sacrificio (vida a cambio de objeto). Probable PEGI 7-12; el cuestionario IARC lo responde quien publica.",
+    "en": "Cartoon fantasy violence against monsters with light projectiles; one enemy spits red goo that can look like blood. 'Heart for item' deals and sacrifice rooms (health for items). Likely PEGI 7-12; the IARC questionnaire is answered by the publisher."
+  },
+  "apk": {
+    "file": "nico.aab",
+    "bytes": 86197767,
+    "sha256": "580d642829adef7e2cf01f17cdd529f1f6a107390582950c4b36448d2670b2d6",
+    "release_url": "https://github.com/IAnMove/android-builds/releases/download/nico-v0.1.0/nico.aab"
+  },
+  "images": {
+    "icon": "metadata/android/en-US/images/icon.png",
+    "feature_graphic": "metadata/android/en-US/images/featureGraphic.png",
+    "phone_screenshots": {
+      "es": [
+        "metadata/android/es-ES/images/phoneScreenshots/1_debajo_cama.jpg",
+        "metadata/android/es-ES/images/phoneScreenshots/2_jefe.jpg",
+        "metadata/android/es-ES/images/phoneScreenshots/3_juguetes.jpg",
+        "metadata/android/es-ES/images/phoneScreenshots/4_aviso_capa.jpg",
+        "metadata/android/es-ES/images/phoneScreenshots/5_tienda.jpg",
+        "metadata/android/es-ES/images/phoneScreenshots/6_menu.jpg",
+        "metadata/android/es-ES/images/phoneScreenshots/7_intro.jpg",
+        "metadata/android/es-ES/images/phoneScreenshots/8_suenos_lucidos.jpg"
+      ],
+      "en": [
+        "metadata/android/en-US/images/phoneScreenshots/1_debajo_cama.jpg",
+        "metadata/android/en-US/images/phoneScreenshots/2_jefe.jpg",
+        "metadata/android/en-US/images/phoneScreenshots/3_juguetes.jpg",
+        "metadata/android/en-US/images/phoneScreenshots/4_aviso_capa.jpg",
+        "metadata/android/en-US/images/phoneScreenshots/5_tienda.jpg",
+        "metadata/android/en-US/images/phoneScreenshots/6_menu.jpg",
+        "metadata/android/en-US/images/phoneScreenshots/7_intro.jpg",
+        "metadata/android/en-US/images/phoneScreenshots/8_suenos_lucidos.jpg"
+      ]
+    }
+  },
+  "generated": "2026-10-31"
+}

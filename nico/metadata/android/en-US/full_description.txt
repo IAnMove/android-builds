@@ -1,0 +1,21 @@
+Nightmare roguelike: Nico sleeps with his lantern on, and its light wakes everything that slept in the house. Go down to the bottom of the dream to wake up.
+
+Nico is afraid of the dark. Tonight sleep takes him before he can turn the lantern off, and the light seeps into the dream: dolls, toys, sheets with eyes and things that live under the bed come alive. The lantern is his light and his weapon, and the only way to wake up is to reach the bottom… where the Bogeyman waits.
+
+Every run generates new floors with treasure, shop, secret, challenge and boss rooms. You play with two sticks: one to move and one to shoot the light.
+
+• Light against shadow: Your shots are light: the room is dim while you fight and lights up once you clear it.
+• Seven layers of dream: Basement, Hallways, Attic, Toy Room, Under the Bed, Nico's Bedroom and the Deep Dream, which opens after beating the Bogeyman three times.
+• 32 enemies and 18 bosses: Dolls, tin soldiers, ghost sheets, jack-in-the-boxes and the Bogeyman, who has three phases.
+• 84 items and 25 synergies: Items that combine, 8 weapons, dream cards, candies with a secret flavor and treasures from the pajama pocket.
+• Deals and five endings: The Shadow offers power in exchange for a heart; the Window gives an item to anyone who beats a boss without being hit. How you play decides the ending.
+• Six characters: Nico, Rex, Luna, Blaze, Mía and Teo, each with their own ability.
+• Built to replay: 37 achievements, 8 challenges, lucid dreams (harder rules for more coins), a shop with 18 permanent upgrades, 3 difficulties, seeds and a daily seed.
+• Phone and gamepad: Floating on-screen sticks, the Back button handled, and gamepad support.
+
+– Landscape. Spanish and English.
+– Offline, no accounts, no ads.
+– A scary story for the brave: the nightmares are shaped like household objects.
+
+Made by IAnMove with Godot Engine. No ads, no accounts, no internet connection.
+More games: https://iaen.es/android · X: @theinaog

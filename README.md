@@ -18,7 +18,7 @@ Autor: IAnMove · https://iaen.es/android · X: https://x.com/theinaog · Correo
 | [Via Lactea](vialactea/README.md) | `es.iaen.vialactea` | publicable | Juegos › Simulación | [AAB 27 MB](https://github.com/IAnMove/android-builds/releases/download/vialactea-v0.1/vialactea.aab) |
 | [Taberna](taberna/README.md) | `es.iaen.taberna` | sin APK | Juegos › Simulación | [AAB 878 MB](https://github.com/IAnMove/android-builds/releases/download/taberna-v0.1.0/taberna.aab) |
 | [Villa Bellota](villabellota/README.md) | `es.iaen.villabellota` | publicable | Juegos › Simulación | [AAB 27 MB](https://github.com/IAnMove/android-builds/releases/download/villabellota-v1.0/villabellota.aab) |
-| [Sótano Infinito](isaac/README.md) | `es.iaen.isaac` | prototipo | Juegos › Acción | [AAB 56 MB](https://github.com/IAnMove/android-builds/releases/download/isaac-v0.1.0/isaac.aab) |
+| [Despierta, Nico](nico/README.md) | `es.iaen.nico` | prototipo | Juegos › Acción | [AAB 82 MB](https://github.com/IAnMove/android-builds/releases/download/nico-v0.1.0/nico.aab) |
 | [Mini Vidas](minisims/README.md) | `es.iaen.minisims` | prototipo | Juegos › Simulación | [AAB 39 MB](https://github.com/IAnMove/android-builds/releases/download/minisims-v0.1/minisims.aab) |
 | [Random Siege](randomsiege/README.md) | `es.iaen.randomsiege` | prototipo | Juegos › Arcade | [AAB 40 MB](https://github.com/IAnMove/android-builds/releases/download/randomsiege-v0.1.0/randomsiege.aab) |
 | [Random Siege v1](randomsiegev1/README.md) | `es.iaen.randomsiegev1` | duplicado | Juegos › Arcade | [AAB 40 MB](https://github.com/IAnMove/android-builds/releases/download/randomsiegev1-v0.1.0/randomsiegev1.aab) |
@@ -36,7 +36,7 @@ Estados: **publicable** (listo salvo lo pendiente abajo), **prototipo** (funcion
   la app en Play Console hay que aceptar Play App Signing. Paquetes definitivos `es.iaen.<slug>`, target SDK 36 (configurado en el preset), versionCode el del preset de cada juego.
 - Correo de contacto público: contacto@iaen.es.
 - Con una cuenta personal nueva hace falta una prueba cerrada con 12 probadores durante 14 días por cada app.
-- Los juegos con **nombre provisional** (Isaac Clone, Mini Sims, Factorio Clone) deben cambiar de nombre: la
+- Los juegos con **nombre provisional** (Mini Sims, Factorio Clone) deben cambiar de nombre: la
   propuesta está en su ficha.
 - Las pistas de clasificación por edades son orientativas: el cuestionario IARC lo responde el desarrollador.
 
